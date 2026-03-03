@@ -2,18 +2,16 @@ name: Hot News Crawler
 
 on:
   schedule:
-    # 我们使用的是 github 官方提供的资源来进行的推送，而每个账号的资源是限额的，为了不被官方判定为滥用而面临封号的风险，不建议比半小时更低
-    - cron: "0 * * * *" # 每小时整点运行一次(实际有偏差) 或者 "*/30 * * * *" (每半小时执行一次) 或者 "*/30 0-14 * * *"(每天早上 8 点到晚上 10 点期间，每半小时运行一次)
+    # 默认每小时整点运行一次（GitHub Actions 的 cron 是 UTC 时间，实际可能和你本地时区不一样）
+    - cron: "0 * * * *"
   workflow_dispatch:
 
-# 添加权限设置
 permissions:
   contents: write
 
 jobs:
   crawl:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
@@ -31,23 +29,21 @@ jobs:
 
       - name: Verify required files
         run: |
-          echo "🔍 检查必需的配置文件..."
-
+          echo "检查必需的配置文件..."
           if [ ! -f config/config.yaml ]; then
             echo "❌ 错误: config/config.yaml 文件不存在"
             echo "请参考项目文档创建配置文件"
             exit 1
           fi
-
           if [ ! -f config/frequency_words.txt ]; then
             echo "❌ 错误: config/frequency_words.txt 文件不存在"
             echo "请参考项目文档创建频率词配置文件"
             exit 1
           fi
-
           echo "✅ 配置文件检查通过"
 
-      - name: Run crawler
+      # ① 原来的：抓取 + 文字推送
+      - name: Run crawler (send text notifications)
         env:
           FEISHU_WEBHOOK_URL: ${{ secrets.FEISHU_WEBHOOK_URL }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
@@ -56,6 +52,33 @@ jobs:
           WEWORK_WEBHOOK_URL: ${{ secrets.WEWORK_WEBHOOK_URL }}
           GITHUB_ACTIONS: true
         run: python main.py
+
+      # ② 新增：生成静态 API + 图片（img/news.jpg）
+      - name: Generate api + image (api/trends.json & img/news.jpg)
+        env:
+          GITHUB_ACTIONS: true
+        run: python main.py --generate-json
+
+      # ③ 新增：把 img/news.jpg 发到 Telegram
+      - name: Send image to Telegram (news.jpg)
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          if [ -z "${TELEGRAM_BOT_TOKEN}" ] || [ -z "${TELEGRAM_CHAT_ID}" ]; then
+            echo "Telegram secrets not set, skip."
+            exit 0
+          fi
+
+          if [ ! -f "img/news.jpg" ]; then
+            echo "img/news.jpg not found, skip."
+            exit 0
+          fi
+
+          curl -sS -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendPhoto" \
+            -F chat_id="${TELEGRAM_CHAT_ID}" \
+            -F photo=@img/news.jpg \
+            -F caption="TrendRadar 热点图（自动生成）"
 
       - name: Commit and push if changes
         run: |
