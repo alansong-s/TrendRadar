@@ -1,8 +1,20 @@
+# Z. 全局过滤（这些会对所有栏目生效）
+!课程
+!培训
+!广告
+!招聘
+!带单
+!开户链接
+!博彩
+!预测稳赚
+!二手
+!贴膜
+!翻新
+!回收
+
 # A. AI
 OpenAI
 ChatGPT
-GPT-4
-GPT-5
 Anthropic
 Claude
 Gemini
@@ -13,29 +25,38 @@ Llama
 Mistral
 Sora
 DALL·E
-+发布
-!课程
-!培训
-!广告
-!招聘
+大模型
+模型
+LLM
+多模态
+agent
+智能体
+推理
+对齐
+微调
+fine-tune
+LoRA
 
-# B.  GitHub
+# B. 开源项目
 GitHub
 开源
+开源项目
 open source
+Hugging Face
+Weights
+checkpoint
+模型权重
 repo
 repository
+release
+vLLM
+llama.cpp
+LangChain
+LlamaIndex
 RAG
-Agent
 MCP
 Transformer
 diffusion
-LLM
-+发布
-!课程
-!培训
-!广告
-!招聘
 
 # C. 电子产品
 Apple
@@ -53,12 +74,18 @@ OPPO
 vivo
 一加
 OnePlus
-+发布
-!维修
-!二手
-!贴膜
-!翻新
-!回收
+发布会
+新品
+上手
+评测
+体验
+固件
+系统更新
+iOS
+Android
+骁龙
+天玑
+麒麟
 
 # D. 半导体
 NVIDIA
@@ -73,11 +100,18 @@ Qualcomm
 TSMC
 ASML
 HBM
-+芯片
-!二手
-!维修
+半导体
+芯片
+晶圆
+制程
+nm
+EUV
+先进封装
+GPU
+CPU
+NPU
 
-# E. 经济 
+# E. 经济
 美联储
 Fed
 FOMC
@@ -86,6 +120,8 @@ Powell
 CPI
 PCE
 GDP
+非农
+失业率
 通胀
 加息
 降息
@@ -95,6 +131,7 @@ GDP
 道指
 美债
 国债
+收益率
 美元
 黄金
 金价
@@ -104,18 +141,15 @@ GDP
 BTC
 以太坊
 ETH
-!带单
-!开户链接
-!博彩
-!预测稳赚
 
-# F. 政治 
+# F. 政治
 美国大选
 election
 Trump
 特朗普
 Biden
 拜登
+白宫
 国会
 Congress
 制裁
@@ -133,17 +167,20 @@ Gaza
 Iran
 伊朗
 台海
-!八卦
-!绯闻
-!吃瓜
+北约
+NATO
+联合国
 
-# G. 网络安全 
+# G. 网络安全
 CVE
+CVE-
 0day
 零日
 漏洞
 exploit
 RCE
+补丁
+patch
 勒索
 ransomware
 数据泄露
@@ -152,8 +189,8 @@ leak
 backdoor
 供应链
 supply chain
+供应链攻击
+APT
 CISA
 NVD
 !教程
-!培训
-!广告
