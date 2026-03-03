@@ -3661,7 +3661,7 @@ def generate_static_api_files(analyzer: "NewsAnalyzer"):
     ) = generate_api_data(analyzer)
     stats = select_titles_balanced(stats, total_limit=MAX_HOT_NEWS, per_group_limit=MAX_PER_GROUP)
     # ✅ 新增：全局去重 + 全局最多 20 条（limit 可由环境变量 MAX_HOT_NEWS 控制）
-    stats = dedupe_and_limit_stats(stats, limit=MAX_HOT_NEWS)
+    stats = select_titles_balanced(stats, total_limit=MAX_HOT_NEWS, per_group_limit=MAX_PER_GROUP)
 
     # ✅ 新增：让写入的 api_data 也同步成精简后的 stats（否则 api/trends.json 还是原来的全量）
     api_data["trends"] = []
