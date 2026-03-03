@@ -202,62 +202,90 @@ def clean_title(title: str) -> str:
     cleaned_title = re.sub(r"\s+", " ", cleaned_title)
     cleaned_title = cleaned_title.strip()
     return cleaned_title
-# ====== 报告精简配置（可由 Actions 环境变量控制）======
+
+# ====== 报告精简配置（由 Actions 环境变量控制）======
 MAX_HOT_NEWS = int(os.environ.get("MAX_HOT_NEWS", "20"))
+MAX_PER_GROUP = int(os.environ.get("MAX_PER_GROUP", "4"))
 REPORT_TITLE = os.environ.get("REPORT_TITLE", "日报")
 
 def _normalize_for_dedupe(title: str) -> str:
-    """
-    用于跨平台去重：保留中英文与数字，去掉空格和常见标点，统一大小写。
-    """
+    """跨平台去重：统一大小写、去空白、去常见标点。"""
     if not isinstance(title, str):
         title = str(title)
     t = title.strip().lower()
-    # 去掉空白
     t = re.sub(r"\s+", "", t)
-    # 去掉常见中英文标点（但保留中文/字母/数字）
     t = re.sub(r"[`~!@#$%^&*()_\-+=\[\]{}\\|;:'\",.<>/?！￥…（）—【】、；：‘’“”，。？]+", "", t)
     return t
 
-def dedupe_and_limit_stats(stats: List[Dict], limit: int = 20) -> List[Dict]:
+def select_titles_balanced(stats: list, total_limit: int = 20, per_group_limit: int = 4) -> list:
     """
-    对 report stats 做“全局去重 + 全局最多 limit 条”。
-    - stats: 形如 [{'word':..., 'titles':[{'title':..., 'url':..., ...}, ...]}, ...]
-    - 返回一个新的 stats（可能会删掉没有 title 的分组）
+    目标：每个栏目(每个stat)先取最热的几条，轮流取，直到总共 total_limit 条；全局去重；每组最多 per_group_limit 条。
+    stats 结构：[{ "word":..., "count":..., "titles":[{"title":...}, ...] }, ...]
     """
+    if not stats or total_limit <= 0:
+        return []
+
+    # 只考虑有 titles 的栏目
+    valid = []
+    for s in stats:
+        titles = s.get("titles") or []
+        if titles:
+            valid.append(s)
+
+    if not valid:
+        return []
+
+    # 轮询指针 / 每组已取数
+    idx = [0] * len(valid)
+    taken_per_group = [0] * len(valid)
+
     seen = set()
-    kept_total = 0
-    new_stats = []
+    out = []
+    total_taken = 0
 
-    for stat in stats:
-        titles = stat.get("titles", []) or []
-        kept_titles = []
-        for item in titles:
-            if kept_total >= limit:
+    progressed = True
+    while total_taken < total_limit and progressed:
+        progressed = False
+
+        for gi, s in enumerate(valid):
+            if total_taken >= total_limit:
                 break
-            raw_title = item.get("title", "")
-            key = _normalize_for_dedupe(raw_title)
-            if not key:
+            if taken_per_group[gi] >= per_group_limit:
                 continue
-            if key in seen:
-                continue
-            seen.add(key)
-            kept_titles.append(item)
-            kept_total += 1
 
-        if kept_titles:
-            new_stat = dict(stat)
-            new_stat["titles"] = kept_titles
-            # 如果有 count 字段，顺便同步一下（不确定你版本里字段名，安全起见做兼容）
-            if "count" in new_stat:
-                new_stat["count"] = len(kept_titles)
-            new_stats.append(new_stat)
+            titles = s.get("titles") or []
+            # 找到该组下一个“未重复”的标题
+            while idx[gi] < len(titles):
+                item = titles[idx[gi]]
+                idx[gi] += 1
 
-        if kept_total >= limit:
-            break
+                key = _normalize_for_dedupe(item.get("title", ""))
+                if not key or key in seen:
+                    continue
+
+                seen.add(key)
+                out.append((gi, item))
+                taken_per_group[gi] += 1
+                total_taken += 1
+                progressed = True
+                break
+
+    # 组装回 stats：保留原顺序，只是 titles 被截断且 count 同步
+    new_titles_by_group = [[] for _ in range(len(valid))]
+    for gi, item in out:
+        new_titles_by_group[gi].append(item)
+
+    new_stats = []
+    for gi, s in enumerate(valid):
+        kept = new_titles_by_group[gi]
+        if not kept:
+            continue
+        ns = dict(s)
+        ns["titles"] = kept
+        ns["count"] = len(kept)  # 重要：不然标题处还是显示旧的“xx条”
+        new_stats.append(ns)
 
     return new_stats
-
 
 def ensure_directory_exists(directory: str):
     """确保目录存在"""
@@ -3631,6 +3659,7 @@ def generate_static_api_files(analyzer: "NewsAnalyzer"):
         failed_ids,
         id_to_name,
     ) = generate_api_data(analyzer)
+    stats = select_titles_balanced(stats, total_limit=MAX_HOT_NEWS, per_group_limit=MAX_PER_GROUP)
     # ✅ 新增：全局去重 + 全局最多 20 条（limit 可由环境变量 MAX_HOT_NEWS 控制）
     stats = dedupe_and_limit_stats(stats, limit=MAX_HOT_NEWS)
 
