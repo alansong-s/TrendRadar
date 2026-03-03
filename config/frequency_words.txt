@@ -1,45 +1,173 @@
+# =========================
+# A. AI / 大模型（产品、模型、公司动态）
+# =========================
+OpenAI
+ChatGPT
+GPT-4
+GPT-5
+Anthropic
+Claude
+Gemini
+Google
 DeepSeek
-梁文锋
+Qwen
+Llama
+Mistral
+Sora
+DALL·E
++发布
+!课程
+!培训
+!广告
+!招聘
 
-英伟达
+# =========================
+# B. AI 开源项目 / GitHub（模型权重、代码、框架、工具）
+# =========================
+GitHub
+开源
+open source
+repo
+repository
+RAG
+Agent
+MCP
+Transformer
+diffusion
+LLM
++发布
+!课程
+!培训
+!广告
+!招聘
+
+# =========================
+# C. 电子产品（手机/电脑/穿戴/发布会）
+# =========================
+Apple
+iPhone
+iPad
+MacBook
+Samsung
+Galaxy
+Pixel
+华为
+Mate
+小米
+Xiaomi
+OPPO
+vivo
+一加
+OnePlus
++发布
+!维修
+!二手
+!贴膜
+!翻新
+!回收
+
+# =========================
+# D. 半导体 / 芯片 / 供应链
+# =========================
 NVIDIA
-黄仁勋
+英伟达
+AMD
+Intel
+英特尔
+ARM
+高通
+Qualcomm
+台积电
+TSMC
+ASML
+HBM
++芯片
+!二手
+!维修
 
-自动驾驶
-
-
-机器人
-
-国中国
-
-谷歌
-google
-gemini
-
-chatgpt
-openai
-
-金价
-
-黄金
-+价格
-
-美债
-
+# =========================
+# E. 经济 / 宏观 / 市场（利率、通胀、股债汇、黄金油、加密）
+# =========================
+美联储
+Fed
+FOMC
+鲍威尔
+Powell
+CPI
+PCE
+GDP
+通胀
+加息
+降息
 美股
-
-美国
-日本
-韩国
-
-芯片
-光刻机
-
-科技
-
+纳指
+标普
+道指
+美债
+国债
 美元
-+指数
+黄金
+金价
+原油
+油价
+比特币
+BTC
+以太坊
+ETH
+!带单
+!开户链接
+!博彩
+!预测稳赚
 
+# =========================
+# F. 政治 / 地缘（选举、制裁、关税、冲突）
+# =========================
+美国大选
+election
+Trump
 特朗普
-
+Biden
+拜登
+国会
+Congress
+制裁
+sanctions
+关税
+tariff
+俄乌
+乌克兰
+Russia
+俄罗斯
+Israel
+以色列
+Gaza
+加沙
+Iran
 伊朗
+台海
+!八卦
+!绯闻
+!吃瓜
+
+# =========================
+# G. 网络安全 / 漏洞 / 数据泄露
+# =========================
+CVE
+0day
+零日
+漏洞
+exploit
+RCE
+勒索
+ransomware
+数据泄露
+leak
+后门
+backdoor
+供应链
+supply chain
+CISA
+NVD
+!教程
+!培训
+!广告
