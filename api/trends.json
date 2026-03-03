@@ -1,1454 +1,848 @@
 {
-  "generated_at": "2025-10-13T20:53:39.957201+08:00",
-  "total_titles_processed": 1713,
+  "generated_at": "2026-03-03T15:55:59.050059+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 92,
+      "keyword_group": "伊朗",
+      "match_count": 51,
       "titles": [
         {
-          "title": "自扇耳光?特朗普关税战求和中国",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345729&amp;topic_name=%E8%87%AA%E6%89%87%E8%80%B3%E5%85%89%3F%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E%E6%88%98%E6%B1%82%E5%92%8C%E4%B8%AD%E5%9B%BD",
+          "title": "伊朗称摧毁巴林美空军基地大楼",
+          "url": "https://www.toutiao.com/trending/7612878374608014857/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
+          "title": "【早报】油价飙涨！伊朗：将打击所有试图通过霍尔木兹海峡的船只；石油基金LOF今日停牌1小时",
+          "url": "https://www.cls.cn/detail/2300496",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
+          "title": "美以伊战争最新动态｜伊朗女子小学遇难学生葬礼",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
+          "title": "伊朗放大招!洲际导弹出鞘",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351282&amp;topic_name=%E4%BC%8A%E6%9C%97%E6%94%BE%E5%A4%A7%E6%8B%9B%21%E6%B4%B2%E9%99%85%E5%AF%BC%E5%BC%B9%E5%87%BA%E9%9E%98",
           "source": "贴吧",
           "ranks": [
-            5,
-            2,
-            4,
-            9,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时22分 ~ 20时53分]"
-        },
-        {
-          "title": "关于中国，特朗普和万斯嘴软了",
-          "url": "https://news.ifeng.com/c/8nPX08vMcSK",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时01分 ~ 15时26分]"
-        },
-        {
-          "title": "特朗普一条帖子引发币圈史最大惨案",
-          "url": "https://www.toutiao.com/trending/7560309088249187890/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            7,
-            4,
-            5,
-            6,
-            9,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 07时22分]"
-        },
-        {
-          "title": "伦敦白银市场出现流动性危机 交易员担忧特朗普政府酝酿另一个大招",
-          "url": "https://www.cls.cn/detail/2166669",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 07时22分]"
-        },
-        {
-          "title": "特朗普主持的加沙峰会：谁将参会、有啥议程",
-          "url": "https://news.ifeng.com/c/8nOQrANbfKl",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 07时22分]"
-        },
-        {
-          "title": "特朗普正满世界为美国寻找重稀土矿",
-          "url": "https://www.toutiao.com/trending/7560269790955179556/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            21,
-            16,
-            26,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 07时22分]"
-        },
-        {
-          "title": "孙女：你有啥梦想？特朗普：我想当“伟大的总统”",
-          "url": "https://v.ifeng.com/c/8nOIkkiNmxG",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 07时22分]"
-        },
-        {
-          "title": "美国网友热议特朗普行为",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E7%BD%91%E5%8F%8B%E7%83%AD%E8%AE%AE%E7%89%B9%E6%9C%97%E6%99%AE%E8%A1%8C%E4%B8%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29,
-            20,
-            18,
-            19,
-            16,
-            21,
-            23,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时28分 ~ 13时27分]"
-        },
-        {
-          "title": "被媒体问及是否会收回关于中国的话，特朗普急了：你们都是假新闻",
-          "url": "https://v.ifeng.com/c/8nPy3kqkstT",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时32分 ~ 20时53分]"
-        },
-        {
-          "title": "中东股市收盘播报｜中东股市周末归来补跌，半导体公司领跌以色列个股，没能逃过全球金融市场周五被特朗普血洗的行情",
-          "url": "https://wallstreetcn.com/livenews/2986328",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            5,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时21分 ~ 06时23分]"
-        },
-        {
-          "title": "泽连斯基同特朗普通电话 继续讨论加强乌防空系统",
-          "url": "https://wallstreetcn.com/livenews/2986324",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            7,
-            9,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 06时23分]"
-        },
-        {
-          "title": "特朗普前往中东参加“和平峰会”，但关键双方都不出席",
-          "url": "https://news.ifeng.com/c/8nPjNVJXMtq",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时40分 ~ 17时33分]"
-        },
-        {
-          "title": "特朗普最新表态：若俄乌冲突无法解决 或向乌克兰提供“战斧”",
-          "url": "https://www.cls.cn/detail/2166955",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时22分 ~ 16时36分]"
-        },
-        {
-          "title": "特朗普释放信号：愿与中国达成协议",
-          "url": "https://www.toutiao.com/trending/7560501650729733674/",
-          "source": "今日头条",
-          "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 11时22分]"
+          "appearance_count": 1,
+          "time_info": "15时55分"
         },
         {
-          "title": "特朗普称可能供乌战斧",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%8F%AF%E8%83%BD%E4%BE%9B%E4%B9%8C%E6%88%98%E6%96%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时26分 ~ 16时36分]"
-        },
-        {
-          "title": "特朗普手握“战斧”威胁普京",
-          "url": "https://news.ifeng.com/c/8nPCaFawghG",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 11时22分]"
-        },
-        {
-          "title": "特朗普：若俄乌冲突无法解决，可能会供乌“战斧”",
-          "url": "https://news.ifeng.com/c/8nPCaFawghG",
-          "source": "凤凰网",
+          "title": "美以袭击伊朗已超 60 小时，当前局势如何？有哪些值得关注的信息？",
+          "url": "https://www.zhihu.com/question/2011946515493512924",
+          "source": "知乎",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时22分"
+          "time_info": "15时55分"
         },
         {
-          "title": "美国总统特朗普：这是伟大的一天，这是全新的开始。",
-          "url": "https://flash.jin10.com/detail/20251013161654773800",
-          "source": "金十数据",
+          "title": "伊朗称击中巴林美军基地指挥部大楼",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%87%BB%E4%B8%AD%E5%B7%B4%E6%9E%97%E7%BE%8E%E5%86%9B%E5%9F%BA%E5%9C%B0%E6%8C%87%E6%8C%A5%E9%83%A8%E5%A4%A7%E6%A5%BC",
+          "source": "百度热搜",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时36分"
+          "time_info": "15时55分"
         },
         {
-          "title": "美国总统特朗普：哈马斯将遵守解除武装计划。战争结束了。",
-          "url": "https://flash.jin10.com/detail/20251013161646636800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时36分"
-        },
-        {
-          "title": "埃及总统府：美国总统特朗普与埃及总统塞西通电话。",
-          "url": "https://flash.jin10.com/detail/20251013171642816800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时33分"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：在美国总统特朗普的领导下，和平将比人们想象的来得更快。",
-          "url": "https://flash.jin10.com/detail/20251013185303574800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时22分"
-        },
-        {
-          "title": "特朗普：与以色列总理内塔尼亚胡的关系良好。内塔尼亚胡做得“非常出色”。",
-          "url": "https://flash.jin10.com/detail/20251013051159612800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "内塔尼亚胡和特朗普均表示，“加沙战争已结束”",
-          "url": "https://news.ifeng.com/c/8nQ9kp93yNC",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时32分 ~ 20时53分]"
-        },
-        {
-          "title": "泽连斯基同特朗普通电话 继续讨论加强乌防空系统",
-          "url": "https://flash.jin10.com/detail/20251012213722708800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 04时27分]"
-        },
-        {
-          "title": "130万美军欠薪特朗普阅兵狂欢",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23130%E4%B8%87%E7%BE%8E%E5%86%9B%E6%AC%A0%E8%96%AA%E7%89%B9%E6%9C%97%E6%99%AE%E9%98%85%E5%85%B5%E7%8B%82%E6%AC%A2%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26pos%3D16%26realpos%3D16%26dgr%3D0%26band_rank%3D16%26cate%3D5001%26c_type%3D31%26stream_entry_id%3D31%26q%3D%2523130%25E4%25B8%2587%25E7%25BE%258E%25E5%2586%259B%25E6%25AC%25A0%25E8%2596%25AA%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E9%2598%2585%25E5%2585%25B5%25E7%258B%2582%25E6%25AC%25A2%2523%26lcate%3D5001%26filter_type%3Drealtimehot%26display_time%3D1760320774%26pre_seqid%3D17603207746780376401196",
-          "source": "微博",
-          "ranks": [
-            16,
-            8,
-            7,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时01分 ~ 13时27分]"
-        },
-        {
-          "title": "特朗普强调了三遍：战争结束了",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BC%BA%E8%B0%83%E4%BA%86%E4%B8%89%E9%81%8D%EF%BC%9A%E6%88%98%E4%BA%89%E7%BB%93%E6%9D%9F%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时22分 ~ 14时40分]"
-        },
-        {
-          "title": "美国副总统万斯：司法部并未执行美国总统特朗普起诉其政治对手的命令。",
-          "url": "https://flash.jin10.com/detail/20251012201701028800",
-          "source": "金十数据",
-          "ranks": [
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 04时27分]"
-        },
-        {
-          "title": "美国副总统万斯：（当被问及美国总统特朗普是否考虑援引《叛乱法》时）总统正特朗普在考虑所有选项。",
-          "url": "https://flash.jin10.com/detail/20251012201425242800",
-          "source": "金十数据",
-          "ranks": [
-            22,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 04时27分]"
-        },
-        {
-          "title": "特朗普称“加沙战争已结束”",
-          "url": "https://www.cls.cn/detail/2167646",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时31分 ~ 20时53分]"
-        },
-        {
-          "title": "特朗普：（最新的）诺贝尔奖是颁给2024年的。",
-          "url": "https://flash.jin10.com/detail/20251013051854020800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时21分 ~ 06时23分]"
-        },
-        {
-          "title": "美国总统特朗普：对于那些希望迅速回归追求真理与成就的院校，我们邀请它们与联邦政府达成一项前瞻性协议，以帮助实现高等教育学术卓越的黄金时代。",
-          "url": "https://flash.jin10.com/detail/20251013040501467800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时27分 ~ 05时21分]"
-        },
-        {
-          "title": "美国总统特朗普：我听说巴基斯坦和阿富汗之间“有战争”，我会尽力解决这个问题。",
-          "url": "https://flash.jin10.com/detail/20251013051757863800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时21分 ~ 06时23分]"
-        },
-        {
-          "title": "特朗普：卡塔尔应受到赞誉。",
-          "url": "https://flash.jin10.com/detail/20251013051355686800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时21分 ~ 06时23分]"
-        },
-        {
-          "title": "特朗普连说三遍战争结束了",
-          "url": "https://www.douyin.com/hot/2268110",
-          "source": "抖音",
-          "ranks": [
-            12,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时26分 ~ 16时36分]"
-        },
-        {
-          "title": "据英国金融时报：加拿大认为正与美国逐步达成行业贸易协议，并押注于美国总统特朗普在明年中期选举前亟需政绩的需求。",
-          "url": "https://flash.jin10.com/detail/20251013120543573800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时32分 ~ 13时27分]"
-        },
-        {
-          "title": "美两党围绕“停摆”继续缠斗甩锅 特朗普抽身访中东",
-          "url": "https://wallstreetcn.com/livenews/2986740",
+          "title": "外交部：伊朗核问题最终还是要回到政治外交解决轨道",
+          "url": "https://wallstreetcn.com/livenews/3062551",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            21
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 19时22分]"
+          "appearance_count": 1,
+          "time_info": "15时55分"
         },
         {
-          "title": "特朗普",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%89%B9%E6%9C%97%E6%99%AE&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26pos%3D5%26realpos%3D5%26dgr%3D0%26band_rank%3D5%26cate%3D5001%26c_type%3D31%26stream_entry_id%3D31%26q%3D%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%26lcate%3D5001%26filter_type%3Drealtimehot%26display_time%3D1760320774%26pre_seqid%3D17603207746780376401196",
-          "source": "微博",
+          "title": "伊朗称霍尔木兹海峡已关闭，将打击所有试图通过的船只，有什么深层目的？霍尔木兹海峡有多重要？",
+          "url": "https://www.zhihu.com/question/2012081333808100744",
+          "source": "知乎",
           "ranks": [
-            5,
-            15
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 11时22分]"
+          "appearance_count": 1,
+          "time_info": "15时55分"
         },
         {
-          "title": "特朗普称“加沙战争已结束”",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E2%80%9C%E5%8A%A0%E6%B2%99%E6%88%98%E4%BA%89%E5%B7%B2%E7%BB%93%E6%9D%9F%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            24,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时32分 ~ 19时22分]"
-        },
-        {
-          "title": "特朗普称“加沙战争已结束”",
-          "url": "https://www.douyin.com/hot/2268670",
-          "source": "抖音",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时32分 ~ 19时22分]"
-        },
-        {
-          "title": "专家：特朗普对华打法该变了",
-          "url": "https://www.toutiao.com/trending/7560604471064006180/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            16,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时32分 ~ 19时22分]"
-        },
-        {
-          "title": "泽连斯基与特朗普两天内二度通话",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31766558",
+          "title": "王毅同伊朗外长阿拉格齐通电话：中方已敦促美以立即停止军事行动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32685305",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时32分 ~ 18时31分]"
+          "appearance_count": 1,
+          "time_info": "15时55分"
         },
         {
-          "title": "特朗普笑称自己没法上天堂：坐在空军一号，就是“在天堂了吧”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31768849",
+          "title": "伊朗称打击以总理办公室和以空军司令部等目标",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32684851",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时32分 ~ 18时31分]"
+          "appearance_count": 1,
+          "time_info": "15时55分"
         },
         {
-          "title": "梅德韦杰夫：向乌供应“战斧”将让所有人遭殃 ，尤其是特朗普",
-          "url": "https://news.ifeng.com/c/8nQEVWLCTq0",
+          "title": "鲁比奥：对伊朗最猛烈打击还没来",
+          "url": "https://news.ifeng.com/c/8rBi6tKkZaG",
           "source": "凤凰网",
           "ranks": [
-            7
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时22分 ~ 20时53分]"
+          "appearance_count": 1,
+          "time_info": "15时55分"
         },
         {
-          "title": "特朗普犹太裔女婿现身加沙",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%8A%B9%E5%A4%AA%E8%A3%94%E5%A5%B3%E5%A9%BF%E7%8E%B0%E8%BA%AB%E5%8A%A0%E6%B2%99",
-          "source": "百度热搜",
+          "title": "外交部：我驻伊朗周边国家使领馆已派工作组赴口岸接应，协助中国公民撤离。（央视新闻）",
+          "url": "https://wallstreetcn.com/livenews/3062549",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            23
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 11时22分]"
+          "appearance_count": 1,
+          "time_info": "15时55分"
         },
         {
-          "title": "威胁对华加税后特朗普和万斯嘴软了",
-          "url": "https://www.toutiao.com/trending/7560543106609712678/",
+          "title": "伊朗放行中国油船,老美气疯",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351245&amp;topic_name=%E4%BC%8A%E6%9C%97%E6%94%BE%E8%A1%8C%E4%B8%AD%E5%9B%BD%E6%B2%B9%E8%88%B9%2C%E8%80%81%E7%BE%8E%E6%B0%94%E7%96%AF",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
+          "title": "伊朗称击中了美空军基地大楼",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%87%BB%E4%B8%AD%E4%BA%86%E7%BE%8E%E7%A9%BA%E5%86%9B%E5%9F%BA%E5%9C%B0%E5%A4%A7%E6%A5%BC%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
+          "title": "伊朗公布内塔尼亚胡行踪",
+          "url": "https://www.toutiao.com/trending/7611843966375542847/",
           "source": "今日头条",
           "ranks": [
-            7,
-            30
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时40分 ~ 15时26分]"
+          "appearance_count": 1,
+          "time_info": "15时55分"
         },
         {
-          "title": "特朗普：考虑向乌克兰提供“战斧”",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E8%80%83%E8%99%91%E5%90%91%E4%B9%8C%E5%85%8B%E5%85%B0%E6%8F%90%E4%BE%9B%E2%80%9C%E6%88%98%E6%96%A7%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 12时32分]"
-        },
-        {
-          "title": "特朗普：人质可能更早获释。",
-          "url": "https://flash.jin10.com/detail/20251013050922637800",
+          "title": "据阿拉伯卫视报道，昨晚以色列在伊朗境内进行了一次地面行动，以色列尚未确认或否认。",
+          "url": "https://flash.jin10.com/detail/20260303153850787800",
           "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时21分"
+          "time_info": "15时55分"
         },
         {
-          "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：供应“战斧”导弹可能对所有人都会带来严重后果，而其中最严重的，将是美国总统特朗普本人。",
-          "url": "https://flash.jin10.com/detail/20251013161452130800",
-          "source": "金十数据",
+          "title": "伊朗称向美“林肯”号航母发射多枚巡航导弹",
+          "url": "https://wallstreetcn.com/livenews/3062547",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时36分"
+          "time_info": "15时55分"
         },
         {
-          "title": "特朗普：有很多口头保证，我相信这些保证。加沙会没事的。",
-          "url": "https://flash.jin10.com/detail/20251013050906964800",
-          "source": "金十数据",
+          "title": "伊朗货币兑人民币近一年贬值约 96%，对普通人来说这是不是时代的尘埃落在肩上？",
+          "url": "https://www.zhihu.com/question/2011836421929918474",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
+          "title": "伊朗称霍尔木兹海峡已关闭 马克龙宣布提升法国核武库规模 | 环球市场",
+          "url": "https://www.cls.cn/detail/2300491",
+          "source": "财联社热门",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时21分"
+          "time_info": "15时55分"
         },
         {
-          "title": "埃克森美孚首席执行官：作为一家公司，我们在美国总统特朗普和美国前总统拜登执政期间继续做同样的事情。",
-          "url": "https://flash.jin10.com/detail/20251013170542106800",
-          "source": "金十数据",
+          "title": "美帝抱团,硬给伊朗定罪名",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351270&amp;topic_name=%E7%BE%8E%E5%B8%9D%E6%8A%B1%E5%9B%A2%2C%E7%A1%AC%E7%BB%99%E4%BC%8A%E6%9C%97%E5%AE%9A%E7%BD%AA%E5%90%8D",
+          "source": "贴吧",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时33分"
+          "time_info": "15时55分"
         },
         {
-          "title": "特朗普：将迅速成立“加沙和平委员会”。",
-          "url": "https://flash.jin10.com/detail/20251013050649014800",
-          "source": "金十数据",
+          "title": "美以军事行动引发伊朗反击，战火蔓延至中东多国，美军基地究竟给当地带来了什么？",
+          "url": "https://www.zhihu.com/question/2011912652071395977",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
+          "title": "伊朗称霍尔木兹海峡已关闭，将打击所有试图通过的船只",
+          "url": "https://wallstreetcn.com/articles/3766560",
+          "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时21分"
+          "time_info": "15时55分"
         },
         {
-          "title": "特朗普：加沙就像一个废墟。",
-          "url": "https://flash.jin10.com/detail/20251013050605911800",
+          "title": "外交部：对在伊朗德黑兰遇难的一名中国公民表示哀悼",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32683834",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
+          "title": "美民调：近六成民众不赞成对伊朗动武",
+          "url": "https://news.ifeng.com/c/8rBl5ZGxUyT",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
+          "title": "如果伊朗提出请求中俄会向其提供军事支持吗？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32683719",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
+          "title": "据悉以色列昨晚通过摩萨德和特种部队在伊朗展开行动。",
+          "url": "https://flash.jin10.com/detail/20260303153620677800",
           "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时21分"
+          "time_info": "15时55分"
         },
         {
-          "title": "美国总统特朗普结束在以色列议会的讲话。",
-          "url": "https://flash.jin10.com/detail/20251013201514881800",
-          "source": "金十数据",
+          "title": "香港财政司司长称近期或有「伊朗资金」来港避险，需做好准备、小心处理，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2011798995241047910",
+          "source": "知乎",
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
-        },
-        {
-          "title": "美国总统特朗普：（被问及加沙）战争已结束。停火将得以维持。",
-          "url": "https://flash.jin10.com/detail/20251013050425694800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时21分"
+          "time_info": "15时55分"
         },
         {
-          "title": "市场消息：美国国防部长赫格塞思、美国国务卿鲁比奥、中情局局长拉特克利夫和参谋长联席会议主席丹·凯恩将乘坐空军一号参加特朗普的中东之行。",
-          "url": "https://flash.jin10.com/detail/20251013045737146800",
-          "source": "金十数据",
+          "title": "中国为停止在伊朗的战争和袭击还可以做些什么？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32683731",
+          "source": "澎湃新闻",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时21分"
+          "time_info": "15时55分"
         },
         {
-          "title": "特朗普两次强调加沙战争已经结束，疑似反驳以色列总理",
-          "url": "https://flash.jin10.com/detail/20251013063304905800",
-          "source": "金十数据",
+          "title": "伊朗冲突将支撑金银价格 但分析师认为贵金属仍有下跌空间",
+          "url": "https://www.cls.cn/detail/2300782",
+          "source": "财联社热门",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时22分"
+          "time_info": "15时55分"
         },
         {
-          "title": "哈马斯：释放20名以色列被扣押人员是特朗普停止加沙战争计划第一阶段的一部分。",
-          "url": "https://flash.jin10.com/detail/20251013135645399800",
-          "source": "金十数据",
+          "title": "伊朗导弹击中以色列高楼，中国工人在高空作业拍下惊魂一幕",
+          "url": "https://news.ifeng.com/c/8rBxKxZAkag",
+          "source": "凤凰网",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时40分"
+          "time_info": "15时55分"
         },
         {
-          "title": "韩国外交部：预计美国总统特朗普将在本月27日至下月1日的2025年亚太经合组织（APEC）领导人会议周期间访韩出席部分会议，并同韩国总统李在明举行双边会晤。",
-          "url": "https://flash.jin10.com/detail/20251013145104832800",
-          "source": "金十数据",
+          "title": "打疼了!美军或地面入侵伊朗",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351250&amp;topic_name=%E6%89%93%E7%96%BC%E4%BA%86%21%E7%BE%8E%E5%86%9B%E6%88%96%E5%9C%B0%E9%9D%A2%E5%85%A5%E4%BE%B5%E4%BC%8A%E6%9C%97",
+          "source": "贴吧",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时26分"
+          "time_info": "15时55分"
         },
         {
-          "title": "市场消息：美国总统特朗普进入以色列议会。",
-          "url": "https://flash.jin10.com/detail/20251013161006398800",
-          "source": "金十数据",
+          "title": "伊朗找东大诉苦:美方玩阴的",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351259&amp;topic_name=%E4%BC%8A%E6%9C%97%E6%89%BE%E4%B8%9C%E5%A4%A7%E8%AF%89%E8%8B%A6%3A%E7%BE%8E%E6%96%B9%E7%8E%A9%E9%98%B4%E7%9A%84",
+          "source": "贴吧",
           "ranks": [
-            11
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时36分"
+          "time_info": "15时55分"
         },
         {
-          "title": "美国总统特朗普：我们将建立新的友谊纽带，以色列、美国和中东各国将很快更加安全。",
-          "url": "https://flash.jin10.com/detail/20251013201402312800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
-        },
-        {
-          "title": "特朗普：若俄乌冲突无法解决 可能会供乌“战斧”",
-          "url": "https://flash.jin10.com/detail/20251013063154478800",
-          "source": "金十数据",
+          "title": "中方回应美以杀害伊朗最高领导人",
+          "url": "https://www.toutiao.com/trending/7612565773239815689/",
+          "source": "今日头条",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时22分"
+          "time_info": "15时55分"
         },
         {
-          "title": "美国白宫：美国总统特朗普正前往以色列和埃及，签署结束加沙战争的和平协议。",
-          "url": "https://flash.jin10.com/detail/20251013044739176800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "梅德韦杰夫：向乌供应“战斧”将让所有人遭殃，尤其是特朗普",
-          "url": "https://wallstreetcn.com/livenews/2986728",
+          "title": "伊朗首都军事设施密集区遭袭",
+          "url": "https://wallstreetcn.com/livenews/3062535",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
+          "title": "伊朗杀红眼,逮谁炸谁",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351248&amp;topic_name=%E4%BC%8A%E6%9C%97%E6%9D%80%E7%BA%A2%E7%9C%BC%2C%E9%80%AE%E8%B0%81%E7%82%B8%E8%B0%81",
+          "source": "贴吧",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
+          "title": "伊朗展开大规模反击",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E5%B1%95%E5%BC%80%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%8F%8D%E5%87%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时31分"
+          "time_info": "15时55分"
         },
         {
-          "title": "美国总统特朗普：卡塔尔人确实帮助了我们达成这项协议。",
-          "url": "https://flash.jin10.com/detail/20251013144556840800",
-          "source": "金十数据",
+          "title": "网友亲历从伊朗撤离至阿塞拜疆",
+          "url": "https://www.douyin.com/hot/2416341",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
+          "title": "伊朗称霍尔木兹海峡已关闭",
+          "url": "https://www.toutiao.com/trending/7612798474953690687/",
+          "source": "今日头条",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时26分"
+          "time_info": "15时55分"
         },
         {
-          "title": "市场消息：美国总统特朗普乘坐的空军一号专机正式抵达特拉维夫，以色列总理内塔尼亚胡将于机场进行迎接。",
-          "url": "https://flash.jin10.com/detail/20251013144345521800",
-          "source": "金十数据",
+          "title": "猪队友,以军误杀伊朗内鬼",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351246&amp;topic_name=%E7%8C%AA%E9%98%9F%E5%8F%8B%2C%E4%BB%A5%E5%86%9B%E8%AF%AF%E6%9D%80%E4%BC%8A%E6%9C%97%E5%86%85%E9%AC%BC",
+          "source": "贴吧",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
+          "title": "伊朗称已做好长期战争准备",
+          "url": "https://www.douyin.com/hot/2417211",
+          "source": "抖音",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时26分"
+          "time_info": "15时55分"
         },
         {
-          "title": "特朗普：若俄乌冲突无法解决 可能会供乌“战斧”",
-          "url": "https://wallstreetcn.com/livenews/2986350",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        },
-        {
-          "title": "特朗普：乌克兰需要“爱国者”导弹，并希望拥有战斧导弹，我们谈过这个。",
-          "url": "https://flash.jin10.com/detail/20251013052757698800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时23分"
-        },
-        {
-          "title": "市场消息：美国总统特朗普抵达以色列。",
-          "url": "https://flash.jin10.com/detail/20251013144148807800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时26分"
-        },
-        {
-          "title": "孙女提问“还有未圆之梦吗？”，特朗普回答：“成为伟大的总统”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31765003",
-          "source": "澎湃新闻",
+          "title": "伊朗导弹库存能否满足报复行动",
+          "url": "https://www.toutiao.com/trending/7612718585840599103/",
+          "source": "今日头条",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时22分"
+          "time_info": "15时55分"
         },
         {
-          "title": "特朗普：我可能会告诉普京，如果这场冲突得不到解决，我将（向乌克兰）提供战斧导弹。",
-          "url": "https://flash.jin10.com/detail/20251013052609941800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时23分"
-        },
-        {
-          "title": "在美国总统特朗普发表就可能向乌克兰提供“战斧”导弹的最新言论后，克里姆林宫拒绝进一步评论。",
-          "url": "https://flash.jin10.com/detail/20251013174038674800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时31分"
-        },
-        {
-          "title": "美国总统特朗普：以色列永远是美国的重要盟友。",
-          "url": "https://flash.jin10.com/detail/20251013200435547800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
-        },
-        {
-          "title": "特朗普：当我们意见不一致时，我和内塔尼亚胡有过一些争论，但他是在正确时间出现的正确人物。",
-          "url": "https://flash.jin10.com/detail/20251013052511393800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时23分"
-        },
-        {
-          "title": "特朗普称“加沙战争已结束”",
-          "url": "https://wallstreetcn.com/livenews/2986659",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时33分"
-        },
-        {
-          "title": "特朗普：我们希望能够向乌克兰提供更多武器。",
-          "url": "https://flash.jin10.com/detail/20251013052507044800",
-          "source": "金十数据",
+          "title": "1名中国公民在伊朗遇难",
+          "url": "https://www.douyin.com/hot/2416398",
+          "source": "抖音",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时23分"
+          "time_info": "15时55分"
         },
         {
-          "title": "以色列总理内塔尼亚胡在克内塞特发表演讲，感谢特朗普帮助释放人质。",
-          "url": "https://flash.jin10.com/detail/20251013182746398800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时22分"
-        },
-        {
-          "title": "特朗普犹太裔女婿现身加沙",
-          "url": "https://www.toutiao.com/trending/7560074397462151231/",
+          "title": "伊朗称用导弹打击以总理办公室",
+          "url": "https://www.toutiao.com/trending/7611898680450256426/",
           "source": "今日头条",
           "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时01分"
+          "time_info": "15时55分"
         },
         {
-          "title": "特朗普：与泽连斯基进行了良好的交谈。",
-          "url": "https://flash.jin10.com/detail/20251013052432659800",
-          "source": "金十数据",
+          "title": "王毅同伊朗外长阿拉格齐通电话",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E6%AF%85%E5%90%8C%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%E9%98%BF%E6%8B%89%E6%A0%BC%E9%BD%90%E9%80%9A%E7%94%B5%E8%AF%9D",
+          "source": "bilibili 热搜",
           "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时23分"
+          "time_info": "15时55分"
         },
         {
-          "title": "向美寻求“战斧”导弹 泽连斯基：仍在等待特朗普最终决定",
-          "url": "https://flash.jin10.com/detail/20251013040813993800",
+          "title": "不战是怂包,伊朗博主苦难言",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351201&amp;topic_name=%E4%B8%8D%E6%88%98%E6%98%AF%E6%80%82%E5%8C%85%2C%E4%BC%8A%E6%9C%97%E5%8D%9A%E4%B8%BB%E8%8B%A6%E9%9A%BE%E8%A8%80",
+          "source": "贴吧",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
+          "title": "据梅赫尔通讯社：伊朗伊斯法罕和设拉子传出爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260303152729234800",
           "source": "金十数据",
           "ranks": [
             23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时21分"
+          "time_info": "15时55分"
         },
         {
-          "title": "特朗普：若能访问加沙将会很荣幸，我会去那里，我想去。",
-          "url": "https://flash.jin10.com/detail/20251013052338075800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时23分"
-        },
-        {
-          "title": "美国总统特朗普：尽管困难重重，我们仍做到了不可能的事，将我们的被扣押人员带回家。",
-          "url": "https://flash.jin10.com/detail/20251013173653761800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时31分"
-        },
-        {
-          "title": "特朗普启程前往以色列",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%AF%E7%A8%8B%E5%89%8D%E5%BE%80%E4%BB%A5%E8%89%B2%E5%88%97%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26pos%3D23%26realpos%3D23%26dgr%3D0%26band_rank%3D23%26cate%3D5001%26c_type%3D31%26stream_entry_id%3D31%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%2590%25AF%25E7%25A8%258B%25E5%2589%258D%25E5%25BE%2580%25E4%25BB%25A5%25E8%2589%25B2%25E5%2588%2597%2523%26lcate%3D5001%26filter_type%3Drealtimehot%26display_time%3D1760320774%26pre_seqid%3D17603207746780376401196",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        },
-        {
-          "title": "美国总统特朗普：即使对伊朗这个给中东造成如此多死亡的政权，友谊与合作之手也永远是敞开的。",
-          "url": "https://flash.jin10.com/detail/20251013173627972800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时31分"
-        },
-        {
-          "title": "特朗普以色列议会演讲遭抗议者打断",
-          "url": "https://wallstreetcn.com/livenews/2986800",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
-        },
-        {
-          "title": "特朗普：不担心以色列在人质获释后重启战争。",
-          "url": "https://flash.jin10.com/detail/20251013052246321800",
-          "source": "金十数据",
+          "title": "伊外长：何时停战怎么停由伊朗定",
+          "url": "https://www.toutiao.com/trending/7611751284546407999/",
+          "source": "今日头条",
           "ranks": [
             25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时23分"
+          "time_info": "15时55分"
         },
         {
-          "title": "130万美军欠薪特朗普阅兵狂欢",
-          "url": "https://search.bilibili.com/all?keyword=130%E4%B8%87%E7%BE%8E%E5%86%9B%E6%AC%A0%E8%96%AA%E7%89%B9%E6%9C%97%E6%99%AE%E9%98%85%E5%85%B5%E7%8B%82%E6%AC%A2",
-          "source": "bilibili 热搜",
+          "title": "无情报证明伊朗计划先袭击美军",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A0%E6%83%85%E6%8A%A5%E8%AF%81%E6%98%8E%E4%BC%8A%E6%9C%97%E8%AE%A1%E5%88%92%E5%85%88%E8%A2%AD%E5%87%BB%E7%BE%8E%E5%86%9B%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
+          "title": "伊朗自证无核,以军掀桌开打",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351188&amp;topic_name=%E4%BC%8A%E6%9C%97%E8%87%AA%E8%AF%81%E6%97%A0%E6%A0%B8%2C%E4%BB%A5%E5%86%9B%E6%8E%80%E6%A1%8C%E5%BC%80%E6%89%93",
+          "source": "贴吧",
           "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时22分"
+          "time_info": "15时55分"
         },
         {
-          "title": "特朗普：希望到加沙地区走走。",
-          "url": "https://flash.jin10.com/detail/20251013052139919800",
-          "source": "金十数据",
+          "title": "欧洲抱团上阵!矛头直指伊朗",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351193&amp;topic_name=%E6%AC%A7%E6%B4%B2%E6%8A%B1%E5%9B%A2%E4%B8%8A%E9%98%B5%21%E7%9F%9B%E5%A4%B4%E7%9B%B4%E6%8C%87%E4%BC%8A%E6%9C%97",
+          "source": "贴吧",
           "ranks": [
-            26
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时23分"
+          "time_info": "15时55分"
         },
         {
-          "title": "美国总统特朗普：加沙人民的全部注意力必须集中在恢复稳定、安全、尊严和经济发展的根本要素上。",
-          "url": "https://flash.jin10.com/detail/20251013173525261800",
-          "source": "金十数据",
+          "title": "伊朗发布反击最初两天美军战损情况",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%8F%91%E5%B8%83%E5%8F%8D%E5%87%BB%E6%9C%80%E5%88%9D%E4%B8%A4%E5%A4%A9%E7%BE%8E%E5%86%9B%E6%88%98%E6%8D%9F%E6%83%85%E5%86%B5",
+          "source": "百度热搜",
           "ranks": [
-            26
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时31分"
-        },
-        {
-          "title": "媒体：特朗普在中东还有更大的计划",
-          "url": "https://www.toutiao.com/trending/7560574538937798207/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时26分"
-        },
-        {
-          "title": "特朗普：我认为普京会解决俄乌冲突问题，如果他不这样做，对他来说就没好处了。",
-          "url": "https://flash.jin10.com/detail/20251013051945345800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时23分"
-        },
-        {
-          "title": "美政府停摆近两周 特朗普趁机大裁员",
-          "url": "https://www.toutiao.com/trending/7560582028605787690/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时36分"
-        },
-        {
-          "title": "向美寻求“战斧”导弹 泽连斯基：仍在等待特朗普最终决定",
-          "url": "https://wallstreetcn.com/livenews/2986347",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时22分"
+          "time_info": "15时55分"
         }
       ]
     },
     {
-      "keyword_group": "美股",
+      "keyword_group": "美国 日本 韩国",
       "match_count": 18,
       "titles": [
         {
-          "title": "TACO交易？美股纳指期货涨2%，科技股盘前集体走高，数字货币大幅反弹，黄金续创新高",
-          "url": "https://wallstreetcn.com/articles/3757049",
-          "source": "华尔街见闻",
+          "title": "法国总统马克龙计划于本月底访问日本。（日本共同社）",
+          "url": "https://wallstreetcn.com/livenews/3062552",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时32分 ~ 20时53分]"
+          "appearance_count": 1,
+          "time_info": "15时55分"
         },
         {
-          "title": "美股大暴跌,白宫趁机满仓做空",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345682&amp;topic_name=%E7%BE%8E%E8%82%A1%E5%A4%A7%E6%9A%B4%E8%B7%8C%2C%E7%99%BD%E5%AE%AB%E8%B6%81%E6%9C%BA%E6%BB%A1%E4%BB%93%E5%81%9A%E7%A9%BA",
-          "source": "贴吧",
-          "ranks": [
-            21,
-            23,
-            25,
-            28,
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时28分 ~ 15时26分]"
-        },
-        {
-          "title": "TACO交易？亚洲开盘，黄金续创新高，风险资产全线走高：美股反弹，数字货币大涨",
-          "url": "https://wallstreetcn.com/articles/3757049",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时01分 ~ 13时27分]"
-        },
-        {
-          "title": "TACO交易？美股期货反弹，数字货币大涨，黄金续创新高，亚洲股市普跌",
-          "url": "https://wallstreetcn.com/articles/3757049",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时40分 ~ 15时26分]"
-        },
-        {
-          "title": "美股期指集体反弹",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%9C%9F%E6%8C%87%E9%9B%86%E4%BD%93%E5%8F%8D%E5%BC%B9",
-          "source": "百度热搜",
+          "title": "伊朗、美国宣布最新战果",
+          "url": "https://news.ifeng.com/c/8rC1C1sTH0r",
+          "source": "凤凰网",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时01分"
+          "time_info": "15时55分"
         },
         {
-          "title": "TACO交易？美股纳指期货涨2%，数字货币大幅反弹，黄金续创新高，亚洲股市普跌",
-          "url": "https://wallstreetcn.com/articles/3757049",
+          "title": "美国要“打入”伊朗？特朗普不排除“必要时”派遣地面部队，北约称不参与军事行动",
+          "url": "https://wallstreetcn.com/articles/3766558",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时36分"
+          "time_info": "15时55分"
         },
         {
-          "title": "美股期货高开逾1%，油价走高",
-          "url": "https://wallstreetcn.com/livenews/2986340",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时23分 ~ 07时22分]"
-        },
-        {
-          "title": "特朗普关税威胁引美股暴跌！专家警告：市场预计美国更受伤",
-          "url": "https://www.cls.cn/detail/2167222",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时32分 ~ 19时22分]"
-        },
-        {
-          "title": "美股期指集体反弹",
-          "url": "https://www.toutiao.com/trending/7560480850865835529/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 11时22分]"
-        },
-        {
-          "title": "李大霄：美股指夜期已经开始反弹",
-          "url": "https://www.toutiao.com/trending/7560519486990716457/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 12时32分]"
-        },
-        {
-          "title": "美股创高位之际 企业盈利预期乐观情绪降温",
-          "url": "https://flash.jin10.com/detail/20251013184842956800",
+          "title": "据日本共同社：法国总统马克龙计划于本月底访问日本。",
+          "url": "https://flash.jin10.com/detail/20260303154046313800",
           "source": "金十数据",
           "ranks": [
-            6
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时22分"
+          "time_info": "15时55分"
         },
         {
-          "title": "美股三大股指期货集体走高，纳斯达克100指数期货涨幅达2%，道指期货涨超1%，标普500指数期货涨1.5%。",
-          "url": "https://wallstreetcn.com/livenews/2986601",
-          "source": "华尔街见闻-快讯",
+          "title": "美国声称 24 小时内对伊朗发动「显著升级打击」，伊朗会如何反击？美军会不会突破空袭转向地面作战？",
+          "url": "https://www.zhihu.com/question/2012108643915564710",
+          "source": "知乎",
           "ranks": [
-            6
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时26分"
+          "time_info": "15时55分"
         },
         {
-          "title": "高盛交易员：上周五的美股表现更像是“保护”，而非“退出”",
-          "url": "https://wallstreetcn.com/articles/3757057",
-          "source": "华尔街见闻",
+          "title": "美国国会将就限制总统战争权力议案举行投票",
+          "url": "https://news.ifeng.com/c/8rBrWX2L2Mq",
+          "source": "凤凰网",
           "ranks": [
-            9
+            7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时53分"
+          "time_info": "15时55分"
         },
         {
-          "title": "美股三大期指明显反弹 芯片股、稀土概念涨幅居前 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2168011",
-          "source": "财联社热门",
+          "title": "伊朗最高领袖遇害，除了谴责美国中方还将如何行动？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32684013",
+          "source": "澎湃新闻",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时53分"
+          "time_info": "15时55分"
         },
         {
-          "title": "美股盘前，明星科技股集体走高，英伟达、AMD盘前涨超3%，甲骨文盘前涨超2%，苹果涨超1.8%，热门中概股普涨，阿里巴巴涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/2986638",
-          "source": "华尔街见闻-快讯",
+          "title": "韩国股市暴跌触发熔断",
+          "url": "https://www.douyin.com/hot/2417350",
+          "source": "抖音",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时36分"
+          "time_info": "15时55分"
         },
         {
-          "title": "美股盘前明星科技股普遍走高，AMD(AMD.O)涨超4%，阿斯麦(ASML.O)、英伟达(NVDA.O)、高通(QCOM.O)涨3.5%，英特尔(INTC.O)、甲骨文(ORCL.N)、特斯拉(TSLA.O)涨约2.5%。",
-          "url": "https://flash.jin10.com/detail/20251013160611212800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时36分"
-        },
-        {
-          "title": "美股盘前热门中概股普涨，金山云(KC.O)涨超6%，阿里巴巴(BABA.N)涨超5%，蔚来汽车(NIO.N)、台积电(TSM.N)涨近5%，百度(BIDU.O)、哔哩哔哩(BILI.O)涨超4%。",
-          "url": "https://flash.jin10.com/detail/20251013160329025800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时36分"
-        },
-        {
-          "title": "美股期指集体反弹",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%BE%8E%E8%82%A1%E6%9C%9F%E6%8C%87%E9%9B%86%E4%BD%93%E5%8F%8D%E5%BC%B9%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26pos%3D28%26realpos%3D28%26dgr%3D0%26band_rank%3D28%26cate%3D5001%26c_type%3D31%26stream_entry_id%3D31%26q%3D%2523%25E7%25BE%258E%25E8%2582%25A1%25E6%259C%259F%25E6%258C%2587%25E9%259B%2586%25E4%25BD%2593%25E5%258F%258D%25E5%25BC%25B9%2523%26lcate%3D5001%26filter_type%3Drealtimehot%26display_time%3D1760320774%26pre_seqid%3D17603207746780376401196",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "以色列“无意再战”，伊朗：不信",
-          "url": "https://news.ifeng.com/c/8nOO6pKYCVk",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 07时22分]"
-        },
-        {
-          "title": "伊朗外长警告：以色列经常推翻达成的停火协议，不要轻易相信",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31765028",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时01分 ~ 19时22分]"
-        },
-        {
-          "title": "伊朗外交部发言人强烈谴责以军袭击黎巴嫩",
-          "url": "https://news.ifeng.com/c/8nPQYJkYdHD",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时22分 ~ 11时22分]"
-        },
-        {
-          "title": "俄外长：与伊朗的军事技术合作无限制",
-          "url": "https://wallstreetcn.com/livenews/2986737",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 19时22分]"
-        },
-        {
-          "title": "伊朗外交部发言人强烈谴责以军袭击黎巴嫩",
-          "url": "https://wallstreetcn.com/livenews/2986357",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        },
-        {
-          "title": "伊朗外长阿拉格齐：伊朗过去一直、未来也将是本地区和平的重要力量。与以色列的种族灭绝政权不同，伊朗并不追求“永恒的战争”。",
-          "url": "https://flash.jin10.com/detail/20251013045259318800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "伊朗外长阿拉格齐：话虽如此，伊朗欢迎任何能够结束以色列在加沙实施种族灭绝、并确保占领军被驱逐的倡议。",
-          "url": "https://flash.jin10.com/detail/20251013045254058800",
-          "source": "金十数据",
+          "title": "美国驻沙特大使馆发生爆炸后起火",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E9%A9%BB%E6%B2%99%E7%89%B9%E5%A4%A7%E4%BD%BF%E9%A6%86%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%E5%90%8E%E8%B5%B7%E7%81%AB",
+          "source": "百度热搜",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时21分"
+          "time_info": "15时55分"
         },
         {
-          "title": "2025 乒乓球亚锦赛团体赛，中国 vs 伊朗第一局中，林诗栋 2-3 不敌本雅明，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/1961149420411281890",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
-        },
-        {
-          "title": "伊朗外长阿拉格齐：伊方感谢埃及总统塞西发出沙姆沙伊赫峰会的邀请。虽然我们支持外交接触，但总统佩泽希齐扬和我都无法与攻击伊朗人民并继续威胁和制裁我们的对手接触。",
-          "url": "https://flash.jin10.com/detail/20251013045247090800",
-          "source": "金十数据",
+          "title": "韩国股市暴跌触发熔断",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C%E8%A7%A6%E5%8F%91%E7%86%94%E6%96%AD",
+          "source": "百度热搜",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时21分"
+          "time_info": "15时55分"
         },
         {
-          "title": "伊朗敦促欧洲三国重新审视对伊政策",
-          "url": "https://wallstreetcn.com/livenews/2986727",
+          "title": "韩国将准备应对霍尔木兹海峡封锁的措施。",
+          "url": "https://wallstreetcn.com/livenews/3062533",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时31分"
+          "time_info": "15时55分"
         },
         {
-          "title": "亚锦赛男团中国1比1伊朗",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%BA%9A%E9%94%A6%E8%B5%9B%E7%94%B7%E5%9B%A2%E4%B8%AD%E5%9B%BD1%E6%AF%941%E4%BC%8A%E6%9C%97%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E4%25BA%259A%25E9%2594%25A6%25E8%25B5%259B%25E7%2594%25B7%25E5%259B%25A2%25E4%25B8%25AD%25E5%259B%25BD1%25E6%25AF%25941%25E4%25BC%258A%25E6%259C%2597%2523%26dgr%3D0%26pos%3D18%26filter_type%3Drealtimehot%26c_type%3D31%26flag%3D1%26stream_entry_id%3D31%26lcate%3D5001%26cate%3D5001%26realpos%3D18%26band_rank%3D18%26display_time%3D1760359354%26pre_seqid%3D176035935475203732827103",
-          "source": "微博",
+          "title": "美国地质调查局：伊朗杰拉什发生4.3级地震。",
+          "url": "https://wallstreetcn.com/livenews/3062529",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时53分"
+          "time_info": "15时55分"
         },
         {
-          "title": "伊朗外长称伊方将不会出席“沙姆沙伊赫和平峰会”",
-          "url": "https://wallstreetcn.com/livenews/2986344",
+          "title": "美国总统特朗普：英美关系“已不如从前”。美国与法国、德国的关系是“所有国家中最牢固的”。（英国太阳报）",
+          "url": "https://wallstreetcn.com/livenews/3062526",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时22分"
+          "time_info": "15时55分"
         },
         {
-          "title": "亚锦赛男团中国vs伊朗",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%BA%9A%E9%94%A6%E8%B5%9B%E7%94%B7%E5%9B%A2%E4%B8%AD%E5%9B%BDvs%E4%BC%8A%E6%9C%97%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26flag%3D1%26pos%3D28%26lcate%3D5001%26filter_type%3Drealtimehot%26q%3D%2523%25E4%25BA%259A%25E9%2594%25A6%25E8%25B5%259B%25E7%2594%25B7%25E5%259B%25A2%25E4%25B8%25AD%25E5%259B%25BDvs%25E4%25BC%258A%25E6%259C%2597%2523%26c_type%3D31%26realpos%3D27%26cate%3D5001%26band_rank%3D27%26dgr%3D0%26display_time%3D1760353164%26pre_seqid%3D176035316492303766666132",
-          "source": "微博",
+          "title": "若伊朗冲突持续，日本政府或编制补充预算。",
+          "url": "https://flash.jin10.com/detail/20260303152552448800",
+          "source": "金十数据",
           "ranks": [
-            27
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时22分"
+          "time_info": "15时55分"
+        },
+        {
+          "title": "市场消息：韩国将准备应对霍尔木兹海峡封锁的措施。",
+          "url": "https://flash.jin10.com/detail/20260303152437352800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
+          "title": "稀土靠中国,日本瞎忙找替代",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351225&amp;topic_name=%E7%A8%80%E5%9C%9F%E9%9D%A0%E4%B8%AD%E5%9B%BD%2C%E6%97%A5%E6%9C%AC%E7%9E%8E%E5%BF%99%E6%89%BE%E6%9B%BF%E4%BB%A3",
+          "source": "贴吧",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
+          "title": "美国驻沙特大使馆发生爆炸后起火",
+          "url": "https://www.toutiao.com/trending/7612326063083618350/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
+          "title": "新华社14秒创意视频揭露美国真面目",
+          "url": "https://www.toutiao.com/trending/7612651447888379967/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "动武后才通知国会！特朗普向国会提交《战争权力法案》通知",
+          "url": "https://news.ifeng.com/c/8rBh2u8DdpX",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
+          "title": "特朗普3月访华能否成行？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32684163",
+          "source": "澎湃新闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
+          "title": "特朗普批民主党：如果不动手，他们又要叫唤",
+          "url": "https://news.ifeng.com/c/8rBnoV8tG9m",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
+          "title": "特朗普夫人首次主持安理会会议，中方强烈谴责",
+          "url": "https://news.ifeng.com/c/8rBij7DRy9X",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
+          "title": "美使馆遭袭，特朗普：将很快采取报复行动",
+          "url": "https://www.cls.cn/detail/2300728",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
+          "title": "美将领：2月27日15时38分收到特朗普最终对伊军事行动指令",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32685888",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时55分"
         }
       ]
     },
@@ -1457,39 +851,37 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "金价还能涨多高",
-          "url": "https://www.toutiao.com/trending/7560579461146480170/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时36分 ~ 18时31分]"
-        },
-        {
-          "title": "美银：将明年黄金价格预期上调至5000美元/盎司",
-          "url": "https://flash.jin10.com/detail/20251013170704151800",
+          "title": "分析师：金价突破5300美元或开启风险定价新阶段",
+          "url": "https://flash.jin10.com/detail/20260303154301019800",
           "source": "金十数据",
           "ranks": [
-            6
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时33分"
+          "time_info": "15时55分"
         },
         {
-          "title": "渣打银行：上调2026年黄金价格预测至平均每盎司4488美元（此前为每盎司3875美元）。",
-          "url": "https://wallstreetcn.com/livenews/2986791",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普“不惜一切”誓言加剧股市抛售，油价三连涨，日韩股市狂泻，三星跌10%，金价回落至5300美元下方",
+          "url": "https://wallstreetcn.com/articles/3766590",
+          "source": "华尔街见闻",
           "ranks": [
-            28
+            5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时53分"
+          "time_info": "15时55分"
+        },
+        {
+          "title": "金十图示：2026年03月03日（周二）上海金午盘价为1180.89元/克，较国际金价(1178.48元/克)，高2.41元/克",
+          "url": "https://flash.jin10.com/detail/20260303153334553800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时55分"
         }
       ]
     },
@@ -1498,35 +890,80 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "为什么大家老在强调美债有多少万亿，担心美国还不上钱？",
-          "url": "https://www.zhihu.com/question/1958158064793392803",
-          "source": "知乎",
-          "ranks": [
-            19,
-            16,
-            14,
-            12,
-            11,
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[03时19分 ~ 13时27分]"
-        },
-        {
-          "title": "大摩：美债收益率超4%的时代过去了",
-          "url": "https://wallstreetcn.com/articles/3757050",
+          "title": "能源和科技股力撑，美股指走V收复失地，原油暴涨重创美债，美元大涨，黄金冲高回落",
+          "url": "https://wallstreetcn.com/articles/3766477",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时53分"
+          "time_info": "15时55分"
+        },
+        {
+          "title": "纽约梅隆银行：美债避险逻辑失灵",
+          "url": "https://flash.jin10.com/detail/20260303152320373800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英伟达 NVIDIA 黄仁勋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "吓哭了,英伟达Q4利润破千亿",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351200&amp;topic_name=%E5%90%93%E5%93%AD%E4%BA%86%2C%E8%8B%B1%E4%BC%9F%E8%BE%BEQ4%E5%88%A9%E6%B6%A6%E7%A0%B4%E5%8D%83%E4%BA%BF",
+          "source": "贴吧",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "雷军公布小米机器人最新进展：已在汽车工厂实习，初步实现部分场景自主工作",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32684245",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股收盘：地缘冲突下市场剧烈波动 三大股指涨跌不一",
+          "url": "https://www.cls.cn/detail/2300479",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时55分"
         }
       ]
     }
   ],
-  "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
+  "report_image_url": "https://github.com/alansong-s/TrendRadar/img/news.jpg"
 }
