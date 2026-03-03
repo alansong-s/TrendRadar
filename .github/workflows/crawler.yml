@@ -45,6 +45,7 @@ jobs:
           GITHUB_ACTIONS: true
           MAX_HOT_NEWS: "20"
           REPORT_TITLE: "日报"
+          MAX_PER_GROUP: "4"
         run: python main.py --generate-json
 
       # 只发图片到 Telegram（失败就让 Actions 直接报错，别“成功但没发”）
