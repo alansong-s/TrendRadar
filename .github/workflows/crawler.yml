@@ -39,7 +39,7 @@ jobs:
           fi
           echo "✅ 配置文件检查通过"
 
-      # 只生成：api/trends.json + img/news.jpg（不会发文字通知）
+      # 生成：api/trends.json + img/news.jpg
       - name: Generate api + image
         env:
           GITHUB_ACTIONS: true
@@ -48,7 +48,7 @@ jobs:
           MAX_PER_GROUP: "4"
         run: python main.py --generate-json
 
-      # 只发图片到 Telegram（失败就让 Actions 直接报错，别“成功但没发”）
+      # 先发图片到 Telegram
       - name: Send image to Telegram
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
@@ -71,13 +71,99 @@ jobs:
 
           CAPTION="日报 | $(TZ=Asia/Shanghai date '+%Y-%m-%d')"
 
-          RESP=$(curl -sS -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendPhoto" \
-            -F chat_id="${TELEGRAM_CHAT_ID}" \
-            -F photo=@img/news.jpg \
-            -F caption="${CAPTION}")
+          RESP=$(curl -sS -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendPhoto"             -F chat_id="${TELEGRAM_CHAT_ID}"             -F photo=@img/news.jpg             -F caption="${CAPTION}")
 
           echo "Telegram response: $RESP"
           echo "$RESP" | grep -q '"ok":true'
+
+      # 再发文字版（最多 20 条，带链接；自动分段发送）
+      - name: Send text summary to Telegram (20 items with links)
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          set -e
+
+          if [ -z "${TELEGRAM_BOT_TOKEN}" ] || [ -z "${TELEGRAM_CHAT_ID}" ]; then
+            echo "❌ Telegram secrets 缺失"
+            exit 1
+          fi
+
+          if [ ! -f "api/trends.json" ]; then
+            echo "❌ api/trends.json 不存在（Generate api + image 可能未生成成功）"
+            ls -lah api || true
+            exit 1
+          fi
+
+          # 用 Python 生成要发送的多段消息（base64 每行一段），避免 bash 引号/换行把 YAML 搞坏
+          python - <<'PY' > /tmp/tg_msgs_b64.txt
+          import json, base64, datetime
+
+          LIMIT = 20
+          MAX_LEN = 3500  # 单条消息保守长度
+
+          with open("api/trends.json", "r", encoding="utf-8") as f:
+              data = json.load(f)
+
+          trends = data.get("trends", []) or []
+
+          # 北京时间日期
+          today = datetime.datetime.utcnow() + datetime.timedelta(hours=8)
+          header = f"日报（文字版，含链接） | {today:%Y-%m-%d}\n"
+
+          lines = [header]
+          count = 0
+
+          for t in trends:
+              group = (t.get("keyword_group") or "").strip()
+              titles = t.get("titles", []) or []
+              if group and titles:
+                  lines.append(f"【{group}】")
+              for item in titles:
+                  if count >= LIMIT:
+                      break
+                  title = (item.get("title") or "").strip()
+                  src = (item.get("source") or "").strip()
+                  url = (item.get("url") or "").strip()
+                  if not title:
+                      continue
+                  count += 1
+                  lines.append(f"{count}. {title}" + (f"（{src}）" if src else ""))
+                  if url:
+                      # 直接放 URL：Telegram 会自动识别成可点击链接
+                      lines.append(url)
+              if count >= LIMIT:
+                  break
+
+          # 分段：尽量按行切，不会截断链接
+          msgs = []
+          cur = ""
+          for line in lines:
+              add = line + "\n"
+              if len(cur) + len(add) > MAX_LEN:
+                  if cur.strip():
+                      msgs.append(cur.rstrip())
+                  cur = add
+              else:
+                  cur += add
+          if cur.strip():
+              msgs.append(cur.rstrip())
+
+          for m in msgs:
+              print(base64.b64encode(m.encode("utf-8")).decode("ascii"))
+          PY
+
+          while read -r B64; do
+            MSG="$(echo "$B64" | base64 -d)"
+
+            RESP=$(curl -sS -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage"               -d chat_id="${TELEGRAM_CHAT_ID}"               --data-urlencode text="${MSG}")
+
+            echo "Telegram response: $RESP"
+            echo "$RESP" | grep -q '"ok":true'
+
+            # 轻微间隔，避免触发速率限制
+            sleep 1
+          done < /tmp/tg_msgs_b64.txt
 
       - name: Commit and push if changes
         run: |
