@@ -1,9 +1,9 @@
-name: Hot News Crawler
+name: TrendRadar Daily Image
 
 on:
   schedule:
-    # 默认每小时整点运行一次（GitHub Actions 的 cron 是 UTC 时间，实际可能和你本地时区不一样）
-    - cron: "0 * * * *"
+    # 每天 01:10 UTC 运行（= 北京时间 09:10）
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 permissions:
@@ -29,60 +29,48 @@ jobs:
 
       - name: Verify required files
         run: |
-          echo "检查必需的配置文件..."
           if [ ! -f config/config.yaml ]; then
-            echo "❌ 错误: config/config.yaml 文件不存在"
-            echo "请参考项目文档创建配置文件"
+            echo "❌ 缺少 config/config.yaml"
             exit 1
           fi
           if [ ! -f config/frequency_words.txt ]; then
-            echo "❌ 错误: config/frequency_words.txt 文件不存在"
-            echo "请参考项目文档创建频率词配置文件"
+            echo "❌ 缺少 config/frequency_words.txt"
             exit 1
           fi
           echo "✅ 配置文件检查通过"
 
-      # ① 原来的：抓取 + 文字推送
-      - name: Run crawler (send text notifications)
-        env:
-          FEISHU_WEBHOOK_URL: ${{ secrets.FEISHU_WEBHOOK_URL }}
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          DINGTALK_WEBHOOK_URL: ${{ secrets.DINGTALK_WEBHOOK_URL }}
-          WEWORK_WEBHOOK_URL: ${{ secrets.WEWORK_WEBHOOK_URL }}
-          GITHUB_ACTIONS: true
-        run: python main.py
-
-      # ② 新增：生成静态 API + 图片（img/news.jpg）
-      - name: Generate api + image (api/trends.json & img/news.jpg)
+      # 只生成：api/trends.json + img/news.jpg（不会发文字通知）
+      - name: Generate api + image
         env:
           GITHUB_ACTIONS: true
         run: python main.py --generate-json
 
-      # ③ 新增：把 img/news.jpg 发到 Telegram
-      - name: Send image to Telegram (news.jpg)
+      # 只发图片到 Telegram
+      - name: Send image to Telegram
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
           if [ -z "${TELEGRAM_BOT_TOKEN}" ] || [ -z "${TELEGRAM_CHAT_ID}" ]; then
-            echo "Telegram secrets not set, skip."
+            echo "Telegram secrets 未配置，跳过发图"
             exit 0
           fi
 
           if [ ! -f "img/news.jpg" ]; then
-            echo "img/news.jpg not found, skip."
+            echo "img/news.jpg 不存在，跳过发图"
             exit 0
           fi
+
+          CAPTION="日报 | $(TZ=Asia/Shanghai date '+%Y-%m-%d')"
 
           curl -sS -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendPhoto" \
             -F chat_id="${TELEGRAM_CHAT_ID}" \
             -F photo=@img/news.jpg \
-            -F caption="TrendRadar 热点图（自动生成）"
+            -F caption="${CAPTION}"
 
       - name: Commit and push if changes
         run: |
           git config --global user.name 'GitHub Actions'
           git config --global user.email 'actions@github.com'
           git add -A
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto update by GitHub Actions at $(TZ=Asia/Shanghai date)" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Daily update $(TZ=Asia/Shanghai date '+%Y-%m-%d')" && git push)
