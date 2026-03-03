@@ -3631,6 +3631,29 @@ def generate_static_api_files(analyzer: "NewsAnalyzer"):
         failed_ids,
         id_to_name,
     ) = generate_api_data(analyzer)
+    # ✅ 新增：全局去重 + 全局最多 20 条（limit 可由环境变量 MAX_HOT_NEWS 控制）
+    stats = dedupe_and_limit_stats(stats, limit=MAX_HOT_NEWS)
+
+    # ✅ 新增：让写入的 api_data 也同步成精简后的 stats（否则 api/trends.json 还是原来的全量）
+    api_data["trends"] = []
+    for stat in stats:
+        if stat.get("count", 0) > 0 or (stat.get("titles") and len(stat["titles"]) > 0):
+            trend_item = {
+                "keyword_group": stat.get("word"),
+                "match_count": len(stat.get("titles", []) or []),
+                "titles": [],
+            }
+            for title_data in (stat.get("titles", []) or []):
+                trend_item["titles"].append({
+                    "title": clean_title(title_data.get("title", "")),
+                    "url": title_data.get("mobileUrl") or title_data.get("url"),
+                    "source": title_data.get("source_name"),
+                    "ranks": title_data.get("ranks", []),
+                    "is_new": title_data.get("is_new", False),
+                    "appearance_count": title_data.get("count", 1),
+                    "time_info": title_data.get("time_display", ""),
+                })
+            api_data["trends"].append(trend_item)
 
     # 生成与API数据关联的HTML报告
     api_html_report_path = generate_html_report(
@@ -3654,6 +3677,9 @@ def generate_static_api_files(analyzer: "NewsAnalyzer"):
     else:
         api_data["report_image_url"] = f"/{image_path}"
         print("警告: config.yaml中未设置 'base_url'，在API中使用相对图片路径。")
+
+    # ✅ 可选：写明这份数据被限制到多少条，方便你核验
+    api_data["limited_hot_news"] = MAX_HOT_NEWS
 
     # 确保API目录存在并将JSON文件保存到新路径
     output_path = "api/trends.json"
