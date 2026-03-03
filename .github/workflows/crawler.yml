@@ -2,7 +2,7 @@ name: TrendRadar Daily Image
 
 on:
   schedule:
-    # 每天 0:0 UTC 运行（= 北京时间 08:00）
+    # 每天 00:00 UTC 运行（= 北京时间 08:00）
     - cron: "0 0 * * *"
   workflow_dispatch:
 
@@ -43,30 +43,40 @@ jobs:
       - name: Generate api + image
         env:
           GITHUB_ACTIONS: true
+          MAX_HOT_NEWS: "20"
+          REPORT_TITLE: "日报"
         run: python main.py --generate-json
 
-      # 只发图片到 Telegram
+      # 只发图片到 Telegram（失败就让 Actions 直接报错，别“成功但没发”）
       - name: Send image to Telegram
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
+          set -e
+
           if [ -z "${TELEGRAM_BOT_TOKEN}" ] || [ -z "${TELEGRAM_CHAT_ID}" ]; then
-            echo "Telegram secrets 未配置，跳过发图"
-            exit 0
+            echo "❌ Telegram secrets 缺失：请到 Settings → Secrets and variables → Actions → Repository secrets 检查："
+            echo "   - TELEGRAM_BOT_TOKEN"
+            echo "   - TELEGRAM_CHAT_ID"
+            exit 1
           fi
 
           if [ ! -f "img/news.jpg" ]; then
-            echo "img/news.jpg 不存在，跳过发图"
-            exit 0
+            echo "❌ img/news.jpg 不存在：说明图片没生成成功，请看上一步 Generate api + image 的日志"
+            ls -lah img || true
+            exit 1
           fi
 
           CAPTION="日报 | $(TZ=Asia/Shanghai date '+%Y-%m-%d')"
 
-          curl -sS -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendPhoto" \
+          RESP=$(curl -sS -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendPhoto" \
             -F chat_id="${TELEGRAM_CHAT_ID}" \
             -F photo=@img/news.jpg \
-            -F caption="${CAPTION}"
+            -F caption="${CAPTION}")
+
+          echo "Telegram response: $RESP"
+          echo "$RESP" | grep -q '"ok":true'
 
       - name: Commit and push if changes
         run: |
