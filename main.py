@@ -202,6 +202,61 @@ def clean_title(title: str) -> str:
     cleaned_title = re.sub(r"\s+", " ", cleaned_title)
     cleaned_title = cleaned_title.strip()
     return cleaned_title
+# ====== 报告精简配置（可由 Actions 环境变量控制）======
+MAX_HOT_NEWS = int(os.environ.get("MAX_HOT_NEWS", "20"))
+REPORT_TITLE = os.environ.get("REPORT_TITLE", "日报")
+
+def _normalize_for_dedupe(title: str) -> str:
+    """
+    用于跨平台去重：保留中英文与数字，去掉空格和常见标点，统一大小写。
+    """
+    if not isinstance(title, str):
+        title = str(title)
+    t = title.strip().lower()
+    # 去掉空白
+    t = re.sub(r"\s+", "", t)
+    # 去掉常见中英文标点（但保留中文/字母/数字）
+    t = re.sub(r"[`~!@#$%^&*()_\-+=\[\]{}\\|;:'\",.<>/?！￥…（）—【】、；：‘’“”，。？]+", "", t)
+    return t
+
+def dedupe_and_limit_stats(stats: List[Dict], limit: int = 20) -> List[Dict]:
+    """
+    对 report stats 做“全局去重 + 全局最多 limit 条”。
+    - stats: 形如 [{'word':..., 'titles':[{'title':..., 'url':..., ...}, ...]}, ...]
+    - 返回一个新的 stats（可能会删掉没有 title 的分组）
+    """
+    seen = set()
+    kept_total = 0
+    new_stats = []
+
+    for stat in stats:
+        titles = stat.get("titles", []) or []
+        kept_titles = []
+        for item in titles:
+            if kept_total >= limit:
+                break
+            raw_title = item.get("title", "")
+            key = _normalize_for_dedupe(raw_title)
+            if not key:
+                continue
+            if key in seen:
+                continue
+            seen.add(key)
+            kept_titles.append(item)
+            kept_total += 1
+
+        if kept_titles:
+            new_stat = dict(stat)
+            new_stat["titles"] = kept_titles
+            # 如果有 count 字段，顺便同步一下（不确定你版本里字段名，安全起见做兼容）
+            if "count" in new_stat:
+                new_stat["count"] = len(kept_titles)
+            new_stats.append(new_stat)
+
+        if kept_total >= limit:
+            break
+
+    return new_stats
 
 
 def ensure_directory_exists(directory: str):
