@@ -162,7 +162,7 @@ def generate_image_from_html(html_file_path: str, output_image_path: str):
 
         with sync_playwright() as p:
             browser = p.chromium.launch()
-            page = browser.new_page(viewport={"width": 650, "height": 1080})
+            page = browser.new_page(viewport={"width": 900, "height": 1200})
             uri = Path(html_file_path).resolve().as_uri()
             page.goto(uri)
             # 截取包含热点新闻分析的 .container 元素
@@ -219,56 +219,68 @@ def _normalize_for_dedupe(title: str) -> str:
 
 def select_titles_balanced(stats: list, total_limit: int = 20, per_group_limit: int = 4) -> list:
     """
-    目标：每个栏目(每个stat)先取最热的几条，轮流取，直到总共 total_limit 条；全局去重；每组最多 per_group_limit 条。
-    stats 结构：[{ "word":..., "count":..., "titles":[{"title":...}, ...] }, ...]
+    目标：总共选出 total_limit 条新闻，尽量“多栏目均衡”，并做全局去重。
+
+    Phase 1：每组最多 per_group_limit 条，轮询取（防止某一组把名额占满）
+    Phase 2：如果还没凑够 total_limit，忽略 per_group_limit，继续轮询补满（尽量凑够 total_limit）
     """
     if not stats or total_limit <= 0:
         return []
 
-    # 只考虑有 titles 的栏目
+    # 只保留有 titles 的栏目
     valid = []
     for s in stats:
         titles = s.get("titles") or []
         if titles:
             valid.append(s)
-
     if not valid:
         return []
 
-    # 轮询指针 / 每组已取数
     idx = [0] * len(valid)
     taken_per_group = [0] * len(valid)
-
     seen = set()
     out = []
     total_taken = 0
 
+    def take_one(group_index: int) -> bool:
+        nonlocal total_taken
+        titles = valid[group_index].get("titles") or []
+        while idx[group_index] < len(titles):
+            item = titles[idx[group_index]]
+            idx[group_index] += 1
+
+            key = _normalize_for_dedupe(item.get("title", ""))
+            if not key or key in seen:
+                continue
+
+            seen.add(key)
+            out.append((group_index, item))
+            total_taken += 1
+            return True
+        return False
+
+    # Phase 1：均衡取（每组上限）
     progressed = True
     while total_taken < total_limit and progressed:
         progressed = False
-
-        for gi, s in enumerate(valid):
+        for gi in range(len(valid)):
             if total_taken >= total_limit:
                 break
             if taken_per_group[gi] >= per_group_limit:
                 continue
-
-            titles = s.get("titles") or []
-            # 找到该组下一个“未重复”的标题
-            while idx[gi] < len(titles):
-                item = titles[idx[gi]]
-                idx[gi] += 1
-
-                key = _normalize_for_dedupe(item.get("title", ""))
-                if not key or key in seen:
-                    continue
-
-                seen.add(key)
-                out.append((gi, item))
+            if take_one(gi):
                 taken_per_group[gi] += 1
-                total_taken += 1
                 progressed = True
+
+    # Phase 2：补满（忽略每组上限）
+    progressed = True
+    while total_taken < total_limit and progressed:
+        progressed = False
+        for gi in range(len(valid)):
+            if total_taken >= total_limit:
                 break
+            if take_one(gi):
+                progressed = True
 
     # 组装回 stats：保留原顺序，只是 titles 被截断且 count 同步
     new_titles_by_group = [[] for _ in range(len(valid))]
@@ -282,10 +294,32 @@ def select_titles_balanced(stats: list, total_limit: int = 20, per_group_limit: 
             continue
         ns = dict(s)
         ns["titles"] = kept
-        ns["count"] = len(kept)  # 重要：不然标题处还是显示旧的“xx条”
+        ns["count"] = len(kept)
         new_stats.append(ns)
 
     return new_stats
+
+
+
+def format_group_title(word: str) -> str:
+    """
+    把类似 '# F. 政治 美国大选 election ...' 变成 'F. 政治'：
+    - 去掉开头的 '#'
+    - 只保留“字母. 分类名”，删除后面关键词
+    """
+    w = (word or "").strip()
+    w = re.sub(r"^#+\s*", "", w)
+    m = re.match(r"^([A-Za-z]\.)\s*([^\s]+)", w)
+    if m:
+        return f"{m.group(1)} {m.group(2)}"
+    return w.split()[0] if w else ""
+
+
+# 兼容旧命名：如果你未来又引用 dedupe_and_limit_stats，也不会报错
+def dedupe_and_limit_stats(stats, limit: int = 20):
+    return select_titles_balanced(stats, total_limit=limit, per_group_limit=MAX_PER_GROUP)
+
+
 
 def ensure_directory_exists(directory: str):
     """确保目录存在"""
@@ -640,7 +674,20 @@ def load_frequency_words(
     filter_words = []
 
     for group in word_groups:
-        words = [word.strip() for word in group.split("\n") if word.strip()]
+        raw_lines = [line.strip() for line in group.split("\n") if line.strip()]
+
+        # 支持“分组标题行”（不会参与匹配关键词，只用于展示）
+        # 例如：# F. 政治 美国大选 election ... -> 展示为 "F. 政治"
+        group_title = ""
+        words = []
+        for line in raw_lines:
+            if not group_title and re.match(r"^#\s*[A-Za-z]\.[^\S\r\n]*\S+", line):
+                group_title = line
+                continue
+            # 其它以 # 开头的行当作注释（忽略）
+            if line.startswith("#"):
+                continue
+            words.append(line)
 
         group_required_words = []
         group_normal_words = []
@@ -656,7 +703,9 @@ def load_frequency_words(
                 group_normal_words.append(word)
 
         if group_required_words or group_normal_words:
-            if group_normal_words:
+            if group_title:
+                group_key = format_group_title(group_title)
+            elif group_normal_words:
                 group_key = " ".join(group_normal_words)
             else:
                 group_key = " ".join(group_required_words)
@@ -1653,7 +1702,7 @@ def render_html_content(
             }
 
             .container {
-                max-width: 600px;
+                max-width: 900px;
                 margin: 0 auto;
                 background: white;
                 border-radius: 12px;
@@ -1702,8 +1751,21 @@ def render_html_content(
                 padding: 24px;
             }
 
+            /* ===== 生成图片用：更紧凑的两列排版（手机浏览不受影响）===== */
+            @media (min-width: 720px) {
+                .content {
+                    column-count: 2;
+                    column-gap: 28px;
+                }
+                .word-group,
+                .news-item {
+                    break-inside: avoid;
+                    page-break-inside: avoid;
+                }
+            }
+
             .word-group {
-                margin-bottom: 40px;
+                margin-bottom: 28px;
             }
 
             .word-group:first-child {
@@ -1714,7 +1776,7 @@ def render_html_content(
                 display: flex;
                 align-items: center;
                 justify-content: space-between;
-                margin-bottom: 20px;
+                margin-bottom: 12px;
                 padding-bottom: 8px;
                 border-bottom: 1px solid #f0f0f0;
             }
@@ -1746,8 +1808,8 @@ def render_html_content(
             }
 
             .news-item {
-                margin-bottom: 20px;
-                padding: 16px 0;
+                margin-bottom: 12px;
+                padding: 10px 0;
                 border-bottom: 1px solid #f5f5f5;
                 position: relative;
                 display: flex;
@@ -2064,7 +2126,7 @@ def render_html_content(
             else:
                 count_class = ""
 
-            escaped_word = html_escape(stat["word"])
+            escaped_word = html_escape(format_group_title(stat["word"]))
 
             html += f"""
                 <div class="word-group">
@@ -3627,7 +3689,7 @@ def generate_api_data(
     for stat in stats:
         if stat["count"] > 0:
             trend_item = {
-                "keyword_group": stat["word"],
+                "keyword_group": format_group_title(stat["word"]),
                 "match_count": stat["count"],
                 "titles": [],
             }
@@ -3659,16 +3721,14 @@ def generate_static_api_files(analyzer: "NewsAnalyzer"):
         failed_ids,
         id_to_name,
     ) = generate_api_data(analyzer)
-    stats = select_titles_balanced(stats, total_limit=MAX_HOT_NEWS, per_group_limit=MAX_PER_GROUP)
-    # ✅ 新增：全局去重 + 全局最多 20 条（limit 可由环境变量 MAX_HOT_NEWS 控制）
-    stats = select_titles_balanced(stats, total_limit=MAX_HOT_NEWS, per_group_limit=MAX_PER_GROUP)
+    stats = select_titles_balanced(stats, total_limit=MAX_HOT_NEWS, per_group_limit=MAX_PER_GROUP)  # 精简：多栏目均衡 + 全局去重 + 总数限制
 
     # ✅ 新增：让写入的 api_data 也同步成精简后的 stats（否则 api/trends.json 还是原来的全量）
     api_data["trends"] = []
     for stat in stats:
         if stat.get("count", 0) > 0 or (stat.get("titles") and len(stat["titles"]) > 0):
             trend_item = {
-                "keyword_group": stat.get("word"),
+                "keyword_group": format_group_title(stat.get("word","")),
                 "match_count": len(stat.get("titles", []) or []),
                 "titles": [],
             }
