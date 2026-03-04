@@ -1,233 +1,210 @@
 {
-  "generated_at": "2026-03-03T23:11:44.631567+08:00",
-  "total_titles_processed": 1014,
+  "generated_at": "2026-03-04T09:09:27.936455+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "F. 政治",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
-          "title": "动武后才通知国会！特朗普向国会提交《战争权力法案》通知",
-          "url": "https://news.ifeng.com/c/8rBh2u8DdpX",
+          "title": "美以伊战争最新动态｜伊朗正犹豫官宣最高领袖接班人",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
           "ranks": [
-            3
+            1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时55分 ~ 23时11分]"
+          "appearance_count": 1,
+          "time_info": "09时09分"
         },
         {
-          "title": "伊朗、美国宣布最新战果",
-          "url": "https://news.ifeng.com/c/8rC1C1sTH0r",
-          "source": "凤凰网",
+          "title": "伊朗首都德黑兰发生新的爆炸。",
+          "url": "https://flash.jin10.com/detail/20260304090537998800",
+          "source": "金十数据",
           "ranks": [
-            2,
-            4,
-            5
+            1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时55分 ~ 23时11分]"
+          "appearance_count": 1,
+          "time_info": "09时09分"
         },
         {
-          "title": "美国要“打入”伊朗？特朗普不排除“必要时”派遣地面部队，北约称不参与军事行动",
-          "url": "https://wallstreetcn.com/articles/3766558",
+          "title": "伊朗货币崩盘,钱变成废纸",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351313&amp;topic_name=%E4%BC%8A%E6%9C%97%E8%B4%A7%E5%B8%81%E5%B4%A9%E7%9B%98%2C%E9%92%B1%E5%8F%98%E6%88%90%E5%BA%9F%E7%BA%B8",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时09分"
+        },
+        {
+          "title": "冲突升级！美伊双方都“不惜代价”，特朗普吹嘘“无限”弹药，并将很快回应大使馆遇袭",
+          "url": "https://wallstreetcn.com/articles/3766606",
           "source": "华尔街见闻",
           "ranks": [
-            4,
-            5
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时55分 ~ 23时11分]"
+          "appearance_count": 1,
+          "time_info": "09时09分"
         },
         {
-          "title": "特朗普批民主党：如果不动手，他们又要叫唤",
-          "url": "https://news.ifeng.com/c/8rBnoV8tG9m",
+          "title": "伊朗称袭击位于印度洋的美军舰",
+          "url": "https://news.ifeng.com/c/8rDCFtWIF7O",
           "source": "凤凰网",
           "ranks": [
-            5
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时55分 ~ 18时54分]"
+          "appearance_count": 1,
+          "time_info": "09时09分"
+        },
+        {
+          "title": "斩首?老外通报特朗普坐标",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351311&amp;topic_name=%E6%96%A9%E9%A6%96%3F%E8%80%81%E5%A4%96%E9%80%9A%E6%8A%A5%E7%89%B9%E6%9C%97%E6%99%AE%E5%9D%90%E6%A0%87",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时09分"
         }
       ]
     },
     {
       "keyword_group": "E. 经济",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
-          "title": "能源和科技股力撑，美股指走V收复失地，原油暴涨重创美债，美元大涨，黄金冲高回落",
-          "url": "https://wallstreetcn.com/articles/3766477",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时55分 ~ 23时11分]"
-        },
-        {
-          "title": "下周一油价将迎调整",
-          "url": "https://www.toutiao.com/trending/7612638678180429830/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            5,
-            1,
-            2,
-            10,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时55分 ~ 18时54分]"
-        },
-        {
-          "title": "油价调整",
-          "url": "https://s.weibo.com/weibo?q=%E6%B2%B9%E4%BB%B7%E8%B0%83%E6%95%B4&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            4,
-            5,
-            2,
-            15,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时55分 ~ 18时54分]"
-        },
-        {
-          "title": "重大升级！报道：沙特最大炼油厂遭无人机袭击关闭，油价急拉",
-          "url": "https://wallstreetcn.com/articles/3766514",
+          "title": "特朗普承诺“护航”，美股指跌幅收窄，美债企稳，美元强势二连涨，原油冲高回落涨5%，金银重挫",
+          "url": "https://wallstreetcn.com/articles/3766590",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时55分 ~ 16时10分]"
+          "appearance_count": 1,
+          "time_info": "09时09分"
+        },
+        {
+          "title": "新台币兑美元贬至31.710，触及5月以来盘中最低。",
+          "url": "https://wallstreetcn.com/livenews/3063128",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时09分"
+        },
+        {
+          "title": "美股收盘：中东冲突加剧通胀担忧 三大股指集体收跌",
+          "url": "https://www.cls.cn/detail/2301893",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时09分"
+        },
+        {
+          "title": "商品期货开盘，原油主力合约涨停，燃料油涨超12%，LU燃油涨超9%，液化气涨6%，甲醇涨超4%。沪锡跌超7%，沪银跌近6%，橡胶、沪金跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3063126",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时09分"
+        },
+        {
+          "title": "现货钯金日内涨超2.00%，现报1677.54美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260304090123875800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时09分"
+        },
+        {
+          "title": "AI加剧“电荒” 美国电网将迎史诗级扩建 750亿美元聚焦“超高压”输电",
+          "url": "https://www.cls.cn/detail/2301441",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时09分"
         }
       ]
     },
     {
       "keyword_group": "C. 电子产品",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
-        {
-          "title": "比亚迪宣布将召开颠覆性技术发布会，可能涉及哪些方面的技术？是否会重塑行业竞争门槛？",
-          "url": "https://www.zhihu.com/question/2011788981294081499",
-          "source": "知乎",
-          "ranks": [
-            3,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时55分 ~ 23时11分]"
-        },
-        {
-          "title": "两会首场发布会举行，全国政协会议议程公布",
-          "url": "https://www.cls.cn/detail/2301022",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            5,
-            3,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时07分 ~ 23时11分]"
-        },
         {
           "title": "全国政协十四届四次会议发布会",
           "url": "https://www.douyin.com/hot/2417509",
           "source": "抖音",
           "ranks": [
-            1
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时55分 ~ 18时54分]"
+          "appearance_count": 1,
+          "time_info": "09时09分"
         },
         {
-          "title": "全国两会首场新闻发布会将于今日下午3点开启",
-          "url": "https://www.cls.cn/detail/2300884",
-          "source": "财联社热门",
+          "title": "苹果新品哪些值得买",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E6%96%B0%E5%93%81%E5%93%AA%E4%BA%9B%E5%80%BC%E5%BE%97%E4%B9%B0",
+          "source": "bilibili 热搜",
           "ranks": [
-            8,
-            6,
-            4,
-            5
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时55分 ~ 22时50分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "D. 半导体",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "伊朗风险爆发，“台积电、三星和海力士”在内，今年大赚的新兴市场交易面临变局？",
-          "url": "https://wallstreetcn.com/articles/3766573",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时55分 ~ 23时11分]"
+          "appearance_count": 1,
+          "time_info": "09时09分"
         },
         {
-          "title": "A股半导体公司集体发涨价函",
-          "url": "https://www.toutiao.com/trending/7612660746741104650/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时50分 ~ 23时11分]"
-        },
-        {
-          "title": "美伊战火扰乱半导体供应 以色列晶圆厂客户紧急转单 成熟制程或掀涨价潮",
-          "url": "https://www.cls.cn/detail/2300914",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时50分 ~ 23时11分]"
-        },
-        {
-          "title": "地平线HSD首搭硬派SUV，iCAR V27引入560TOPS征程6P芯片",
-          "url": "https://wallstreetcn.com/livenews/3062672",
+          "title": "知情人士称，小米的联合创始人林斌已达成协议，将以125亿美元的估值收购迈阿密海豚队1%的股份。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3063112",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            21
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时50分 ~ 18时31分]"
+          "appearance_count": 1,
+          "time_info": "09时09分"
+        },
+        {
+          "title": "全国两会首场发布会如何传递开局之年的坚定信心",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32691929",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时09分"
+        },
+        {
+          "title": "华为李鹏：5G-A将释放技术红利",
+          "url": "https://www.toutiao.com/trending/7612632836864884790/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时09分"
         }
       ]
     },
@@ -240,55 +217,33 @@
           "url": "https://wallstreetcn.com/articles/3766588",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时55分 ~ 23时11分]"
-        },
-        {
-          "title": "OpenAI的“五角大楼时刻”？ChatGPT卸载量暴增近300% 一星评分飙升775%",
-          "url": "https://www.cls.cn/detail/2300871",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时55分 ~ 22时50分]"
-        },
-        {
-          "title": "OpenAI与美国五角大楼在AI协议中新增监控保护条款。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3062845",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时50分 ~ 23时11分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "G. 网络安全",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "波兰化肥巨头暂停三月新单 能源成本飙升触发供应链危机",
-          "url": "https://flash.jin10.com/detail/20260303222338125800",
-          "source": "金十数据",
-          "ranks": [
-            15
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时50分"
+          "time_info": "09时09分"
+        },
+        {
+          "title": "阿里千问大模型技术负责人自宣卸任",
+          "url": "https://wallstreetcn.com/livenews/3063116",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时09分"
+        },
+        {
+          "title": "Claude崩了，全球AI因何“熔断”？",
+          "url": "https://wallstreetcn.com/articles/3766631",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时09分"
         }
       ]
     }
