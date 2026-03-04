@@ -3,7 +3,7 @@ name: TrendRadar Daily Image
 on:
   schedule:
     # 每天 00:00 UTC 运行（= 北京时间 08:00）
-    - cron: "0 0 * * *"
+    - cron: "49 1 * * *"
   workflow_dispatch:
 
 permissions:
