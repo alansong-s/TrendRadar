@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T09:19:03.860397+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-06T09:22:24.418496+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
@@ -8,7 +8,7 @@
       "match_count": 5,
       "titles": [
         {
-          "title": "美以伊战争最新动态｜参议院末能阻止特朗普继续动武",
+          "title": "美以伊战争最新动态｜美宣布摧毁超过30艘伊朗军舰",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
           "ranks": [
@@ -16,51 +16,51 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时19分"
+          "time_info": "09时22分"
         },
         {
-          "title": "伊朗确定最高领袖候选人！以色列：任何新领袖都将成为“清除目标”",
-          "url": "https://wallstreetcn.com/articles/3766716",
-          "source": "华尔街见闻",
+          "title": "美国中央司令部：美国军队在摧毁整个伊朗海军的任务上毫不手软。今天，一艘伊朗无人机母舰（大小大约相当于二战时期的航空母舰）被击中并起火。",
+          "url": "https://flash.jin10.com/detail/20260306091005949800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "特朗普妄称“必须亲自参与”选定伊朗新领导人",
+          "url": "https://news.ifeng.com/c/8rGUp5Pquod",
+          "source": "凤凰网",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时19分"
+          "time_info": "09时22分"
         },
         {
-          "title": "高盛CEO所罗门：市场对伊朗反应温和令人意外，可能还需要几周时间才能真正消化",
-          "url": "https://wallstreetcn.com/articles/3766680",
+          "title": "特朗普：若满分10分，我给美对伊行动打15分",
+          "url": "https://news.ifeng.com/c/8rFQi0S5RcE",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "伊朗：未封锁霍尔木兹海峡，但通行规则由伊掌控",
+          "url": "https://wallstreetcn.com/articles/3766800",
           "source": "华尔街见闻",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时19分"
-        },
-        {
-          "title": "霍尔木兹遭封锁 特朗普抛出保险与护航方案 航运业态度谨慎",
-          "url": "https://www.cls.cn/detail/2302897",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时19分"
-        },
-        {
-          "title": "美防长：美以要一周内“完全控制”伊朗天空",
-          "url": "https://news.ifeng.com/c/8rE8htDtcfv",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时19分"
+          "time_info": "09时22分"
         }
       ]
     },
@@ -69,59 +69,109 @@
       "match_count": 5,
       "titles": [
         {
-          "title": "强劲数据重燃风险偏好，科技股带领美股反弹，纳指涨1.3%，美债三连跌，加密货币大涨",
-          "url": "https://wallstreetcn.com/articles/3766668",
-          "source": "华尔街见闻",
+          "title": "美股收盘：道琼斯指数暴跌近800点，伊朗冲突外溢油价飙升",
+          "url": "https://www.cls.cn/detail/2304478",
+          "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时19分"
+          "time_info": "09时22分"
         },
         {
-          "title": "美股收盘：通胀担忧暂缓、油价持稳 科技股带动大盘重拾升势",
-          "url": "https://www.cls.cn/detail/2303150",
-          "source": "财联社热门",
+          "title": "人民币兑美元中间价报6.9025，下调18点；上一交易日中间价6.9007，上一交易日16:30官方收盘价6.9003，上日夜盘报收6.9125。",
+          "url": "https://wallstreetcn.com/livenews/3064751",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时19分"
+          "time_info": "09时22分"
         },
         {
-          "title": "现货黄金向上触及5180美元/盎司，日内涨0.76%。",
-          "url": "https://flash.jin10.com/detail/20260305090644325800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时19分"
-        },
-        {
-          "title": "【早报】十四届全国人大四次会议今日上午开幕；白宫：美联储主席提名已提交",
-          "url": "https://www.cls.cn/detail/2303165",
-          "source": "财联社热门",
+          "title": "布伦特原油期货下跌1.90美元，至83.55美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3064749",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时19分"
+          "time_info": "09时22分"
         },
         {
-          "title": "10年期日本国债收益率上行3.5个基点，报2.145%。",
-          "url": "https://flash.jin10.com/detail/20260305090623966800",
-          "source": "金十数据",
+          "title": "现货黄金短线下挫70美元，报道：波兰拟售黄金储备为国防融资",
+          "url": "https://wallstreetcn.com/articles/3766831",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时19分"
+          "time_info": "09时22分"
+        },
+        {
+          "title": "史无前例！美国要亲自下场“操盘”原油期货，美财长贝森特要“重操旧业”？",
+          "url": "https://wallstreetcn.com/articles/3766858",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A. AI",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "OpenAI发布最强专业模型GPT-5.4，自动操作电脑，插件支持AI玩转Excel和金融分析",
+          "url": "https://wallstreetcn.com/articles/3766836",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "如何看待林俊旸和他所带领开发的 Qwen 系列模型对行业的贡献？",
+          "url": "https://www.zhihu.com/question/2012928663889338822",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "Anthropic：我们唯一的关切始终在于我们对完全自主武器和大规模国内监控的反对立场。将以象征性成本向美国国防部及国家安全界提供我们的模型，并由我们的工程师持续提供技术支持。",
+          "url": "https://flash.jin10.com/detail/20260306084739380800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "有数｜今年的政府工作报告，大模型读到了这些新词和热词",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32652126",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时22分"
         }
       ]
     },
@@ -130,126 +180,76 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "两会日报 | 全国人大首场新闻发布会举行，回应中美关系、伊朗局势、机器人等热点问题",
-          "url": "https://www.cls.cn/detail/2302661",
-          "source": "财联社热门",
+          "title": "麦当劳 CEO 发布新品汉堡试吃视频，被网友调侃表情像「吃糠咽菜」，如何看待这次公关营销「翻车」？",
+          "url": "https://www.zhihu.com/question/2012486365992936364",
+          "source": "知乎",
           "ranks": [
-            1
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时19分"
+          "time_info": "09时22分"
         },
         {
-          "title": "MacBook Neo上手体验",
-          "url": "https://search.bilibili.com/all?keyword=MacBook%20Neo%E4%B8%8A%E6%89%8B%E4%BD%93%E9%AA%8C",
+          "title": "武林外传小米演员已经坚持施粥5年",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%9E%97%E5%A4%96%E4%BC%A0%E5%B0%8F%E7%B1%B3%E6%BC%94%E5%91%98%E5%B7%B2%E7%BB%8F%E5%9D%9A%E6%8C%81%E6%96%BD%E7%B2%A55%E5%B9%B4%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "iPhone17e上手体验",
+          "url": "https://search.bilibili.com/all?keyword=iPhone17e%E4%B8%8A%E6%89%8B%E4%BD%93%E9%AA%8C",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时19分"
+          "time_info": "09时22分"
         },
         {
-          "title": "不到4600元！苹果推出MacBook Neo",
-          "url": "https://www.toutiao.com/trending/7613279308483887142/",
-          "source": "今日头条",
+          "title": "苹果新品发布会全复盘",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E6%96%B0%E5%93%81%E5%8F%91%E5%B8%83%E4%BC%9A%E5%85%A8%E5%A4%8D%E7%9B%98",
+          "source": "bilibili 热搜",
           "ranks": [
-            12
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时19分"
-        },
-        {
-          "title": "苹果春季发布会",
-          "url": "https://www.douyin.com/hot/2419299",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A. AI",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "国内目前使用的 AI 智能问答软件，豆包、通义千问、元宝、 kimi 、 deepseek，哪个好用？",
-          "url": "https://www.zhihu.com/question/1922608207504867947",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时19分"
-        },
-        {
-          "title": "AWS 阿联酋数据中心遭物体撞击后起火，同时 Claude 全球宕机，两者有关系吗？如何看待这一风波？",
-          "url": "https://www.zhihu.com/question/2011731606025499798",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时19分"
-        },
-        {
-          "title": "据英国金融时报：继人工智能合作之后，OpenAI寻求美国国防部提供更多监控方面的保障。",
-          "url": "https://flash.jin10.com/detail/20260305084158764800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时19分"
+          "time_info": "09时22分"
         }
       ]
     },
     {
       "keyword_group": "D. 半导体",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
         {
-          "title": "阿里核心管理层齐聚聊AI，马云：AI拥有芯片，而人类拥有的是心",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32693730",
-          "source": "澎湃新闻",
+          "title": "非农前夜，油价飙升引发通胀担忧，芯片股领跌美股，美债四连跌，美元走强",
+          "url": "https://wallstreetcn.com/articles/3766762",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时19分"
+          "time_info": "09时22分"
         },
         {
-          "title": "中国芯片让区块链性能提升50倍",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%8A%AF%E7%89%87%E8%AE%A9%E5%8C%BA%E5%9D%97%E9%93%BE%E6%80%A7%E8%83%BD%E6%8F%90%E5%8D%8750%E5%80%8D%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
+          "title": "雷军回应手机内存芯片价格上涨",
+          "url": "https://www.douyin.com/hot/2419523",
+          "source": "抖音",
           "ranks": [
-            10
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时19分"
-        },
-        {
-          "title": "韩国股市反弹12%，芯片股领涨",
-          "url": "https://flash.jin10.com/detail/20260305083405632800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时19分"
+          "time_info": "09时22分"
         }
       ]
     }
