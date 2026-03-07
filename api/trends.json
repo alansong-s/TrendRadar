@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-03-06T09:22:24.418496+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-03-07T09:13:59.289371+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "F. 政治",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
-          "title": "美以伊战争最新动态｜美宣布摧毁超过30艘伊朗军舰",
+          "title": "美以伊战争｜伊朗炸了美企巨头数据中心",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
           "ranks": [
@@ -16,29 +16,29 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时22分"
+          "time_info": "09时13分"
         },
         {
-          "title": "美国中央司令部：美国军队在摧毁整个伊朗海军的任务上毫不手软。今天，一艘伊朗无人机母舰（大小大约相当于二战时期的航空母舰）被击中并起火。",
-          "url": "https://flash.jin10.com/detail/20260306091005949800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
-        },
-        {
-          "title": "特朗普妄称“必须亲自参与”选定伊朗新领导人",
-          "url": "https://news.ifeng.com/c/8rGUp5Pquod",
+          "title": "最后的血性！伊朗护卫舰被命中沉没前，发射最后一枚导弹",
+          "url": "https://v.ifeng.com/c/8rHEyj4F4pH",
           "source": "凤凰网",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时22分"
+          "time_info": "09时13分"
+        },
+        {
+          "title": "特朗普：军工企业一致同意将“高精尖”武器产量提高四倍",
+          "url": "https://flash.jin10.com/detail/20260307082138210800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         },
         {
           "title": "特朗普：若满分10分，我给美对伊行动打15分",
@@ -49,207 +49,201 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时22分"
+          "time_info": "09时13分"
         },
         {
-          "title": "伊朗：未封锁霍尔木兹海峡，但通行规则由伊掌控",
-          "url": "https://wallstreetcn.com/articles/3766800",
+          "title": "美能源部长称将尽快开始护航，特朗普宣称“与伊朗不会达成任何协议”",
+          "url": "https://wallstreetcn.com/articles/3766927",
           "source": "华尔街见闻",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "E. 经济",
-      "match_count": 5,
-      "titles": [
+          "time_info": "09时13分"
+        },
         {
-          "title": "美股收盘：道琼斯指数暴跌近800点，伊朗冲突外溢油价飙升",
-          "url": "https://www.cls.cn/detail/2304478",
-          "source": "财联社热门",
+          "title": "打伊朗，有人替美国算了笔账",
+          "url": "https://news.ifeng.com/c/8rHQ0lIfh8O",
+          "source": "凤凰网",
           "ranks": [
-            1
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时22分"
+          "time_info": "09时13分"
         },
         {
-          "title": "人民币兑美元中间价报6.9025，下调18点；上一交易日中间价6.9007，上一交易日16:30官方收盘价6.9003，上日夜盘报收6.9125。",
-          "url": "https://wallstreetcn.com/livenews/3064751",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
-        },
-        {
-          "title": "布伦特原油期货下跌1.90美元，至83.55美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3064749",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
-        },
-        {
-          "title": "现货黄金短线下挫70美元，报道：波兰拟售黄金储备为国防融资",
-          "url": "https://wallstreetcn.com/articles/3766831",
-          "source": "华尔街见闻",
+          "title": "中方是否向伊朗提供了军事支持？外交部回应",
+          "url": "https://news.ifeng.com/c/8rH3OdzVELl",
+          "source": "凤凰网",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时22分"
-        },
+          "time_info": "09时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "E. 经济",
+      "match_count": 6,
+      "titles": [
         {
-          "title": "史无前例！美国要亲自下场“操盘”原油期货，美财长贝森特要“重操旧业”？",
-          "url": "https://wallstreetcn.com/articles/3766858",
+          "title": "非农爆冷叠加中东战火，美国股汇齐跌，大宗商品指数历史新高，美油飙升16%，“恐慌指数”VIX大涨",
+          "url": "https://wallstreetcn.com/articles/3766902",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时22分"
+          "time_info": "09时13分"
+        },
+        {
+          "title": "Hims & Hers Health美股盘后涨近37%，报道称诺和诺德计划在Hims的平台上销售其减肥药",
+          "url": "https://wallstreetcn.com/livenews/3065532",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
+          "title": "国际原油期货结算价创最大周涨幅",
+          "url": "https://www.toutiao.com/trending/7614283807050436105/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
+          "title": "爆冷！美国2月非农就业人口减少9.2万，前两月就业下修6.9万，失业率意外升至4.4%",
+          "url": "https://wallstreetcn.com/articles/3766920",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
+          "title": "卡塔尔：若战争持续数周，海湾国家将被迫停产，未来三周油价恐飙至150美元",
+          "url": "https://wallstreetcn.com/articles/3766900",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
+          "title": "美股收盘：油价暴涨叠加就业数据疲软 三大指数集体收跌",
+          "url": "https://www.cls.cn/detail/2305872",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         }
       ]
     },
     {
       "keyword_group": "A. AI",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
-          "title": "OpenAI发布最强专业模型GPT-5.4，自动操作电脑，插件支持AI玩转Excel和金融分析",
-          "url": "https://wallstreetcn.com/articles/3766836",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
-        },
-        {
-          "title": "如何看待林俊旸和他所带领开发的 Qwen 系列模型对行业的贡献？",
-          "url": "https://www.zhihu.com/question/2012928663889338822",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
-        },
-        {
-          "title": "Anthropic：我们唯一的关切始终在于我们对完全自主武器和大规模国内监控的反对立场。将以象征性成本向美国国防部及国家安全界提供我们的模型，并由我们的工程师持续提供技术支持。",
-          "url": "https://flash.jin10.com/detail/20260306084739380800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
-        },
-        {
-          "title": "有数｜今年的政府工作报告，大模型读到了这些新词和热词",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32652126",
+          "title": "智能体新时代来了？GPT-5.4发布，会直接使用电脑，但被指出仍存三大问题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32711033",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时22分"
+          "time_info": "09时13分"
+        },
+        {
+          "title": "据英国金融时报：美国规则草案要求，民用政府合同应允许“任何合法”用途使用（AI）模型。",
+          "url": "https://flash.jin10.com/detail/20260307080944483800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
+          "title": "他把AI模型卖给美军，如今却害怕成为“末日博士”",
+          "url": "https://news.ifeng.com/c/8rHKBpbeROT",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
+          "title": "据英国金融时报：美国在Anthropic事件引发争议之际，出台严格的人工智能新指南。",
+          "url": "https://flash.jin10.com/detail/20260307080922168800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
+          "title": "美国起草了新的政府关于人工智能合同的指导方针，美国希望人工智能公司允许“任何合法”的使用方式来应用人工智能模型。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3065520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
+          "title": "甲骨文与OpenAI或放弃扩建得州大型AI数据中心",
+          "url": "https://flash.jin10.com/detail/20260307080857687800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         }
       ]
     },
     {
       "keyword_group": "C. 电子产品",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
-          "title": "麦当劳 CEO 发布新品汉堡试吃视频，被网友调侃表情像「吃糠咽菜」，如何看待这次公关营销「翻车」？",
-          "url": "https://www.zhihu.com/question/2012486365992936364",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
-        },
-        {
-          "title": "武林外传小米演员已经坚持施粥5年",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%9E%97%E5%A4%96%E4%BC%A0%E5%B0%8F%E7%B1%B3%E6%BC%94%E5%91%98%E5%B7%B2%E7%BB%8F%E5%9D%9A%E6%8C%81%E6%96%BD%E7%B2%A55%E5%B9%B4%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
-        },
-        {
-          "title": "iPhone17e上手体验",
-          "url": "https://search.bilibili.com/all?keyword=iPhone17e%E4%B8%8A%E6%89%8B%E4%BD%93%E9%AA%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
-        },
-        {
-          "title": "苹果新品发布会全复盘",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E6%96%B0%E5%93%81%E5%8F%91%E5%B8%83%E4%BC%9A%E5%85%A8%E5%A4%8D%E7%9B%98",
+          "title": "苹果春季新品快速体验",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E6%98%A5%E5%AD%A3%E6%96%B0%E5%93%81%E5%BF%AB%E9%80%9F%E4%BD%93%E9%AA%8C",
           "source": "bilibili 热搜",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "D. 半导体",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "非农前夜，油价飙升引发通胀担忧，芯片股领跌美股，美债四连跌，美元走强",
-          "url": "https://wallstreetcn.com/articles/3766762",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
-        },
-        {
-          "title": "雷军回应手机内存芯片价格上涨",
-          "url": "https://www.douyin.com/hot/2419523",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
+          "time_info": "09时13分"
         }
       ]
     }
