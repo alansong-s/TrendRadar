@@ -1,14 +1,36 @@
 {
-  "generated_at": "2026-03-07T09:13:59.289371+08:00",
+  "generated_at": "2026-03-08T09:19:39.334041+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "F. 政治",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
-          "title": "美以伊战争｜伊朗炸了美企巨头数据中心",
+          "title": "别只盯着伊朗，美国私募信贷危机正一步步重现“次贷危机”",
+          "url": "https://wallstreetcn.com/articles/3766940",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
+          "title": "伊朗总统向邻国表示歉意：不再攻击邻国 也不发射导弹",
+          "url": "https://www.cls.cn/detail/2306041",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
+          "title": "美以伊战争｜伊朗公布在美以轰炸中遇难儿童照片",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
           "ranks": [
@@ -16,217 +38,195 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时13分"
+          "time_info": "09时19分"
         },
         {
-          "title": "最后的血性！伊朗护卫舰被命中沉没前，发射最后一枚导弹",
-          "url": "https://v.ifeng.com/c/8rHEyj4F4pH",
+          "title": "伊朗局势，戏剧性变化出现了",
+          "url": "https://news.ifeng.com/c/8rJsPAwIDfu",
           "source": "凤凰网",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时13分"
+          "time_info": "09时19分"
         },
         {
-          "title": "特朗普：军工企业一致同意将“高精尖”武器产量提高四倍",
-          "url": "https://flash.jin10.com/detail/20260307082138210800",
-          "source": "金十数据",
+          "title": "白宫叫停涉伊朗冲突威胁的联邦安全警报发布",
+          "url": "https://wallstreetcn.com/livenews/3065787",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时13分"
+          "time_info": "09时19分"
         },
         {
-          "title": "特朗普：若满分10分，我给美对伊行动打15分",
-          "url": "https://news.ifeng.com/c/8rFQi0S5RcE",
+          "title": "特朗普：目前无计划在伊朗部署地面部队",
+          "url": "https://news.ifeng.com/c/8rJig12CHog",
           "source": "凤凰网",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时13分"
+          "time_info": "09时19分"
         },
         {
-          "title": "美能源部长称将尽快开始护航，特朗普宣称“与伊朗不会达成任何协议”",
-          "url": "https://wallstreetcn.com/articles/3766927",
-          "source": "华尔街见闻",
+          "title": "特朗普称已排除库尔德武装参战可能",
+          "url": "https://wallstreetcn.com/livenews/3065786",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时13分"
+          "time_info": "09时19分"
         },
         {
-          "title": "打伊朗，有人替美国算了笔账",
-          "url": "https://news.ifeng.com/c/8rHQ0lIfh8O",
+          "title": "特朗普先“赢”上了：伊朗道歉都是我的功劳，今天伊朗将遭受重击",
+          "url": "https://news.ifeng.com/c/8rJ3FnhA3LI",
           "source": "凤凰网",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时13分"
+          "time_info": "09时19分"
         },
         {
-          "title": "中方是否向伊朗提供了军事支持？外交部回应",
-          "url": "https://news.ifeng.com/c/8rH3OdzVELl",
-          "source": "凤凰网",
+          "title": "知情人士称五角大楼承认伊朗无人机破坏力超出预期",
+          "url": "https://wallstreetcn.com/livenews/3065785",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时13分"
+          "time_info": "09时19分"
         }
       ]
     },
     {
       "keyword_group": "E. 经济",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
-          "title": "非农爆冷叠加中东战火，美国股汇齐跌，大宗商品指数历史新高，美油飙升16%，“恐慌指数”VIX大涨",
-          "url": "https://wallstreetcn.com/articles/3766902",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时13分"
-        },
-        {
-          "title": "Hims & Hers Health美股盘后涨近37%，报道称诺和诺德计划在Hims的平台上销售其减肥药",
-          "url": "https://wallstreetcn.com/livenews/3065532",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时13分"
-        },
-        {
-          "title": "国际原油期货结算价创最大周涨幅",
-          "url": "https://www.toutiao.com/trending/7614283807050436105/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时13分"
-        },
-        {
-          "title": "爆冷！美国2月非农就业人口减少9.2万，前两月就业下修6.9万，失业率意外升至4.4%",
-          "url": "https://wallstreetcn.com/articles/3766920",
+          "title": "高盛“撕报告”：如果霍尔木兹海峡未来几天没“如期恢复”，油价“巨大上行风险”迅速扩大",
+          "url": "https://wallstreetcn.com/articles/3766948",
           "source": "华尔街见闻",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时13分"
+          "time_info": "09时19分"
         },
         {
-          "title": "卡塔尔：若战争持续数周，海湾国家将被迫停产，未来三周油价恐飙至150美元",
-          "url": "https://wallstreetcn.com/articles/3766900",
+          "title": "真正的油价冲击！中东原油“停产潮”即将来到",
+          "url": "https://wallstreetcn.com/articles/3766945",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时13分"
+          "time_info": "09时19分"
+        },
+        {
+          "title": "贝森特称或解除更多对俄原油制裁，释放“滞留海上原油”压油价",
+          "url": "https://wallstreetcn.com/articles/3766938",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时19分"
         },
         {
           "title": "美股收盘：油价暴涨叠加就业数据疲软 三大指数集体收跌",
           "url": "https://www.cls.cn/detail/2305872",
           "source": "财联社热门",
           "ranks": [
-            3
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A. AI",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "智能体新时代来了？GPT-5.4发布，会直接使用电脑，但被指出仍存三大问题",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32711033",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时13分"
+          "time_info": "09时19分"
         },
         {
-          "title": "据英国金融时报：美国规则草案要求，民用政府合同应允许“任何合法”用途使用（AI）模型。",
-          "url": "https://flash.jin10.com/detail/20260307080944483800",
-          "source": "金十数据",
+          "title": "连续16个月增持！中国2月末黄金储备环比增加3万盎司",
+          "url": "https://wallstreetcn.com/articles/3766943",
+          "source": "华尔街见闻",
           "ranks": [
-            10
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时13分"
+          "time_info": "09时19分"
         },
         {
-          "title": "他把AI模型卖给美军，如今却害怕成为“末日博士”",
-          "url": "https://news.ifeng.com/c/8rHKBpbeROT",
-          "source": "凤凰网",
+          "title": "国际油价正冲向“100大关”，后续走势及影响会如何发展？一文读懂",
+          "url": "https://www.cls.cn/detail/2305901",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
+          "title": "伊朗军方称不会关闭霍尔木兹海峡 油价出现史诗级涨幅 | 环球市场",
+          "url": "https://www.cls.cn/detail/2305879",
+          "source": "财联社热门",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时13分"
+          "time_info": "09时19分"
         },
         {
-          "title": "据英国金融时报：美国在Anthropic事件引发争议之际，出台严格的人工智能新指南。",
-          "url": "https://flash.jin10.com/detail/20260307080922168800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时13分"
-        },
-        {
-          "title": "美国起草了新的政府关于人工智能合同的指导方针，美国希望人工智能公司允许“任何合法”的使用方式来应用人工智能模型。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3065520",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时13分"
-        },
-        {
-          "title": "甲骨文与OpenAI或放弃扩建得州大型AI数据中心",
-          "url": "https://flash.jin10.com/detail/20260307080857687800",
-          "source": "金十数据",
+          "title": "【早报】事关货币政策，潘功胜发声；央行连续第16个月增持黄金",
+          "url": "https://www.cls.cn/detail/2306201",
+          "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时13分"
+          "time_info": "09时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A. AI",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI机器人团队主管辞职，因公司与五角大楼的AI交易",
+          "url": "https://wallstreetcn.com/livenews/3065778",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
+          "title": "“龙虾”狂欢①4个月25万星标！开源智能体“龙虾”为何能席卷AI圈",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32723518",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时19分"
         }
       ]
     },
@@ -235,15 +235,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "苹果春季新品快速体验",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E6%98%A5%E5%AD%A3%E6%96%B0%E5%93%81%E5%BF%AB%E9%80%9F%E4%BD%93%E9%AA%8C",
-          "source": "bilibili 热搜",
+          "title": "外国人体验中式养生后手脚不凉了",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E5%9B%BD%E4%BA%BA%E4%BD%93%E9%AA%8C%E4%B8%AD%E5%BC%8F%E5%85%BB%E7%94%9F%E5%90%8E%E6%89%8B%E8%84%9A%E4%B8%8D%E5%87%89%E4%BA%86",
+          "source": "百度热搜",
           "ranks": [
-            18
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时13分"
+          "time_info": "09时19分"
         }
       ]
     }
