@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-09T09:19:32.422275+08:00",
+  "generated_at": "2026-03-10T09:14:10.502259+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
@@ -8,92 +8,92 @@
       "match_count": 8,
       "titles": [
         {
-          "title": "土伊边境的伊朗人：我姐姐在轰炸区，我必须回去",
-          "url": "https://news.ifeng.com/c/8rKNzc0epsR",
+          "title": "美以伊战争｜特朗普：普京想帮忙，我说你先结束战争",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "卡塔尔首相斥伊朗再度“背叛”，称伊袭海湾国家早有预谋",
+          "url": "https://news.ifeng.com/c/8rM9AeqiOro",
           "source": "凤凰网",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时19分"
+          "time_info": "09时14分"
         },
         {
-          "title": "越南政府：因中东冲突导致供应中断，将取消燃油关税。",
-          "url": "https://flash.jin10.com/detail/20260309085156033800",
-          "source": "金十数据",
+          "title": "实锤!美军轰炸伊朗小学",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351565&amp;topic_name=%E5%AE%9E%E9%94%A4%21%E7%BE%8E%E5%86%9B%E8%BD%B0%E7%82%B8%E4%BC%8A%E6%9C%97%E5%B0%8F%E5%AD%A6",
+          "source": "贴吧",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时19分"
+          "time_info": "09时14分"
         },
         {
-          "title": "马克龙同伊朗总统通话 呼吁保障霍尔木兹海峡航行自由",
-          "url": "https://wallstreetcn.com/livenews/3066028",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时19分"
-        },
-        {
-          "title": "王毅谈特朗普访华",
-          "url": "https://www.douyin.com/hot/2423029",
-          "source": "抖音",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时19分"
-        },
-        {
-          "title": "两会外长会｜王毅谈特朗普访华：今年是中美关系“大年”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32726656",
-          "source": "澎湃新闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时19分"
-        },
-        {
-          "title": "穆杰塔巴·哈梅内伊当选伊朗新任最高领袖",
-          "url": "https://www.cls.cn/detail/2306524",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时19分"
-        },
-        {
-          "title": "伊朗称已俘虏数名美军士兵，美方急了：满口谎言",
-          "url": "https://news.ifeng.com/c/8rKLRod7LyL",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时19分"
-        },
-        {
-          "title": "伊朗宣布“匿名”选出新的最高领袖，以色列：将毫不犹豫视其为“目标”",
-          "url": "https://wallstreetcn.com/articles/3766971",
+          "title": "美以“首次出现重大分歧”：美方不满以袭击伊朗油库",
+          "url": "https://wallstreetcn.com/articles/3767040",
           "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "伊朗警告马克龙：任何支持美以的行为，都将视作直接参战",
+          "url": "https://news.ifeng.com/c/8rMAAn3HQjZ",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "特朗普回应拉里贾尼威胁",
+          "url": "https://news.ifeng.com/c/8rM7NkGzfDg",
+          "source": "凤凰网",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时19分"
+          "time_info": "09时14分"
+        },
+        {
+          "title": "伊朗最高领袖穆杰塔巴将发表讲话",
+          "url": "https://news.ifeng.com/c/8rMH3LvV2O1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "伊朗革命卫队：不允许“敌方及其盟友”从该地区出口石油",
+          "url": "https://wallstreetcn.com/livenews/3066851",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时14分"
         }
       ]
     },
@@ -102,148 +102,148 @@
       "match_count": 7,
       "titles": [
         {
-          "title": "真要压油价，美国“几乎只有一个办法”：霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/articles/3766964",
+          "title": "TACO！特朗普称“战争很快结束”，美国股债深V反转，原油一度较日高跳水30%",
+          "url": "https://wallstreetcn.com/articles/3766990",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时19分"
+          "time_info": "09时14分"
         },
         {
-          "title": "油价飙升 美媒：特朗普正面临越来越多的问题",
-          "url": "https://flash.jin10.com/detail/20260309085313681800",
-          "source": "金十数据",
+          "title": "美股收盘：特朗普称战争“基本结束” 三大指数集体收涨 纳指涨超1%",
+          "url": "https://www.cls.cn/detail/2307796",
+          "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时19分"
+          "time_info": "09时14分"
         },
         {
-          "title": "中东原油“停产潮”：阿联酋、科威特宣布减产",
-          "url": "https://wallstreetcn.com/articles/3766962",
-          "source": "华尔街见闻",
+          "title": "3 月 9 日晚国内油价上调，加满一箱油将多花 27.5 元，会有多大影响？油价是否会继续上涨？",
+          "url": "https://www.zhihu.com/question/2014387754457392342",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "【早报】特朗普：将取消部分制裁，以平抑油价；国际油价高位跳水",
+          "url": "https://www.cls.cn/detail/2307815",
+          "source": "财联社热门",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时19分"
+          "time_info": "09时14分"
         },
         {
-          "title": "美元兑日元USD/JPY日内涨幅扩大至0.50%，现报158.59。",
-          "url": "https://flash.jin10.com/detail/20260309084615892800",
+          "title": "日本五年期国债收益率下跌2.0个基点，至1.600%。",
+          "url": "https://flash.jin10.com/detail/20260310084053029800",
           "source": "金十数据",
           "ranks": [
-            3
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时19分"
+          "time_info": "09时14分"
         },
         {
-          "title": "WTI原油涨幅重新扩大至20%，现报109.2美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260309084413302800",
-          "source": "金十数据",
+          "title": "是时候卖原油了？美银Hartnett：特朗普要赢中期选举，美伊战争必须在3月“降级”",
+          "url": "https://wallstreetcn.com/articles/3767022",
+          "source": "华尔街见闻",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时19分"
+          "time_info": "09时14分"
         },
         {
-          "title": "印度Nifty 50指数期货跌2.4%，此前油价暴涨。",
-          "url": "https://wallstreetcn.com/livenews/3066026",
+          "title": "商品期货开盘，PTA、短纤主力合约涨超7%，对二甲苯涨超6%，瓶片涨超5%，丙烯、塑料、沪锡、沪银涨超4%。纯苯跌超10%，沥青跌近10%，液化气跌超8%，原油跌超7%。",
+          "url": "https://wallstreetcn.com/livenews/3066855",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时19分"
-        },
+          "time_info": "09时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "C. 电子产品",
+      "match_count": 3,
+      "titles": [
         {
-          "title": "国际油价突破每桶100美元",
-          "url": "https://www.toutiao.com/trending/7615024848342879750/",
-          "source": "今日头条",
+          "title": "失落星船马拉松游戏评测",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%B1%E8%90%BD%E6%98%9F%E8%88%B9%E9%A9%AC%E6%8B%89%E6%9D%BE%E6%B8%B8%E6%88%8F%E8%AF%84%E6%B5%8B",
+          "source": "bilibili 热搜",
           "ranks": [
-            5
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时19分"
+          "time_info": "09时14分"
+        },
+        {
+          "title": "李鸿彬代表：鼓励企业设立“老年用户体验官”，消弭数字鸿沟",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32733094",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "复盘麦当劳CEO吃新品事件",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98%E9%BA%A6%E5%BD%93%E5%8A%B3CEO%E5%90%83%E6%96%B0%E5%93%81%E4%BA%8B%E4%BB%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时14分"
         }
       ]
     },
     {
       "keyword_group": "D. 半导体",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
         {
           "title": "英伟达输成人站,卖卡不如卖片",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351500&amp;topic_name=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%BE%93%E6%88%90%E4%BA%BA%E7%AB%99%2C%E5%8D%96%E5%8D%A1%E4%B8%8D%E5%A6%82%E5%8D%96%E7%89%87",
           "source": "贴吧",
           "ranks": [
-            10
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时19分"
+          "time_info": "09时14分"
         },
         {
-          "title": "受芯片股和金融股拖累 日经指数早盘跌破52000点",
-          "url": "https://flash.jin10.com/detail/20260309083240978800",
+          "title": "SK海力士引领韩国芯片股反弹，SK海力士股价最新上涨9.1%。",
+          "url": "https://flash.jin10.com/detail/20260310080720220800",
           "source": "金十数据",
           "ranks": [
-            12
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时19分"
-        },
-        {
-          "title": "三星电子领跌韩国芯片科技股，最新下跌8.9%。",
-          "url": "https://flash.jin10.com/detail/20260309082350452800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "C. 电子产品",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "复盘麦当劳CEO吃新品事件",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98%E9%BA%A6%E5%BD%93%E5%8A%B3CEO%E5%90%83%E6%96%B0%E5%93%81%E4%BA%8B%E4%BB%B6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时19分"
-        },
-        {
-          "title": "小米们开始下场“养虾”",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E4%BB%AC%E5%BC%80%E5%A7%8B%E4%B8%8B%E5%9C%BA%E2%80%9C%E5%85%BB%E8%99%BE%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时19分"
+          "time_info": "09时14分"
         }
       ]
     }
