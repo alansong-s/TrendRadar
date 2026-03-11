@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-03-10T09:14:10.502259+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-11T09:14:16.096863+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "F. 政治",
-      "match_count": 8,
+      "match_count": 6,
       "titles": [
         {
-          "title": "美以伊战争｜特朗普：普京想帮忙，我说你先结束战争",
+          "title": "美以伊战争｜德黑兰壁画，伊朗3任最高领袖“同框”",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
           "ranks": [
@@ -19,41 +19,41 @@
           "time_info": "09时14分"
         },
         {
-          "title": "卡塔尔首相斥伊朗再度“背叛”，称伊袭海湾国家早有预谋",
-          "url": "https://news.ifeng.com/c/8rM9AeqiOro",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时14分"
-        },
-        {
-          "title": "实锤!美军轰炸伊朗小学",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351565&amp;topic_name=%E5%AE%9E%E9%94%A4%21%E7%BE%8E%E5%86%9B%E8%BD%B0%E7%82%B8%E4%BC%8A%E6%9C%97%E5%B0%8F%E5%AD%A6",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时14分"
-        },
-        {
-          "title": "美以“首次出现重大分歧”：美方不满以袭击伊朗油库",
-          "url": "https://wallstreetcn.com/articles/3767040",
+          "title": "“美以不再能随心所欲结束战争”，伊朗提出停火条件",
+          "url": "https://wallstreetcn.com/articles/3767115",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
         },
         {
-          "title": "伊朗警告马克龙：任何支持美以的行为，都将视作直接参战",
-          "url": "https://news.ifeng.com/c/8rMAAn3HQjZ",
+          "title": "特朗普：有可能有条件同伊朗谈判",
+          "url": "https://www.cls.cn/detail/2308807",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "伊朗公布被击落美制巡航导弹残骸",
+          "url": "https://v.ifeng.com/c/8rNp2zRbCGN",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "伊朗：我们要给美以一个教训",
+          "url": "https://news.ifeng.com/c/8rOpl10hIzv",
           "source": "凤凰网",
           "ranks": [
             3
@@ -63,33 +63,11 @@
           "time_info": "09时14分"
         },
         {
-          "title": "特朗普回应拉里贾尼威胁",
-          "url": "https://news.ifeng.com/c/8rM7NkGzfDg",
+          "title": "伊朗哪款无人机让美军最头疼？",
+          "url": "https://v.ifeng.com/c/8rMT2Js3aDb",
           "source": "凤凰网",
           "ranks": [
             4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时14分"
-        },
-        {
-          "title": "伊朗最高领袖穆杰塔巴将发表讲话",
-          "url": "https://news.ifeng.com/c/8rMH3LvV2O1",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时14分"
-        },
-        {
-          "title": "伊朗革命卫队：不允许“敌方及其盟友”从该地区出口石油",
-          "url": "https://wallstreetcn.com/livenews/3066851",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -99,11 +77,11 @@
     },
     {
       "keyword_group": "E. 经济",
-      "match_count": 7,
+      "match_count": 6,
       "titles": [
         {
-          "title": "TACO！特朗普称“战争很快结束”，美国股债深V反转，原油一度较日高跳水30%",
-          "url": "https://wallstreetcn.com/articles/3766990",
+          "title": "“护航”乌龙消息搅动市场，原油“过山车”，美股冲高回落，新兴市场外汇大涨",
+          "url": "https://wallstreetcn.com/articles/3767097",
           "source": "华尔街见闻",
           "ranks": [
             1
@@ -113,66 +91,55 @@
           "time_info": "09时14分"
         },
         {
-          "title": "美股收盘：特朗普称战争“基本结束” 三大指数集体收涨 纳指涨超1%",
-          "url": "https://www.cls.cn/detail/2307796",
+          "title": "疯狂24小时！油价上演“历史级别大逆转”",
+          "url": "https://wallstreetcn.com/articles/3767092",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "美股收盘：油价暴跌超11% 三大指数涨跌不一 标普500小幅下跌",
+          "url": "https://www.cls.cn/detail/2309059",
           "source": "财联社热门",
           "ranks": [
-            1
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
         },
         {
-          "title": "3 月 9 日晚国内油价上调，加满一箱油将多花 27.5 元，会有多大影响？油价是否会继续上涨？",
-          "url": "https://www.zhihu.com/question/2014387754457392342",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时14分"
-        },
-        {
-          "title": "【早报】特朗普：将取消部分制裁，以平抑油价；国际油价高位跳水",
-          "url": "https://www.cls.cn/detail/2307815",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时14分"
-        },
-        {
-          "title": "日本五年期国债收益率下跌2.0个基点，至1.600%。",
-          "url": "https://flash.jin10.com/detail/20260310084053029800",
+          "title": "上海黄金交易所黄金T+D 3月11日（周三）早盘盘初上涨0.87%报1156.0元/克；<br/>上海黄金交易所白银T+D 3月11日（周三）早盘盘初上涨0.62%报22400.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260311090229539800",
           "source": "金十数据",
           "ranks": [
-            2
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
         },
         {
-          "title": "是时候卖原油了？美银Hartnett：特朗普要赢中期选举，美伊战争必须在3月“降级”",
-          "url": "https://wallstreetcn.com/articles/3767022",
+          "title": "三星、SK集团将注销超140亿美元库存股，为韩国历史上最大股票注销规模之一",
+          "url": "https://wallstreetcn.com/articles/3767160",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
         },
         {
-          "title": "商品期货开盘，PTA、短纤主力合约涨超7%，对二甲苯涨超6%，瓶片涨超5%，丙烯、塑料、沪锡、沪银涨超4%。纯苯跌超10%，沥青跌近10%，液化气跌超8%，原油跌超7%。",
-          "url": "https://wallstreetcn.com/livenews/3066855",
-          "source": "华尔街见闻-快讯",
+          "title": "早盘开盘，国内期货主力合约涨跌互现。沪银、豆粕涨超2%，沪铝、棉花、菜粕涨超1%。跌幅方面，SC原油跌近14%，燃料油、纯苯跌超8%，丙烯、苯乙烯、低硫燃料油（LU）、液化气跌超5%。",
+          "url": "https://flash.jin10.com/detail/20260311090002272800",
+          "source": "金十数据",
           "ranks": [
-            4
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -182,36 +149,86 @@
     },
     {
       "keyword_group": "C. 电子产品",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
-          "title": "失落星船马拉松游戏评测",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%B1%E8%90%BD%E6%98%9F%E8%88%B9%E9%A9%AC%E6%8B%89%E6%9D%BE%E6%B8%B8%E6%88%8F%E8%AF%84%E6%B5%8B",
+          "title": "MacBook Neo开箱评测",
+          "url": "https://search.bilibili.com/all?keyword=MacBook%20Neo%E5%BC%80%E7%AE%B1%E8%AF%84%E6%B5%8B",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
         },
         {
-          "title": "李鸿彬代表：鼓励企业设立“老年用户体验官”，消弭数字鸿沟",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32733094",
+          "title": "存储芯片成本暴涨 80%，OPPO 官宣涨价，雷军称尽量降低消费者接受难度，这将如何重塑手机市场竞争格局？",
+          "url": "https://www.zhihu.com/question/2014710084022846319",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "影视飓风上手Macbook Neo",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BD%B1%E8%A7%86%E9%A3%93%E9%A3%8E%E4%B8%8A%E6%89%8BMacbook%20Neo",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "MacBook Neo能打3A游戏吗",
+          "url": "https://search.bilibili.com/all?keyword=MacBook%20Neo%E8%83%BD%E6%89%933A%E6%B8%B8%E6%88%8F%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "学生党要冲MacBook Neo吗",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AD%A6%E7%94%9F%E5%85%9A%E8%A6%81%E5%86%B2MacBook%20Neo%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "业内人士谈小米汽车被销售嘲讽",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%9A%E5%86%85%E4%BA%BA%E5%A3%AB%E8%B0%88%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E8%A2%AB%E9%94%80%E5%94%AE%E5%98%B2%E8%AE%BD%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A. AI",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "工信部专家：审慎使用“龙虾”等智能体",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32740849",
           "source": "澎湃新闻",
           "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时14分"
-        },
-        {
-          "title": "复盘麦当劳CEO吃新品事件",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98%E9%BA%A6%E5%BD%93%E5%8A%B3CEO%E5%90%83%E6%96%B0%E5%93%81%E4%BA%8B%E4%BB%B6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -221,25 +238,14 @@
     },
     {
       "keyword_group": "D. 半导体",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "英伟达输成人站,卖卡不如卖片",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351500&amp;topic_name=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%BE%93%E6%88%90%E4%BA%BA%E7%AB%99%2C%E5%8D%96%E5%8D%A1%E4%B8%8D%E5%A6%82%E5%8D%96%E7%89%87",
+          "title": "劈腿预防针?对话干烧女鼠cpu",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351631&amp;topic_name=%E5%8A%88%E8%85%BF%E9%A2%84%E9%98%B2%E9%92%88%3F%E5%AF%B9%E8%AF%9D%E5%B9%B2%E7%83%A7%E5%A5%B3%E9%BC%A0cpu",
           "source": "贴吧",
           "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时14分"
-        },
-        {
-          "title": "SK海力士引领韩国芯片股反弹，SK海力士股价最新上涨9.1%。",
-          "url": "https://flash.jin10.com/detail/20260310080720220800",
-          "source": "金十数据",
-          "ranks": [
-            24
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
