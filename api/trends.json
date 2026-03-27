@@ -1,37 +1,15 @@
 {
-  "generated_at": "2026-03-26T09:27:43.869555+08:00",
+  "generated_at": "2026-03-27T09:27:11.288270+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "F. 政治",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
-          "title": "【早报】深夜，中国资产全线上涨；伊朗：拒绝美国停战提议",
-          "url": "https://www.cls.cn/detail/2325013",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
-          "title": "美以伊战争丨美媒：防美国夺岛，伊朗正在设置陷阱",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
-          "title": "伊朗拒绝美国停战方案、称不允许特朗普决定停战时间，白宫称美伊在谈判且有成效，伊外长称信息交流并非谈判",
-          "url": "https://wallstreetcn.com/articles/3768393",
+          "title": "伊朗：中国、俄罗斯、巴基斯坦、伊拉克、印度、孟加拉国等国船只安全通过了霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/articles/3768437",
           "source": "华尔街见闻",
           "ranks": [
             2
@@ -41,8 +19,30 @@
           "time_info": "09时27分"
         },
         {
-          "title": "伊朗称向美林肯号航母发射导弹",
-          "url": "https://news.ifeng.com/c/8rmkkOjixQd",
+          "title": "特朗普称将在5月中旬访华，外交部：中美就此事保持着沟通",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32835719",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "王毅同加拿大外长阿南德通电话：美国和伊朗都有重启谈判的意愿，国际社会应鼓励双方重回谈判桌，寻求政治解决的有效途径",
+          "url": "https://www.cls.cn/detail/2326074",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "伊朗消息人士：特朗普“大礼”言论系政治作秀",
+          "url": "https://news.ifeng.com/c/8rpM8FxIQ14",
           "source": "凤凰网",
           "ranks": [
             2
@@ -52,8 +52,19 @@
           "time_info": "09时27分"
         },
         {
-          "title": "伊朗大使：未与美国直接或间接谈判",
-          "url": "https://news.ifeng.com/c/8rmc4sy9a8S",
+          "title": "特朗普：不知美伊能否达成协议、我不迫切，伊朗允许十艘油轮通行霍尔木兹，市场对冲突反应没预期剧烈",
+          "url": "https://wallstreetcn.com/articles/3768496",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "画面来了！伊朗称精准击落美军F-18战机",
+          "url": "https://news.ifeng.com/c/8rnubjBvyXg",
           "source": "凤凰网",
           "ranks": [
             3
@@ -69,8 +80,8 @@
       "match_count": 5,
       "titles": [
         {
-          "title": "专家说黄金正重演08年剧本",
-          "url": "https://www.toutiao.com/trending/7620388906650894399/",
+          "title": "美股标普纳指创开战后最大单日跌幅",
+          "url": "https://www.toutiao.com/trending/7621704767055597083/",
           "source": "今日头条",
           "ranks": [
             1
@@ -80,9 +91,9 @@
           "time_info": "09时27分"
         },
         {
-          "title": "美伊谈判存疑，美股震荡收涨，中概股指跑赢大盘，存储板块走低，迪拜原油暴跌",
-          "url": "https://wallstreetcn.com/articles/3768319",
-          "source": "华尔街见闻",
+          "title": "【早报】深夜巨震：油价狂飙，美股、金银齐跳水；美方被曝正酝酿针对伊朗的“最后一击”",
+          "url": "https://www.cls.cn/detail/2326291",
+          "source": "财联社热门",
           "ranks": [
             1
           ],
@@ -91,31 +102,31 @@
           "time_info": "09时27分"
         },
         {
-          "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
-          "url": "https://wallstreetcn.com/articles/3768391",
-          "source": "华尔街见闻",
+          "title": "美股收盘：标普、纳指创开战后最大单日跌幅 特朗普盘后发声",
+          "url": "https://www.cls.cn/detail/2326270",
+          "source": "财联社热门",
           "ranks": [
-            4
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
         },
         {
-          "title": "日本2年期国债收益率自1996年以来首次升至1.315%。",
-          "url": "https://wallstreetcn.com/livenews/3077009",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
-          "title": "日本2年期国债收益率升至1.315%，创1996年以来新高。",
-          "url": "https://flash.jin10.com/detail/20260326091842925800",
+          "title": "日本财务大臣片山皋月：油价上涨引发货币投机性波动。",
+          "url": "https://flash.jin10.com/detail/20260327090218733800",
           "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "特朗普何时再“TACO”？华尔街发现规律：美油逼近100美元 or 美债收益率4.5%",
+          "url": "https://wallstreetcn.com/articles/3768442",
+          "source": "华尔街见闻",
           "ranks": [
             5
           ],
@@ -126,45 +137,95 @@
       ]
     },
     {
-      "keyword_group": "C. 电子产品",
-      "match_count": 4,
+      "keyword_group": "A. AI",
+      "match_count": 5,
       "titles": [
         {
-          "title": "“老头乐”起诉小米汽车",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E8%80%81%E5%A4%B4%E4%B9%90%E2%80%9D%E8%B5%B7%E8%AF%89%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6",
-          "source": "百度热搜",
+          "title": "特朗普签名将出现在美国纸币上 苹果据传拟开放Siri接入更多模型 | 环球市场",
+          "url": "https://www.cls.cn/detail/2326334",
+          "source": "财联社热门",
           "ranks": [
-            5
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
         },
         {
-          "title": "去陌生人家里吃饭是什么体验",
-          "url": "https://www.douyin.com/hot/2443536",
-          "source": "抖音",
+          "title": "报道：Anthropic考虑最早10月进行IPO",
+          "url": "https://wallstreetcn.com/livenews/3077802",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
         },
         {
-          "title": "评测造假,汽车之家遭官方整治",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352305&amp;topic_name=%E8%AF%84%E6%B5%8B%E9%80%A0%E5%81%87%2C%E6%B1%BD%E8%BD%A6%E4%B9%8B%E5%AE%B6%E9%81%AD%E5%AE%98%E6%96%B9%E6%95%B4%E6%B2%BB",
+          "title": "网传 DeepSeekV4 要来了，这次是真的吗？目前有哪些信息？",
+          "url": "https://www.zhihu.com/question/2015379461017659100",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "OpenAI宣布关停Sora",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "模型店爆雷,包裹藏毒被查获",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352333&amp;topic_name=%E6%A8%A1%E5%9E%8B%E5%BA%97%E7%88%86%E9%9B%B7%2C%E5%8C%85%E8%A3%B9%E8%97%8F%E6%AF%92%E8%A2%AB%E6%9F%A5%E8%8E%B7",
           "source": "贴吧",
           "ranks": [
-            25
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "D. 半导体",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "谈判僵局推动油价重新走强，再通胀预期重挫全球债市，芯片股拖累美股，美元冲高回落",
+          "url": "https://wallstreetcn.com/articles/3768430",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
         },
         {
-          "title": "洛克王国世界登顶iOS免费榜",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B4%9B%E5%85%8B%E7%8E%8B%E5%9B%BD%E4%B8%96%E7%95%8C%E7%99%BB%E9%A1%B6iOS%E5%85%8D%E8%B4%B9%E6%A6%9C%23&t=31&band_rank=26&Refer=top",
+          "title": "涨价蔓延cpu,amd涨价15%",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352400&amp;topic_name=%E6%B6%A8%E4%BB%B7%E8%94%93%E5%BB%B6cpu%2Camd%E6%B6%A8%E4%BB%B715%25",
+          "source": "贴吧",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "存储芯片板块暴跌原因",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E6%9D%BF%E5%9D%97%E6%9A%B4%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
           "ranks": [
             26
@@ -176,76 +237,15 @@
       ]
     },
     {
-      "keyword_group": "A. AI",
-      "match_count": 4,
+      "keyword_group": "C. 电子产品",
+      "match_count": 1,
       "titles": [
         {
-          "title": "如何看待 sora 即将停止服务，seedance 还能坚持多久？",
-          "url": "https://www.zhihu.com/question/2020124278553625840",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
-          "title": "模型店爆雷,包裹藏毒被查获",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352333&amp;topic_name=%E6%A8%A1%E5%9E%8B%E5%BA%97%E7%88%86%E9%9B%B7%2C%E5%8C%85%E8%A3%B9%E8%97%8F%E6%AF%92%E8%A2%AB%E6%9F%A5%E8%8E%B7",
+          "title": "体验感极差!洛克手游引不满",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352361&amp;topic_name=%E4%BD%93%E9%AA%8C%E6%84%9F%E6%9E%81%E5%B7%AE%21%E6%B4%9B%E5%85%8B%E6%89%8B%E6%B8%B8%E5%BC%95%E4%B8%8D%E6%BB%A1",
           "source": "贴吧",
           "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
-          "title": "OpenAI宣布关停Sora",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
-          "title": "OpenAI支持人工智能初创公司Isara，寻求实现“机器人大军”技术突破",
-          "url": "https://wallstreetcn.com/livenews/3076984",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "D. 半导体",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美股收盘：中东停火期待推高三大指数 商业航天、CPU概念领涨",
-          "url": "https://www.cls.cn/detail/2324998",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
-          "title": "软银股价上涨7%，隔夜Arm Holdings美股大涨逾16%。",
-          "url": "https://wallstreetcn.com/livenews/3076982",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
