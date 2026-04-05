@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-04-04T09:21:54.690198+08:00",
+  "generated_at": "2026-04-05T09:45:27.593327+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "F. 政治",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
         {
-          "title": "伊朗开始在霍尔木兹海峡“收费护航”，据“友好程度”分五档",
-          "url": "https://wallstreetcn.com/articles/3769193",
+          "title": "停火斡旋陷僵局：伊朗拒绝与美方伊斯兰堡会面，卡塔尔退出调解",
+          "url": "https://wallstreetcn.com/articles/3769228",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时21分"
+          "time_info": "09时45分"
         },
         {
-          "title": "美以伊战争丨伊朗或击落F-16战机，残骸照曝光",
+          "title": "美以伊战争丨伊朗军方拒绝特朗普“48小时”通牒",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
           "ranks": [
@@ -27,229 +27,223 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时21分"
+          "time_info": "09时45分"
         },
         {
-          "title": "外交部回应伊朗桥梁遭袭：中方反对袭击民用设施 有关方应立即停火",
-          "url": "https://www.cls.cn/detail/2334610",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时21分"
-        },
-        {
-          "title": "伊朗公布击中美军A-10攻击机瞬间画面",
-          "url": "https://news.ifeng.com/c/8s2VjctK5cz",
+          "title": "伊媒：美军试图炸死在伊朗失联飞行员",
+          "url": "https://news.ifeng.com/c/8s4LrFuR0XA",
           "source": "凤凰网",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时21分"
+          "time_info": "09时45分"
         },
         {
-          "title": "美国防部：365名美军人员在对伊朗军事行动中受伤",
-          "url": "https://flash.jin10.com/detail/20260404083528794800",
-          "source": "金十数据",
+          "title": "伊朗军方：无人机打击海湾地区多处美军目标和阿联酋铝工业设施",
+          "url": "https://wallstreetcn.com/livenews/3082512",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时21分"
+          "time_info": "09时45分"
         },
         {
-          "title": "伊朗战争之后，世界从此不一样了",
-          "url": "https://wallstreetcn.com/articles/3769162",
+          "title": "可能是伊朗战争迄今最全的一份“美国决策细节”披露",
+          "url": "https://wallstreetcn.com/articles/3769247",
           "source": "华尔街见闻",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "E. 经济",
-      "match_count": 6,
-      "titles": [
+          "time_info": "09时45分"
+        },
         {
-          "title": "中金：黄金投资需求和价格或均存向上修复空间",
-          "url": "https://flash.jin10.com/detail/20260404084059092800",
+          "title": "伊朗允许运载必需品的船只通过霍尔木兹海峡",
+          "url": "https://www.cls.cn/detail/2335385",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "泰国渔业因伊朗战争推高燃油成本而陷入困境",
+          "url": "https://flash.jin10.com/detail/20260405090013833800",
           "source": "金十数据",
           "ranks": [
-            1
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时21分"
+          "time_info": "09时45分"
         },
         {
-          "title": "“全球最重要的现货原油价格”飙升至140美元以上，2008年以来第一次！",
-          "url": "https://wallstreetcn.com/articles/3769147",
-          "source": "华尔街见闻",
+          "title": "美众议员：伊朗“正在赢得这场战争”",
+          "url": "https://wallstreetcn.com/livenews/3082511",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时21分"
+          "time_info": "09时45分"
         },
         {
-          "title": "超预期反弹！美国3月非农新增就业17.8万人，创逾一年新高，失业率意外降至4.3% ！",
-          "url": "https://wallstreetcn.com/articles/3769211",
+          "title": "美军一天内两架战机被击落，伊朗媒体称美方营救飞行员未能成功",
+          "url": "https://wallstreetcn.com/articles/3769241",
           "source": "华尔街见闻",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时21分"
+          "time_info": "09时45分"
         },
         {
-          "title": "美国3月非农如期出现技术性反弹 劳动人口缩减压低失业率",
-          "url": "https://www.cls.cn/detail/2335085",
-          "source": "财联社热门",
+          "title": "中国会气荒吗",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E4%BC%9A%E6%B0%94%E8%8D%92%E5%90%97",
+          "source": "bilibili 热搜",
           "ranks": [
-            5
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时21分"
+          "time_info": "09时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "E. 经济",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "土耳其两周狂抛近120吨黄金",
+          "url": "https://www.cls.cn/detail/2335361",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时45分"
         },
         {
-          "title": "两周卖金118吨，价值200亿美元！土耳其上周抛售近70吨黄金，创2013年以来最高纪录",
-          "url": "https://wallstreetcn.com/articles/3769182",
+          "title": "伊朗号召民众找到美国飞行员就开枪，富商悬赏5万美元",
+          "url": "https://news.ifeng.com/c/8s3NhKYvZFG",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "经济学家：美国3月CPI月率或大涨1% 美联储今年或难降息",
+          "url": "https://flash.jin10.com/detail/20260405085640617800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "全球原油库存何时“见底”，这是“停摆时刻表”",
+          "url": "https://wallstreetcn.com/articles/3769243",
           "source": "华尔街见闻",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时21分"
+          "time_info": "09时45分"
         },
         {
-          "title": "全球最大黄金ETF--SPDR Gold Trust持仓为1050.99吨，较前一个交易日维持不变。",
-          "url": "https://flash.jin10.com/detail/20260404082444362800",
+          "title": "洪灝：黄金会继续下跌，之后向上，可以翻倍，但不是今年；A股可能继续跌到3800，之后上涨",
+          "url": "https://wallstreetcn.com/articles/3769263",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "美国3月非农如期出现技术性反弹 劳动人口缩减压低失业率",
+          "url": "https://www.cls.cn/detail/2335085",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "欧洲央行管委：欧洲央行将围绕加息和维持利率不变进行讨论",
+          "url": "https://flash.jin10.com/detail/20260405024739351800",
           "source": "金十数据",
           "ranks": [
-            6
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A. AI",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "Anthropic通过要求订阅用户额外付费，实际上将Openclaw从Claude中禁用。（The Verge）",
-          "url": "https://wallstreetcn.com/livenews/3082355",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时21分"
-        },
-        {
-          "title": "谷歌官方发布最新模型Gemma4",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%AE%98%E6%96%B9%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时21分"
-        },
-        {
-          "title": "Gemma4与Qwen3.6有哪些升级",
-          "url": "https://search.bilibili.com/all?keyword=Gemma4%E4%B8%8EQwen3.6%E6%9C%89%E5%93%AA%E4%BA%9B%E5%8D%87%E7%BA%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时21分"
-        },
-        {
-          "title": "Anthropic误删数千GitHub仓库",
-          "url": "https://search.bilibili.com/all?keyword=Anthropic%20GitHub%E4%BB%93%E5%BA%93",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时21分"
-        },
-        {
-          "title": "Claude源码能否让全球AI工具大升级",
-          "url": "https://search.bilibili.com/all?keyword=Claude%E6%BA%90%E7%A0%81%E8%83%BD%E5%90%A6%E8%AE%A9%E5%85%A8%E7%90%83AI%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%8D%87%E7%BA%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "G. 网络安全",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "苹果被曝高价扫荡全球手机内存，不惜牺牲利润锁死对手供应链，内存价格会再度暴涨吗？对安卓阵营冲击有多大？",
-          "url": "https://www.zhihu.com/question/2023407372723332647",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时21分"
-        },
-        {
-          "title": "苹果设备被曝存在高危漏洞",
-          "url": "https://www.douyin.com/hot/2454543",
-          "source": "抖音",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时21分"
+          "time_info": "09时45分"
         }
       ]
     },
     {
       "keyword_group": "C. 电子产品",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
-          "title": "内存疯涨,小米手机也涨价",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352734&amp;topic_name=%E5%86%85%E5%AD%98%E7%96%AF%E6%B6%A8%2C%E5%B0%8F%E7%B1%B3%E6%89%8B%E6%9C%BA%E4%B9%9F%E6%B6%A8%E4%BB%B7",
-          "source": "贴吧",
+          "title": "老爸评测就优思益事件道歉，消费者可退一赔三， 这样的补偿力度如何？测评机构该为品牌「出身」负责吗？",
+          "url": "https://www.zhihu.com/question/2023427816964843446",
+          "source": "知乎",
           "ranks": [
-            21
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时21分"
+          "time_info": "09时45分"
+        },
+        {
+          "title": "工信部紧急提醒苹果用户 iOS 13 至 17.2.1 有高危漏洞，或导致用户信息被窃取，该怎样应对？",
+          "url": "https://www.zhihu.com/question/2023674219897123334",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A. AI",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Claude禁止OpenClaw接入",
+          "url": "https://search.bilibili.com/all?keyword=Claude%E7%A6%81%E6%AD%A2OpenClaw%E6%8E%A5%E5%85%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时45分"
         }
       ]
     }
