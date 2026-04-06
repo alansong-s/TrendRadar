@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-04-05T09:45:27.593327+08:00",
+  "generated_at": "2026-04-06T09:45:51.400392+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "F. 政治",
-      "match_count": 10,
+      "match_count": 9,
       "titles": [
         {
-          "title": "停火斡旋陷僵局：伊朗拒绝与美方伊斯兰堡会面，卡塔尔退出调解",
-          "url": "https://wallstreetcn.com/articles/3769228",
+          "title": "自周三以来“未公开露面”！特朗普“一反常态”低调，周末“不停工作”连海湖庄园都不去了",
+          "url": "https://wallstreetcn.com/articles/3769276",
           "source": "华尔街见闻",
           "ranks": [
             1
@@ -19,65 +19,54 @@
           "time_info": "09时45分"
         },
         {
-          "title": "美以伊战争丨伊朗军方拒绝特朗普“48小时”通牒",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时45分"
-        },
-        {
-          "title": "伊媒：美军试图炸死在伊朗失联飞行员",
-          "url": "https://news.ifeng.com/c/8s4LrFuR0XA",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时45分"
-        },
-        {
-          "title": "伊朗军方：无人机打击海湾地区多处美军目标和阿联酋铝工业设施",
-          "url": "https://wallstreetcn.com/livenews/3082512",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时45分"
-        },
-        {
-          "title": "可能是伊朗战争迄今最全的一份“美国决策细节”披露",
-          "url": "https://wallstreetcn.com/articles/3769247",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时45分"
-        },
-        {
-          "title": "伊朗允许运载必需品的船只通过霍尔木兹海峡",
-          "url": "https://www.cls.cn/detail/2335385",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时45分"
-        },
-        {
-          "title": "泰国渔业因伊朗战争推高燃油成本而陷入困境",
-          "url": "https://flash.jin10.com/detail/20260405090013833800",
+          "title": "伊朗最高领袖顾问警告美国：或将封锁曼德海峡作为反制",
+          "url": "https://flash.jin10.com/detail/20260406092154276800",
           "source": "金十数据",
           "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "特朗普警告伊朗：还剩“48小时”，伊朗军方回应“让侵略者付出代价”，战争升级至海湾“基础设施”？",
+          "url": "https://wallstreetcn.com/articles/3769270",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "据伊朗媒体：德黑兰西部梅赫拉巴德机场附近传出爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260406091837344800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "伊朗军方：特朗普和美军遭遇的尴尬难以补救",
+          "url": "https://wallstreetcn.com/livenews/3082709",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "伊朗：美军营救“任务失败”！美媒：获救飞行员已被送往科威特，在山区躲避搜索超24小时，随身武器仅一把手枪，当地海拔最高4400米",
+          "url": "https://wallstreetcn.com/articles/3769290",
+          "source": "华尔街见闻",
+          "ranks": [
             3
           ],
           "is_new": false,
@@ -85,8 +74,8 @@
           "time_info": "09时45分"
         },
         {
-          "title": "美众议员：伊朗“正在赢得这场战争”",
-          "url": "https://wallstreetcn.com/livenews/3082511",
+          "title": "伊朗媒体：一枚炮弹击中位于伊拉克的美国领事馆",
+          "url": "https://wallstreetcn.com/livenews/3082708",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
@@ -96,9 +85,9 @@
           "time_info": "09时45分"
         },
         {
-          "title": "美军一天内两架战机被击落，伊朗媒体称美方营救飞行员未能成功",
-          "url": "https://wallstreetcn.com/articles/3769241",
-          "source": "华尔街见闻",
+          "title": "伊朗拒绝特朗普“48小时”通牒！华尔街紧绷：4月6日后会发生什么？",
+          "url": "https://www.cls.cn/detail/2335478",
+          "source": "财联社热门",
           "ranks": [
             4
           ],
@@ -107,9 +96,9 @@
           "time_info": "09时45分"
         },
         {
-          "title": "中国会气荒吗",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E4%BC%9A%E6%B0%94%E8%8D%92%E5%90%97",
-          "source": "bilibili 热搜",
+          "title": "特朗普想趁机卖油，美媒：结果可能让他后悔莫及",
+          "url": "https://news.ifeng.com/c/8s4udkTiAOL",
+          "source": "凤凰网",
           "ranks": [
             4
           ],
@@ -121,67 +110,67 @@
     },
     {
       "keyword_group": "E. 经济",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "日本20年期国债收益率升至3.325%。",
+          "url": "https://flash.jin10.com/detail/20260406091244725800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "本周重磅日程：特朗普再发“最后通牒”、中美通胀数据、三星与天孚通信业绩",
+          "url": "https://wallstreetcn.com/articles/3769257",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "黄金投资者周报上新！",
+          "url": "https://flash.jin10.com/detail/20260406090014188800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
         {
           "title": "土耳其两周狂抛近120吨黄金",
           "url": "https://www.cls.cn/detail/2335361",
           "source": "财联社热门",
           "ranks": [
-            2
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
         },
         {
-          "title": "伊朗号召民众找到美国飞行员就开枪，富商悬赏5万美元",
-          "url": "https://news.ifeng.com/c/8s3NhKYvZFG",
+          "title": "4亿美元，灰飞烟灭",
+          "url": "https://news.ifeng.com/c/8s53G8e02Yv",
           "source": "凤凰网",
           "ranks": [
-            4
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
         },
         {
-          "title": "经济学家：美国3月CPI月率或大涨1% 美联储今年或难降息",
-          "url": "https://flash.jin10.com/detail/20260405085640617800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时45分"
-        },
-        {
-          "title": "全球原油库存何时“见底”，这是“停摆时刻表”",
-          "url": "https://wallstreetcn.com/articles/3769243",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时45分"
-        },
-        {
-          "title": "洪灝：黄金会继续下跌，之后向上，可以翻倍，但不是今年；A股可能继续跌到3800，之后上涨",
-          "url": "https://wallstreetcn.com/articles/3769263",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时45分"
-        },
-        {
-          "title": "美国3月非农如期出现技术性反弹 劳动人口缩减压低失业率",
-          "url": "https://www.cls.cn/detail/2335085",
-          "source": "财联社热门",
+          "title": "日本20年期国债收益率上升4.0个基点，至3.305%。",
+          "url": "https://wallstreetcn.com/livenews/3082700",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
@@ -190,39 +179,33 @@
           "time_info": "09时45分"
         },
         {
-          "title": "欧洲央行管委：欧洲央行将围绕加息和维持利率不变进行讨论",
-          "url": "https://flash.jin10.com/detail/20260405024739351800",
-          "source": "金十数据",
+          "title": "日本5年期国债收益率上升2.0个基点，至1.815%。",
+          "url": "https://wallstreetcn.com/livenews/3082696",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "C. 电子产品",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "老爸评测就优思益事件道歉，消费者可退一赔三， 这样的补偿力度如何？测评机构该为品牌「出身」负责吗？",
-          "url": "https://www.zhihu.com/question/2023427816964843446",
-          "source": "知乎",
-          "ranks": [
-            1
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
         },
         {
-          "title": "工信部紧急提醒苹果用户 iOS 13 至 17.2.1 有高危漏洞，或导致用户信息被窃取，该怎样应对？",
-          "url": "https://www.zhihu.com/question/2023674219897123334",
-          "source": "知乎",
+          "title": "黄金抛售潮",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E6%8A%9B%E5%94%AE%E6%BD%AE%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
           "ranks": [
-            4
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "日本10年期国债收益率上升2.0个基点，至2.400%。",
+          "url": "https://wallstreetcn.com/livenews/3082693",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -232,14 +215,25 @@
     },
     {
       "keyword_group": "A. AI",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "北洋水师水兵墓前放着中国航母模型",
+          "url": "https://www.toutiao.com/trending/7625107205005475850/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
         {
           "title": "Claude禁止OpenClaw接入",
           "url": "https://search.bilibili.com/all?keyword=Claude%E7%A6%81%E6%AD%A2OpenClaw%E6%8E%A5%E5%85%A5",
           "source": "bilibili 热搜",
           "ranks": [
-            13
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
