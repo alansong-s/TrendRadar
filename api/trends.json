@@ -1,14 +1,25 @@
 {
-  "generated_at": "2026-04-21T09:50:16.789480+08:00",
+  "generated_at": "2026-04-22T09:49:04.590065+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "F. 政治",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
-          "title": "伊朗战争丨美军3个航母打击群或同时部署中东",
+          "title": "【早报】特朗普：延长停火期限；伊朗：拒绝出席伊美第二轮谈判",
+          "url": "https://www.cls.cn/detail/2351434",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        },
+        {
+          "title": "伊朗战争丨伊媒披露伊方拒绝出席第二轮会谈原因",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
           "ranks": [
@@ -16,240 +27,223 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时50分"
+          "time_info": "09时49分"
         },
         {
-          "title": "特朗普坚称伊朗“将会谈判”",
-          "url": "https://wallstreetcn.com/livenews/3091449",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗将恢复国内航班运营",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353546&amp;topic_name=%E4%BC%8A%E6%9C%97%E5%B0%86%E6%81%A2%E5%A4%8D%E5%9B%BD%E5%86%85%E8%88%AA%E7%8F%AD%E8%BF%90%E8%90%A5",
+          "source": "贴吧",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时50分"
+          "time_info": "09时49分"
         },
         {
-          "title": "到底谈不谈？伊朗议员：谈判“今天或明天”进行，伊外交部：暂无第二轮谈判计划",
-          "url": "https://wallstreetcn.com/articles/3770391",
+          "title": "最后时刻反转！伊朗拒绝谈判，特朗普宣布延长停火，维持海上封锁等待伊朗提交方案",
+          "url": "https://wallstreetcn.com/articles/3770539",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时50分"
+          "time_info": "09时49分"
         },
         {
-          "title": "伊朗最高领袖重申三项基本立场",
-          "url": "https://news.ifeng.com/c/8sUi4SYlv7W",
+          "title": "伊朗展示对美以作战所用导弹",
+          "url": "https://news.ifeng.com/c/8sW9d3GOqRN",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        },
+        {
+          "title": "美军高官：已准备好重启对伊朗作战行动",
+          "url": "https://news.ifeng.com/c/8sVknmMlG6R",
           "source": "凤凰网",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时50分"
+          "time_info": "09时49分"
         },
         {
-          "title": "美国国务院发言人：特朗普总统明确表示，我们不会允许敌对势力威胁我们在美洲的利益。我们正与地区伙伴采取切实措施，打击如贩毒集团等恐怖组织，并撤销那些可能危害我们公民安全的人的签证。",
-          "url": "https://flash.jin10.com/detail/20260421092612093800",
-          "source": "金十数据",
+          "title": "万斯将赴巴基斯坦推进新一轮美伊谈判，伊朗再反转：没派代表团前往",
+          "url": "https://wallstreetcn.com/articles/3770465",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时50分"
+          "time_info": "09时49分"
+        },
+        {
+          "title": "一图看懂｜特朗普执政一年后，美国科学界面临什么困境",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33015762",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时49分"
         }
       ]
     },
     {
       "keyword_group": "E. 经济",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
-          "title": "美股收盘：三大指数小幅收跌 市场聚焦美伊紧张局势",
-          "url": "https://www.cls.cn/detail/2350040",
+          "title": "苹果或被印度罚款380亿美元",
+          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E6%88%96%E8%A2%AB%E5%8D%B0%E5%BA%A6%E7%BD%9A%E6%AC%BE380%E4%BA%BF%E7%BE%8E%E5%85%83&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        },
+        {
+          "title": "美股收盘：三大指数尾盘跳水集体收跌 中东战火阴影盖过财报利好",
+          "url": "https://www.cls.cn/detail/2351396",
           "source": "财联社热门",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时50分"
+          "time_info": "09时49分"
         },
         {
-          "title": "一枝独秀的创业板--“中国纳指”前7大权重占比已升至48%，堪比MAG 7",
-          "url": "https://wallstreetcn.com/articles/3770367",
+          "title": "零钱往哪放？理财收益率跟踪",
+          "url": "https://flash.jin10.com/detail/20260422093725399800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        },
+        {
+          "title": "沃什听证会强调美联储独立性，称绝不会成为特朗普的“提线木偶”，从未被要求作出降息承诺",
+          "url": "https://wallstreetcn.com/articles/3770525",
           "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "国债期货开盘，30年期主力合约涨0.02%，10年期主力合约涨0.03%，5年期主力合约涨0.03%，2年期主力合约涨0.01%。",
-          "url": "https://wallstreetcn.com/livenews/3091435",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "沃什提名听证会讲稿曝光，承诺货币政策严格独立，称美联储独立性主要取决于自身（附全文）",
-          "url": "https://wallstreetcn.com/articles/3770430",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "美股三大期指盘前集体走低 伊朗商船遭袭谈判迷雾笼罩 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2349767",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "C. 电子产品",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "体验经济全面升温",
-          "url": "https://www.douyin.com/hot/2472724",
-          "source": "抖音",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时50分"
+          "time_info": "09时49分"
         },
         {
-          "title": "华为星钻手镯表售价29999元",
-          "url": "https://www.toutiao.com/trending/7630112244986072582/",
-          "source": "今日头条",
+          "title": "白银只值40美元？德国商业银行：现在是黄金在“带飞”",
+          "url": "https://flash.jin10.com/detail/20260422093629673800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        },
+        {
+          "title": "宁德时代港股盘初跌超3%。此前有报道称，中石化折价出售宁德时代H股，套现金额超7.6亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3092208",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        },
+        {
+          "title": "特朗普称美伊将达成重大协议 美股三大期指小幅上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2351163",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        },
+        {
+          "title": "2000字证词对货币政策避而不谈，沃什听证会焦点：降息态度为何大转弯？",
+          "url": "https://wallstreetcn.com/articles/3770487",
+          "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时50分"
-        },
+          "time_info": "09时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "C. 电子产品",
+      "match_count": 2,
+      "titles": [
         {
-          "title": "小米Vision GT即将亮相2026北京国际车展",
-          "url": "https://flash.jin10.com/detail/20260421091841013800",
-          "source": "金十数据",
+          "title": "如何评价新发布的 OPPO Find X9 Ultra 、 X9s Pro，口袋哈苏双 2 亿新机有何亮点？",
+          "url": "https://www.zhihu.com/question/2030014191084516904",
+          "source": "知乎",
           "ranks": [
-            15
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时50分"
+          "time_info": "09时49分"
         },
         {
-          "title": "UP主首发评测Pura X Max",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%A6%96%E5%8F%91%E8%AF%84%E6%B5%8BPura%20X%20Max",
-          "source": "bilibili 热搜",
+          "title": "特朗普考虑延长对《琼斯法案》的豁免令，以简化美国石油运输。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3092185",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时50分"
+          "time_info": "09时49分"
         }
       ]
     },
     {
       "keyword_group": "D. 半导体",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
         {
-          "title": "美伊谈判悬而未决，美股指收跌，半导体指数十四连涨，原油大涨",
-          "url": "https://wallstreetcn.com/articles/3770361",
+          "title": "伊朗停火谈判生变，美股收跌，芯片股指十五连涨，油价再涨，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3770463",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时50分"
+          "time_info": "09时49分"
         },
         {
-          "title": "黄仁勋批评美国芯片管制：禁止出口是典型的“失败者心态”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33011024",
-          "source": "澎湃新闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "创业板指跌超1%，沪指跌0.24%，深成指跌0.87%，液冷、算力租赁、电网设备、半导体等方向跌幅居前，沪深京三市下跌个股近3600只。",
-          "url": "https://wallstreetcn.com/livenews/3091445",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "花旗：英维克业绩连续逊预期 英伟达光环下市场或忽视价格竞争等风险",
-          "url": "https://wallstreetcn.com/livenews/3091417",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A. AI",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "Google Chrome中的Gemini扩展至更多亚太地区国家/市场，其服务范围扩展至澳大利亚、印度尼西亚及日本。",
-          "url": "https://wallstreetcn.com/livenews/3091420",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "智能体如何颠覆传统人类社交",
-          "url": "https://search.bilibili.com/all?keyword=%E6%99%BA%E8%83%BD%E4%BD%93%E5%A6%82%E4%BD%95%E9%A2%A0%E8%A6%86%E4%BC%A0%E7%BB%9F%E4%BA%BA%E7%B1%BB%E7%A4%BE%E4%BA%A4",
+          "title": "英伟达免费API好用吗",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%85%8D%E8%B4%B9API%E5%A5%BD%E7%94%A8%E5%90%97",
           "source": "bilibili 热搜",
           "ranks": [
-            28
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时50分"
+          "time_info": "09时49分"
         }
       ]
     }
