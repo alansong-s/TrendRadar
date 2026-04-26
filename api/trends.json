@@ -1,55 +1,66 @@
 {
-  "generated_at": "2026-04-25T09:31:20.741518+08:00",
+  "generated_at": "2026-04-26T09:55:29.349519+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "F. 政治",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
-          "title": "伊朗战争丨地缘政治冲突让美国四大军火商赚麻了",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "title": "伊朗最高领袖或与普京首次会晤！被曝“身负重伤”：一条腿已手术3次将安假肢，面部烧伤说话困难",
+          "url": "https://wallstreetcn.com/articles/3770885",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "美国白宫记者晚宴发生枪击事件，有消息称枪手身亡",
+          "url": "https://news.ifeng.com/c/8sdFBmz1LVA",
           "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时31分"
+          "time_info": "09时55分"
         },
         {
-          "title": "特朗普重申对伊朗“已大赢特赢”，黎以停火将延长三周，以媒称“伊朗议长已从谈判小组辞职”，伊朗否认内部分裂",
-          "url": "https://wallstreetcn.com/articles/3770760",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "伊朗议会要员：外长访巴不涉核谈事宜",
-          "url": "https://news.ifeng.com/c/8sbTn7bD0ut",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "伊朗国防部称仍掌控霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/livenews/3094329",
+          "title": "特朗普说白宫记协晚宴涉事枪手已被捕",
+          "url": "https://wallstreetcn.com/livenews/3094429",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时31分"
+          "time_info": "09时55分"
+        },
+        {
+          "title": "特朗普因安全原因离开白宫晚宴",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%A0%E5%AE%89%E5%85%A8%E5%8E%9F%E5%9B%A0%E7%A6%BB%E5%BC%80%E7%99%BD%E5%AE%AB%E6%99%9A%E5%AE%B4%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "白宫记者晚宴发生枪击事件",
+          "url": "https://www.toutiao.com/trending/7632124297020375050/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时55分"
         }
       ]
     },
@@ -58,48 +69,48 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "男子30年前被扣押2859克黄金申请退赔，辽宁营口警方：正研究，将尽快答复",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33044575",
-          "source": "澎湃新闻",
+          "title": "摩根大通警告：原油市场若要最终出清，必将掀起一场远超预期的涨价风暴",
+          "url": "https://wallstreetcn.com/articles/3770894",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时31分"
+          "time_info": "09时55分"
         },
         {
-          "title": "特朗普，已经压不住油价了",
-          "url": "https://news.ifeng.com/c/8sbbY2vrvZn",
-          "source": "凤凰网",
+          "title": "男子 30 年前被扣押 2859 克黄金申请退赔，却因「超时效」遭驳回，这合法合规吗？后续该怎么维权？",
+          "url": "https://www.zhihu.com/question/2031421271481607263",
+          "source": "知乎",
           "ranks": [
-            8
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时31分"
+          "time_info": "09时55分"
         },
         {
-          "title": "男子30年前被扣押2859克黄金未返还",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%9030%E5%B9%B4%E5%89%8D%E8%A2%AB%E6%89%A3%E6%8A%BC2859%E5%85%8B%E9%BB%84%E9%87%91%E6%9C%AA%E8%BF%94%E8%BF%98%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
+          "title": "男子被扣押30年黄金申请退赔被拒",
+          "url": "https://www.douyin.com/hot/2478356",
+          "source": "抖音",
           "ranks": [
-            8
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时31分"
+          "time_info": "09时55分"
         },
         {
-          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少2.571吨，当前持仓量为1046.622吨。",
-          "url": "https://flash.jin10.com/detail/20260425082531965800",
-          "source": "金十数据",
+          "title": "司法部撤案、沃什入场、下周FOMC——美联储换帅倒计时，「无前瞻指引」时代要来了",
+          "url": "https://wallstreetcn.com/articles/3770883",
+          "source": "华尔街见闻",
           "ranks": [
-            9
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时31分"
+          "time_info": "09时55分"
         }
       ]
     },
@@ -108,98 +119,48 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "DeepSeek V4预览版发布：显存和算力需求大降，Agent能力领跑国内开源，体验超越Sonnet 4.5",
-          "url": "https://wallstreetcn.com/articles/3770782",
-          "source": "华尔街见闻",
+          "title": "DeepSeek v4 全面支持百万上下文 token，这意味着什么？到底有多厉害？",
+          "url": "https://www.zhihu.com/question/2031047018336839206",
+          "source": "知乎",
           "ranks": [
-            1
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时31分"
+          "time_info": "09时55分"
         },
         {
-          "title": "DeepSeek如何适配国产芯片",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%A6%82%E4%BD%95%E9%80%82%E9%85%8D%E5%9B%BD%E4%BA%A7%E8%8A%AF%E7%89%87",
-          "source": "bilibili 热搜",
+          "title": "DeepSeek致谢近300研发者10人已离职",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E8%87%B4%E8%B0%A2%E8%BF%91300%E7%A0%94%E5%8F%91%E8%80%8510%E4%BA%BA%E5%B7%B2%E7%A6%BB%E8%81%8C",
+          "source": "百度热搜",
           "ranks": [
-            1
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时31分"
+          "time_info": "09时55分"
+        },
+        {
+          "title": "DeepSeek V4全面评测",
+          "url": "https://www.douyin.com/hot/2479058",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时55分"
         },
         {
           "title": "Claude降智了吗",
           "url": "https://search.bilibili.com/all?keyword=Claude%E9%99%8D%E6%99%BA%E4%BA%86%E5%90%97",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "Deepseek V4第一波测评来了！",
-          "url": "https://wallstreetcn.com/articles/3770812",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "D. 半导体",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美伊有望重回谈判，标普、纳指齐新高，半导体连涨18日，英特尔暴涨24%，原油调整",
-          "url": "https://wallstreetcn.com/articles/3770804",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "美股收盘：美伊和谈将重启 标普、纳指再创新高 英伟达市值突破5万亿美元",
-          "url": "https://www.cls.cn/detail/2355589",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "英特尔Q1财报 ，狠狠打了华尔街的脸",
-          "url": "https://wallstreetcn.com/articles/3770776",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "英特尔财报大超预期盘前涨超30% 最新工作站CPU、GPU发布 高管预计缺货仍将持续",
-          "url": "https://www.cls.cn/detail/2355357",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
+          "time_info": "09时55分"
         }
       ]
     },
@@ -208,48 +169,87 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "雷军体验蔚来车辆：国内造车最高水准",
-          "url": "https://www.toutiao.com/trending/7632182781422095926/",
+          "title": "公募一季度重仓了哪些境外股？腾讯、阿里、美团和小米重仓持有合计超千亿",
+          "url": "https://www.cls.cn/detail/2355671",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "杨澜现身车展体验全球首款电动超跑",
+          "url": "https://www.toutiao.com/trending/7632633467675607103/",
           "source": "今日头条",
           "ranks": [
-            7
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时31分"
+          "time_info": "09时55分"
         },
         {
-          "title": "营销吹上天,异环体验全是槽点",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353694&amp;topic_name=%E8%90%A5%E9%94%80%E5%90%B9%E4%B8%8A%E5%A4%A9%2C%E5%BC%82%E7%8E%AF%E4%BD%93%E9%AA%8C%E5%85%A8%E6%98%AF%E6%A7%BD%E7%82%B9",
-          "source": "贴吧",
+          "title": "据AXIOS记者：美国总统特朗普被其安保人员从白宫记者晚宴上撤离。",
+          "url": "https://flash.jin10.com/detail/20260426084111105800",
+          "source": "金十数据",
           "ranks": [
-            15
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时31分"
+          "time_info": "09时55分"
         },
         {
-          "title": "UP主深度测试华为大阔折",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%B7%B1%E5%BA%A6%E6%B5%8B%E8%AF%95%E5%8D%8E%E4%B8%BA%E5%A4%A7%E9%98%94%E6%8A%98",
-          "source": "bilibili 热搜",
+          "title": "雷军官宣小米 YU7 GT 将于 5 月底发布，对此你有哪些期待？会大卖吗？",
+          "url": "https://www.zhihu.com/question/2030972645903004124",
+          "source": "知乎",
           "ranks": [
-            17
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时31分"
+          "time_info": "09时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "D. 半导体",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "新一轮伊朗谈判，但股市已毫不在意，完全聚焦CPU、光通信等“AI瓶颈”",
+          "url": "https://wallstreetcn.com/articles/3770880",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时55分"
         },
         {
-          "title": "关键时刻掉链子,z7发布会趴窝",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353612&amp;topic_name=%E5%85%B3%E9%94%AE%E6%97%B6%E5%88%BB%E6%8E%89%E9%93%BE%E5%AD%90%2Cz7%E5%8F%91%E5%B8%83%E4%BC%9A%E8%B6%B4%E7%AA%9D",
-          "source": "贴吧",
+          "title": "美股收盘：美伊和谈将重启 标普、纳指再创新高 英伟达市值突破5万亿美元",
+          "url": "https://www.cls.cn/detail/2355589",
+          "source": "财联社热门",
           "ranks": [
-            26
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时31分"
+          "time_info": "09时55分"
+        },
+        {
+          "title": "美股原油和半导体ETF“历史级别资金流出”，大赚之后有人已选择“套现离场”",
+          "url": "https://wallstreetcn.com/articles/3770879",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时55分"
         }
       ]
     }
