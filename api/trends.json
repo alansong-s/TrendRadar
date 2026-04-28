@@ -1,255 +1,255 @@
 {
-  "generated_at": "2026-04-27T09:58:58.460004+08:00",
+  "generated_at": "2026-04-28T10:05:36.208411+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "F. 政治",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
-          "title": "特朗普取消美方代表赴巴，称“想谈致电即可”，伊方称“若美方立场缓和，未来几天可能举行第二轮谈判”",
-          "url": "https://wallstreetcn.com/articles/3770904",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时58分"
-        },
-        {
-          "title": "现场视频丨突发安全事件，特朗普紧急撤离白宫记者晚宴",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33056733",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时58分"
-        },
-        {
-          "title": "枪击案发生时，坐在特朗普旁边的华裔女记者是谁？",
-          "url": "https://v.ifeng.com/c/8sendYSbNWy",
+          "title": "白宫记协晚宴枪击案嫌犯首次出庭，细节披露",
+          "url": "https://news.ifeng.com/c/8sgXUxCtCzQ",
           "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时58分"
+          "time_info": "10时05分"
         },
         {
-          "title": "A股氦气概念持续冲高，金宏气体涨超17%，广钢气体涨超14%，华特气体涨超12%，水发燃气涨停，中泰股份、九丰能源、和远气体、蜀道装备等个股跟涨。中银证券表示，中短期卡塔尔供应难以恢复，俄罗斯氦气出口管控授权申请期限的不确定性预期加重，氦气市场货源紧张局面预计逐步加重，预计氦气价格或延续涨势。",
-          "url": "https://flash.jin10.com/detail/20260427095149895800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "E. 经济",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "大量商家公开售卖铼粉，宣称黄金掺 20% 到 23% 的铼粉，市场上的光谱仪都测不出来，真是这样吗？",
-          "url": "https://www.zhihu.com/question/2031704431519954268",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时58分"
-        },
-        {
-          "title": "花旗：资金流动可能会持续受到干扰直到6月底，这可能推动布伦特原油价格升至每桶150美元。",
-          "url": "https://flash.jin10.com/detail/20260427094652774800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时58分"
-        },
-        {
-          "title": "花旗：将对2026年第二季度、第三季度和第四季度布伦特原油均价的基准情景预测分别上调至每桶110美元、95美元和80美元。",
-          "url": "https://flash.jin10.com/detail/20260427094625530800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时58分"
-        },
-        {
-          "title": "央视曝光“掺假黄金”：掺进黄金高温烧熔，宣称“冷却后重量增加，纯度99.9%”",
-          "url": "https://www.cls.cn/detail/2355965",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A. AI",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "如何评价 DeepSeek V4 Pro 官网限时 2.5 折优惠和缓存永久大降价？",
-          "url": "https://www.zhihu.com/question/2031494133160861736",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时58分"
-        },
-        {
-          "title": "高盛：DeepSeek V4对中国AI意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3770911",
-          "source": "华尔街见闻",
+          "title": "休产假的白宫发言人紧急返回，借枪击案促结束国土安全部停摆",
+          "url": "https://news.ifeng.com/c/8sgXaC16nK1",
+          "source": "凤凰网",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时58分"
+          "time_info": "10时05分"
         },
         {
-          "title": "一条视频看懂DeepSeek V4",
-          "url": "https://www.douyin.com/hot/2479851",
-          "source": "抖音",
+          "title": "事关霍尔木兹！伊朗提出“重开新方案” 白宫证实特朗普与团队讨论",
+          "url": "https://www.cls.cn/detail/2357460",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "白宫记协枪击案“最稳干饭人”：众人逃命，好莱坞经纪人淡定吃菜",
+          "url": "https://v.ifeng.com/c/8sfE7qGCkje",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "伊朗宣布暂停66类钢铁产品出口，此前70%钢铁产能被以色列摧毁",
+          "url": "https://wallstreetcn.com/articles/3770985",
+          "source": "华尔街见闻",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时58分"
+          "time_info": "10时05分"
         },
         {
-          "title": "DeepSeek V4“寄予厚望”！国产算力“进攻的矛”--超节点",
-          "url": "https://wallstreetcn.com/articles/3770923",
+          "title": "特朗普：希望白宫记者协会晚宴在“约30天内”重启",
+          "url": "https://wallstreetcn.com/livenews/3095346",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "E. 经济",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "零钱往哪放？理财收益率跟踪",
+          "url": "https://flash.jin10.com/detail/20260428093657546800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "美股收盘：“双英”+三大内存股收创纪录 标普纳指再刷新高",
+          "url": "https://www.cls.cn/detail/2357399",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "美股三大存储股齐刷新高！分析师：存储强劲需求料持续至2030年",
+          "url": "https://www.cls.cn/detail/2357471",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "31省份一季度GDP出炉",
+          "url": "https://www.douyin.com/hot/2481174",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "日本央行明日开会：加息预期归零，但这才是危险的开始",
+          "url": "https://wallstreetcn.com/articles/3770991",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "D. 半导体",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "科技巨头财报周前夕，标普纳指新高，芯片指数终结连涨，英伟达再新高，布油六连阳",
+          "url": "https://wallstreetcn.com/articles/3770961",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "【早报】美股科技巨头冷暖不均，英伟达、英特尔齐创新高；一批A股公司一季度净利增超10倍",
+          "url": "https://www.cls.cn/detail/2357431",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "中韩半导体ETF涨超5%。",
+          "url": "https://flash.jin10.com/detail/20260428093444149800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "半导体产业链盘初调整，聚辰股份、盛美上海跌超10%，唯捷创芯、至纯科技、芯源微、航宇微跌超5%。",
+          "url": "https://wallstreetcn.com/livenews/3095344",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "科创50大涨超3%，芯片半导体集体拉升，PCB概念爆发，立讯精密触及涨停，恒指午后转跌，中芯国际涨6%",
+          "url": "https://wallstreetcn.com/articles/3770943",
           "source": "华尔街见闻",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时58分"
+          "time_info": "10时05分"
         }
       ]
     },
     {
-      "keyword_group": "C. 电子产品",
-      "match_count": 4,
+      "keyword_group": "A. AI",
+      "match_count": 2,
       "titles": [
         {
-          "title": "“阅读 +”点亮各地文旅新体验",
-          "url": "https://www.toutiao.com/trending/7632549257844768811/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时58分"
-        },
-        {
-          "title": "小米公司：李某华在微信群散布雷军谣言，被警方处以行拘十日",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33056855",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时58分"
-        },
-        {
-          "title": "特朗普将于周一召开关于伊朗问题的战情室会议。（AXIOS）",
-          "url": "https://wallstreetcn.com/livenews/3094612",
+          "title": "DeepSeek注册资本提高50%",
+          "url": "https://wallstreetcn.com/livenews/3095322",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时58分"
+          "time_info": "10时05分"
         },
         {
-          "title": "预告：商务部定于4月30日下午3时举行新闻发布会",
-          "url": "https://flash.jin10.com/detail/20260427093824961800",
-          "source": "金十数据",
+          "title": "OpenAI未能实现2025年ChatGPT营收目标，也未能实现到2025年底，周活跃用户达到10亿的目标。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3095321",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时58分"
+          "time_info": "10时05分"
         }
       ]
     },
     {
-      "keyword_group": "D. 半导体",
-      "match_count": 4,
+      "keyword_group": "C. 电子产品",
+      "match_count": 2,
       "titles": [
         {
-          "title": "A股半导体芯片股早盘拉升，帝奥微、派瑞股份涨超10%，东芯股份、富瀚微、澜起科技、海光信息、江丰电子涨逾6%。",
-          "url": "https://wallstreetcn.com/livenews/3094632",
-          "source": "华尔街见闻-快讯",
+          "title": "时薪100元的新工种：把iPhone绑在脑门上，替AI蒸馏自己",
+          "url": "https://wallstreetcn.com/articles/3770953",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时58分"
+          "time_info": "10时05分"
         },
         {
-          "title": "香港恒生指数开盘持平，报25976.97点；恒生科技指数涨0.56%。中芯国际涨超4%，百度涨超3%，华虹半导体涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3094619",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时58分"
-        },
-        {
-          "title": "港股芯片股连日走强，澜起科技(06809.HK)涨超10%，中芯国际(00981.HK)涨超4%，天数智芯(09903.HK)、兆易创新(03986.HK)、英诺赛科(02577.HK)等个股跟涨。",
-          "url": "https://flash.jin10.com/detail/20260427093229585800",
-          "source": "金十数据",
+          "title": "全网首发塑水宗2.0实机评测",
+          "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E7%BD%91%E9%A6%96%E5%8F%91%E5%A1%91%E6%B0%B4%E5%AE%972.0%E5%AE%9E%E6%9C%BA%E8%AF%84%E6%B5%8B",
+          "source": "bilibili 热搜",
           "ranks": [
             24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时58分"
-        },
-        {
-          "title": "港股光通讯板块盘初走强，长飞光纤光缆(06869.HK)涨超7%，汇聚科技(01729.HK)涨超4%，华虹半导体(01347.HK)、均胜电子(00699.HK)、剑桥科技(06166.HK)等个股跟涨。",
-          "url": "https://flash.jin10.com/detail/20260427093135213800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时58分"
+          "time_info": "10时05分"
         }
       ]
     }
