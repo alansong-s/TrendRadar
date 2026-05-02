@@ -1,216 +1,160 @@
 {
-  "generated_at": "2026-05-01T10:11:00.794137+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-05-02T09:58:34.569973+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "F. 政治",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
-          "title": "伊朗住联合国代表指责部分阿拉伯国家参与对伊“侵略”行动",
-          "url": "https://flash.jin10.com/detail/20260501095116924800",
-          "source": "金十数据",
+          "title": "东北早市被俄罗斯游客“包场”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%9C%E5%8C%97%E6%97%A9%E5%B8%82%E8%A2%AB%E4%BF%84%E7%BD%97%E6%96%AF%E6%B8%B8%E5%AE%A2%E2%80%9C%E5%8C%85%E5%9C%BA%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时11分"
+          "time_info": "09时58分"
         },
         {
-          "title": "美军拟以“高超音速导弹”打击伊朗，周四将向特朗普汇报新“打击计划”",
-          "url": "https://wallstreetcn.com/articles/3771344",
+          "title": "伊朗转交新方案，“放宽谈判条件”，特朗普称“不满意”，但“倾向于不打击”",
+          "url": "https://wallstreetcn.com/articles/3771465",
           "source": "华尔街见闻",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时11分"
+          "time_info": "09时58分"
         },
         {
-          "title": "当枪声在白宫记者晚宴响起——特朗普如何改写美国媒体规则？",
-          "url": "https://news.ifeng.com/c/8skYq26ZNlk",
+          "title": "德副总理：不需要特朗普指点，他该先关注自己捅出的篓子",
+          "url": "https://news.ifeng.com/c/8smXkOIlSF7",
           "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
+          "title": "民调：超六成美国人认为对伊朗动武是错误",
+          "url": "https://wallstreetcn.com/livenews/3098099",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
+          "title": "美防长：“60天时限”已“暂停” 对伊朗军事行动无需寻求国会授权",
+          "url": "https://www.cls.cn/detail/2361658",
+          "source": "财联社热门",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时11分"
+          "time_info": "09时58分"
         },
         {
-          "title": "众议院议长称美国“并未处于战争状态”，国会没必要介入",
-          "url": "https://news.ifeng.com/c/8skytKYpnc0",
+          "title": "伊朗战争丨特朗普：说我们没赢，这是叛国",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
-          "title": "美媒称特朗普提出建立海上联盟新计划，以重开霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/articles/3771420",
-          "source": "华尔街见闻",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时11分"
+          "time_info": "09时58分"
+        },
+        {
+          "title": "知情人士透露，特朗普政府与精神航空控股公司（Spirit Aviation Holdings Inc.）之间的谈判已经结束，未能达成救助这家陷入困境的航空公司的协议。上述人士表示，该航司正准备在纽约时间周六凌晨3点左右停止运营。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3098096",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时58分"
         }
       ]
     },
     {
       "keyword_group": "E. 经济",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
-          "title": "经济数据与财报提振信心，标普、纳指新高，谷歌大涨10%，日元暴涨",
-          "url": "https://wallstreetcn.com/articles/3771356",
+          "title": "女子15年前买的金条完全不含黄金",
+          "url": "https://www.toutiao.com/trending/7634657327857614889/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
+          "title": "伊朗新谈判方案重创原油，科技股助标普再新高、创一年半最长周涨，日元反弹暂歇但全周走强",
+          "url": "https://wallstreetcn.com/articles/3771459",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时11分"
+          "time_info": "09时58分"
         },
         {
-          "title": "中国斯诺克步入黄金时代",
-          "url": "https://www.toutiao.com/trending/7633863809170309170/",
-          "source": "今日头条",
+          "title": "9月就是极限！摩根大通：届时原油库存见底，霍尔木兹海峡“无论如何都将重开”",
+          "url": "https://wallstreetcn.com/articles/3771455",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时11分"
+          "time_info": "09时58分"
         },
         {
           "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
           "url": "https://www.cls.cn/detail/2361634",
           "source": "财联社热门",
           "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
-          "title": "美国对伊战争已花掉250亿美元，特朗普欲推出“海上自由联盟”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33082398",
-          "source": "澎湃新闻",
-          "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A. AI",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "DeepSeek破底价,友商瑟瑟发抖",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353912&amp;topic_name=DeepSeek%E7%A0%B4%E5%BA%95%E4%BB%B7%2C%E5%8F%8B%E5%95%86%E7%91%9F%E7%91%9F%E5%8F%91%E6%8A%96",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
+          "time_info": "09时58分"
         },
         {
-          "title": "如何评价 Anthropic 的 Claude Code 被曝出 HERMES.md 触发隐藏计费？",
-          "url": "https://www.zhihu.com/question/2033162416024985618",
-          "source": "知乎",
+          "title": "狼终于来了！日本两年来首度干预，日元飙升，油价、美股和美债“联动”",
+          "url": "https://wallstreetcn.com/articles/3771452",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时11分"
+          "time_info": "09时58分"
         },
         {
-          "title": "从硅谷视角看DeepSeekV4",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E7%A1%85%E8%B0%B7%E8%A7%86%E8%A7%92%E7%9C%8BDeepSeekV4",
-          "source": "bilibili 热搜",
+          "title": "谷歌、卡特彼勒成“大赢家”，AI和财报压倒战争，4月的美股创2020年以来最强",
+          "url": "https://wallstreetcn.com/articles/3771451",
+          "source": "华尔街见闻",
           "ranks": [
-            12
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
-          "title": "Anthropic大模型Mythos的扩张包括日本（市场）。（日经新闻）",
-          "url": "https://wallstreetcn.com/livenews/3097753",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "C. 电子产品",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "F1迈阿密站发布会要点",
-          "url": "https://search.bilibili.com/all?keyword=F1%E8%BF%88%E9%98%BF%E5%AF%86%E7%AB%99%E5%8F%91%E5%B8%83%E4%BC%9A%E8%A6%81%E7%82%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
-          "title": "2026年4月，小米汽车交付量超过30000台。",
-          "url": "https://wallstreetcn.com/livenews/3097776",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
-          "title": "小米汽车4月交付超3万辆 环比增长50%",
-          "url": "https://flash.jin10.com/detail/20260501090745367800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
-          "title": "华为Pura 90系列影像表现实测",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8D%8E%E4%B8%BAPura%2090%E7%B3%BB%E5%88%97%E5%BD%B1%E5%83%8F%E8%A1%A8%E7%8E%B0%E5%AE%9E%E6%B5%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
+          "time_info": "09时58分"
         }
       ]
     },
@@ -219,37 +163,93 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "4月收官！沪指站稳4100点，科创50指数大涨25%，芯片半导体爆发，寒武纪重夺股王宝座",
-          "url": "https://wallstreetcn.com/articles/3771338",
+          "title": "谷歌“历史最大涨幅”、英伟达反而大跌！高盛资深半导体分析师建议“做多云、减持芯片”",
+          "url": "https://wallstreetcn.com/articles/3771450",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时11分"
+          "time_info": "09时58分"
         },
         {
-          "title": "【数据看盘】超30亿元资金买入算力芯片龙头 多路资金联手抢筹中国长城",
-          "url": "https://www.cls.cn/detail/2361202",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
-          "title": "周四（4月30日），美股存储芯片与硬件供应链指数收涨3.96%，报153.43点，4月份累计上涨47.32%，整体持续走高。",
-          "url": "https://wallstreetcn.com/livenews/3097750",
+          "title": "美股存储芯片指数涨3.5%创收盘历史新高，成分股闪迪、希捷、美光领跑",
+          "url": "https://wallstreetcn.com/livenews/3098084",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时11分"
+          "time_info": "09时58分"
+        },
+        {
+          "title": "美股收盘，道指初步收跌0.31%、标普500指数涨0.29%、纳指涨0.89%。因Q1财报靓丽，苹果(AAPL.O)收涨3.24%、闪迪(SNDK.O)涨8.25%。英特尔(INTC.O)涨5.44%，收盘价为99.62美元创下新高。",
+          "url": "https://flash.jin10.com/detail/20260502040111732800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A. AI",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "本地Agent会成PC新基建吗",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9C%AC%E5%9C%B0Agent%E4%BC%9A%E6%88%90PC%E6%96%B0%E5%9F%BA%E5%BB%BA%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
+          "title": "DeepSeek破底价,友商瑟瑟发抖",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353912&amp;topic_name=DeepSeek%E7%A0%B4%E5%BA%95%E4%BB%B7%2C%E5%8F%8B%E5%95%86%E7%91%9F%E7%91%9F%E5%8F%91%E6%8A%96",
+          "source": "贴吧",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "C. 电子产品",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "据AXIOS：美国国防部估计美国封锁已使伊朗损失48亿美元。",
+          "url": "https://flash.jin10.com/detail/20260502080556644800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
+          "title": "甲亢哥的华为三折叠掉海里了，崩溃捂脸",
+          "url": "https://news.ifeng.com/c/8sn4FWOVLTR",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时58分"
         }
       ]
     }
