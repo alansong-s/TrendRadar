@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-06T10:02:07.063463+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-05-07T10:04:32.917423+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
@@ -8,18 +8,18 @@
       "match_count": 5,
       "titles": [
         {
-          "title": "【早报】鲁比奥确认：对伊朗“史诗怒火”军事行动已结束；伊朗外长今日访华",
-          "url": "https://www.cls.cn/detail/2363208",
-          "source": "财联社热门",
+          "title": "俄罗斯：呼吁各国及时从基辅撤离人员",
+          "url": "https://www.toutiao.com/trending/7636607770091520050/",
+          "source": "今日头条",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时02分"
+          "time_info": "10时04分"
         },
         {
-          "title": "伊朗战争丨特朗普：霍尔木兹海峡“自由行动”将暂停",
+          "title": "伊朗战争丨伊朗确认：将在赛前14天抵美参加世界杯",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
           "ranks": [
@@ -27,40 +27,40 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时02分"
+          "time_info": "10时04分"
         },
         {
-          "title": "伊朗外长阿拉格齐将访华",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33099650",
-          "source": "澎湃新闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
-          "title": "伊朗总统办公室主任：总统与革命卫队指挥官不存在分歧",
-          "url": "https://news.ifeng.com/c/8stHYQTNeqN",
+          "title": "阿拉格齐称访华富有成果，中国认为战前战后的伊朗完全不同",
+          "url": "https://news.ifeng.com/c/8suoch3QkWe",
           "source": "凤凰网",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时02分"
+          "time_info": "10时04分"
         },
         {
-          "title": "“严厉训斥、愤怒回击”，美英财长为伊朗战事当面交锋",
-          "url": "https://news.ifeng.com/c/8st8jNjoFNK",
+          "title": "特朗普：如果伊朗同意美方条款，“史诗怒火”行动将宣告结束",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33102780",
+          "source": "澎湃新闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "以军总参谋长：在伊朗仍有一系列目标尚待打击",
+          "url": "https://news.ifeng.com/c/8sun3FDjXHF",
           "source": "凤凰网",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时02分"
+          "time_info": "10时04分"
         }
       ]
     },
@@ -69,98 +69,48 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "30年期美债冲破5%！华尔街已纷纷拉响警报",
-          "url": "https://www.cls.cn/detail/2363061",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
-          "title": "现货白银上涨近3%，至每盎司75.01美元。",
-          "url": "https://wallstreetcn.com/livenews/3099047",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
-          "title": "中东战火改写货币政策剧本？美联储“三把手”：短期内无加息必要",
-          "url": "https://www.cls.cn/detail/2362780",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
-          "title": "巴菲特谈为人处事“黄金法则”：你希望别人怎么待你，你就怎样待别人，照此行事没见过谁不快乐的",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33097949",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "D. 半导体",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美伊局势暂趋缓和，芯片股力挺标普纳指新高，原油下挫，盘后AMD大涨",
-          "url": "https://wallstreetcn.com/articles/3771589",
+          "title": "美伊和谈预期升温，欧美股市大涨，标普纳指再新高，中概股指跑赢大盘，原油重挫，黄金大涨",
+          "url": "https://wallstreetcn.com/articles/3771614",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时02分"
+          "time_info": "10时04分"
         },
         {
-          "title": "创业板指涨幅扩大至3%，沪指涨0.91%，深成指涨2.17%，存储芯片、算力硬件、算力租赁等方向涨幅居前，沪深京三市上涨个股超3800只。",
-          "url": "https://wallstreetcn.com/livenews/3099060",
-          "source": "华尔街见闻-快讯",
+          "title": "【早报】油价大幅跳水！特朗普：美伊“很有可能”达成协议；以军在停火期间突袭贝鲁特",
+          "url": "https://www.cls.cn/detail/2364367",
+          "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时02分"
+          "time_info": "10时04分"
         },
         {
-          "title": "上调寒武纪、下调浪潮信息！高盛预言了“国产AI芯片的崛起”场景",
-          "url": "https://wallstreetcn.com/articles/3771568",
-          "source": "华尔街见闻",
+          "title": "WTI原油日内跌幅达1.00%，现报96.12美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260507100033987800",
+          "source": "金十数据",
           "ranks": [
-            3
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时02分"
+          "time_info": "10时04分"
         },
         {
-          "title": "美股收盘：标普、纳指再创新高 美光、英特尔涨幅均超10%",
-          "url": "https://www.cls.cn/detail/2363187",
-          "source": "财联社热门",
+          "title": "在岸人民币兑美元涨116点至6.8033元，创2023年2月14日以来新高。 离岸人民币兑美元涨107点至6.8024元，创2023年2月10日以来新高。",
+          "url": "https://wallstreetcn.com/livenews/3099682",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时02分"
+          "time_info": "10时04分"
         }
       ]
     },
@@ -169,48 +119,98 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "ClaudeCode之父：“全员编程”时代，企业真正领先在于“组织流程的代差”",
-          "url": "https://wallstreetcn.com/articles/3771572",
+          "title": "如何看待蔡浩宇的硅谷 AI 公司战略转向，LLM 团队整体回流国内？",
+          "url": "https://www.zhihu.com/question/2035415081798869913",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "SpaceX成算力租赁巨头 Anthropic大手一挥包下Colossus 1全部容量",
+          "url": "https://www.cls.cn/detail/2364304",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "国产大模型开启融资热：DeepSeek被曝投后估值或达450亿美元",
+          "url": "https://wallstreetcn.com/articles/3771667",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时02分"
+          "time_info": "10时04分"
         },
         {
-          "title": "立场反转，特朗普政府考虑对AI模型进行安全审查",
-          "url": "https://news.ifeng.com/c/8ssll5TyVCi",
-          "source": "凤凰网",
+          "title": "Anthropic自夸Q1年化收入暴涨80倍 日本疑似连续干预汇市 | 环球市场",
+          "url": "https://www.cls.cn/detail/2364390",
+          "source": "财联社热门",
           "ranks": [
-            8
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时02分"
+          "time_info": "10时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "D. 半导体",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美股收盘：纳指、标普再创新高 AMD、康宁接力暴涨 中概股表现亮眼",
+          "url": "https://www.cls.cn/detail/2364348",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时04分"
         },
         {
-          "title": "美军部署超10万个人工智能体，欲打造“算法铁幕”谋求算法霸权",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33099232",
-          "source": "澎湃新闻",
+          "title": "和英伟达“站在光里”！康宁拟十倍扩产光连接产能",
+          "url": "https://www.cls.cn/detail/2364151",
+          "source": "财联社热门",
           "ranks": [
-            16
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时02分"
+          "time_info": "10时04分"
         },
         {
-          "title": "OpenAI或加速手机开发",
-          "url": "https://s.weibo.com/weibo?q=%23OpenAI%E6%88%96%E5%8A%A0%E9%80%9F%E6%89%8B%E6%9C%BA%E5%BC%80%E5%8F%91%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
+          "title": "英伟达康宁签长期协议：康宁光学连接产能将提升10倍，英伟达获至多1800万股认购权",
+          "url": "https://wallstreetcn.com/articles/3771670",
+          "source": "华尔街见闻",
           "ranks": [
-            19
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时02分"
+          "time_info": "10时04分"
+        },
+        {
+          "title": "A股大涨，成交破3.2万亿！科创50飙涨超5%，算力、存储芯片集体爆发，寒武纪、海光信息创新高",
+          "url": "https://wallstreetcn.com/articles/3771617",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时04分"
         }
       ]
     },
@@ -219,37 +219,37 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "四川一景区游客体验瀑布秋千项目时坠落，送医途中死亡，出发前反复喊绳子没绑紧，具体情况如何？谁该担责？",
-          "url": "https://www.zhihu.com/question/2035094685081760301",
+          "title": "如何理解雷军说不建议有司机的大老板买小米，这是反向宣传还是真诚建议？",
+          "url": "https://www.zhihu.com/question/2028883532005525054",
           "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
-          "title": "“芯荒”制约iPhone销量？苹果据称考虑让英特尔、三星代工设备处理器",
-          "url": "https://www.cls.cn/detail/2362826",
-          "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时02分"
+          "time_info": "10时04分"
         },
         {
-          "title": "小米汽车宣布，新一代SU7上市仅48天，锁单已超过80000台。",
-          "url": "https://wallstreetcn.com/livenews/3099025",
-          "source": "华尔街见闻-快讯",
+          "title": "游客体验瀑布秋千时坠亡，瀑布落差高达168米约56层楼高",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33101811",
+          "source": "澎湃新闻",
           "ranks": [
-            22
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时02分"
+          "time_info": "10时04分"
+        },
+        {
+          "title": "为什么麒麟都能用 7nm 工艺龙芯却不行？",
+          "url": "https://www.zhihu.com/question/381960445",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时04分"
         }
       ]
     }
