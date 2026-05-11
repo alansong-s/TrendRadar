@@ -1,188 +1,105 @@
 {
-  "generated_at": "2026-05-10T10:05:31.578395+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-05-11T10:14:37.839173+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "F. 政治",
-      "match_count": 5,
+      "match_count": 4,
       "titles": [
         {
-          "title": "普京：俄乌冲突正接近尾声",
-          "url": "https://news.ifeng.com/c/8t08yropeAv",
-          "source": "凤凰网",
+          "title": "外交部官宣特朗普访华日期",
+          "url": "https://www.toutiao.com/trending/7638433306853281331/",
+          "source": "今日头条",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时05分"
+          "time_info": "10时14分"
         },
         {
-          "title": "伊官员：伊朗将继续行使自卫权，警惕美方敌对行动",
-          "url": "https://wallstreetcn.com/livenews/3101098",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普5月13日至15日访华",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE5%E6%9C%8813%E6%97%A5%E8%87%B315%E6%97%A5%E8%AE%BF%E5%8D%8E",
+          "source": "百度热搜",
           "ranks": [
-            3
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时05分"
+          "time_info": "10时14分"
         },
         {
-          "title": "乌克兰抗议后以方拒绝接收，俄罗斯回应",
-          "url": "https://news.ifeng.com/c/8szuvQmquBd",
-          "source": "凤凰网",
+          "title": "中方宣布特朗普访华日期",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%AE%A3%E5%B8%83%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E6%97%A5%E6%9C%9F%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
           "ranks": [
-            4
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时05分"
+          "time_info": "10时14分"
         },
         {
-          "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
-          "url": "https://wallstreetcn.com/articles/3771883",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时05分"
-        },
-        {
-          "title": "伊朗战争丨伊朗驻华大使澄清中国油轮遇袭传言",
+          "title": "伊朗战争丨伊方已拒绝美国提出的方案",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
           "ranks": [
-            6
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A. AI",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "据消息人士透露，阿里巴巴将把千问大模型（Qwen AI）整合至淘宝，并推出“智能体购物”功能。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3101101",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时05分"
-        },
-        {
-          "title": "Deepseek和阿里谈崩了？市场人士回应",
-          "url": "https://www.baidu.com/s?wd=Deepseek%E5%92%8C%E9%98%BF%E9%87%8C%E8%B0%88%E5%B4%A9%E4%BA%86%EF%BC%9F%E5%B8%82%E5%9C%BA%E4%BA%BA%E5%A3%AB%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时05分"
-        },
-        {
-          "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
-          "url": "https://wallstreetcn.com/articles/3771878",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时05分"
-        },
-        {
-          "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
-          "url": "https://www.cls.cn/detail/2366815",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时05分"
-        },
-        {
-          "title": "DeepSeek睁眼,开放识图模式",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354128&amp;topic_name=DeepSeek%E7%9D%81%E7%9C%BC%2C%E5%BC%80%E6%94%BE%E8%AF%86%E5%9B%BE%E6%A8%A1%E5%BC%8F",
-          "source": "贴吧",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时05分"
+          "time_info": "10时14分"
         }
       ]
     },
     {
       "keyword_group": "E. 经济",
-      "match_count": 5,
+      "match_count": 4,
       "titles": [
         {
-          "title": "SK能源将向加油站提供补贴以应对高油价",
-          "url": "https://flash.jin10.com/detail/20260510095157067800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时05分"
-        },
-        {
-          "title": "中国4月原油进口量降至三年低位，大豆进口量同比大涨近40%，铝出口量创17个月高位",
-          "url": "https://wallstreetcn.com/articles/3771892",
+          "title": "远超预期！刚刚过去的财报季，美股“强得惊人”",
+          "url": "https://wallstreetcn.com/articles/3771916",
           "source": "华尔街见闻",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时05分"
+          "time_info": "10时14分"
         },
         {
-          "title": "中国4月以美元计价出口同比增长14.1%，进口同比增长25.3%",
-          "url": "https://wallstreetcn.com/articles/3771888",
-          "source": "华尔街见闻",
+          "title": "A股贵金属板块震荡走低，赤峰黄金跌超3%，山金国际、中金黄金、山东黄金、晓程科技、四川黄金跟跌。",
+          "url": "https://flash.jin10.com/detail/20260511100535529800",
+          "source": "金十数据",
           "ranks": [
-            3
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时05分"
+          "time_info": "10时14分"
         },
         {
-          "title": "美联储降息理由日益枯竭，沃什接棒面临棘手局面",
-          "url": "https://wallstreetcn.com/articles/3771899",
-          "source": "华尔街见闻",
+          "title": "中国4月CPI中，食品价格同比下降1.6%，非食品价格上涨1.8%。",
+          "url": "https://wallstreetcn.com/livenews/3101267",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时05分"
+          "time_info": "10时14分"
         },
         {
-          "title": "狂卖80亿美元微软持仓！知名科技对冲基金“十年持股一朝清仓”",
-          "url": "https://wallstreetcn.com/articles/3771880",
+          "title": "历史的回归：德意志银行谈黄金、美元与货币未来",
+          "url": "https://wallstreetcn.com/articles/3771915",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时05分"
+          "time_info": "10时14分"
         }
       ]
     },
@@ -191,65 +108,154 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "编造芯片订单虚假信息，获利不足300元，2人被罚45万",
-          "url": "https://www.cls.cn/detail/2366813",
+          "title": "【早报】伊朗回应美国所提结束战争方案，美称“完全不可接受”；全球芯片LOF、中韩半导体ETF华泰柏瑞停牌1小时",
+          "url": "https://www.cls.cn/detail/2367370",
           "source": "财联社热门",
           "ranks": [
-            3
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时05分"
+          "time_info": "10时14分"
         },
         {
-          "title": "专访中芯国际创始人张汝京：利基市场成半导体行业核心突围切口 看好AI场景化应用 赛道“小巨人”是破局关键",
-          "url": "https://www.cls.cn/detail/2366780",
-          "source": "财联社热门",
+          "title": "深成指、创业板指均涨超1%，沪指涨0.41%，存储芯片、光纤、量子科技等方向领涨，沪深京三市上涨个股超2600只。",
+          "url": "https://wallstreetcn.com/livenews/3101270",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时05分"
+          "time_info": "10时14分"
         },
         {
-          "title": "英伟达全面布局AI生态 股权投资今年已超400亿美元",
-          "url": "https://www.cls.cn/detail/2367033",
+          "title": "芯片股狂潮，还在加速",
+          "url": "https://wallstreetcn.com/articles/3771924",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时14分"
+        },
+        {
+          "title": "中韩半导体ETF华泰柏瑞、全球芯片LOF明日停牌一小时",
+          "url": "https://www.cls.cn/detail/2367295",
           "source": "财联社热门",
           "ranks": [
-            11
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时05分"
+          "time_info": "10时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A. AI",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "DeepSeek 大范围开放识图模式，你能用了吗？体验感如何？",
+          "url": "https://www.zhihu.com/question/2036432998422115875",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时14分"
         },
         {
-          "title": "如何看待美股芯片交易热潮",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E4%BA%A4%E6%98%93%E7%83%AD%E6%BD%AE",
-          "source": "bilibili 热搜",
+          "title": "周末要闻汇总：DeepSeek据悉拟募资最高500亿元人民币；证监会查处2起财务造假案件",
+          "url": "https://www.cls.cn/detail/2367192",
+          "source": "财联社热门",
           "ranks": [
-            25
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时05分"
+          "time_info": "10时14分"
+        },
+        {
+          "title": "OpenAI允许员工出售价值至多3000万美元的股票。去年10月，超过600名OpenAI员工出售了股票，总共获利66亿美元。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3101246",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时14分"
+        },
+        {
+          "title": "DeepSeek睁眼,开放识图模式",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354128&amp;topic_name=DeepSeek%E7%9D%81%E7%9C%BC%2C%E5%BC%80%E6%94%BE%E8%AF%86%E5%9B%BE%E6%A8%A1%E5%BC%8F",
+          "source": "贴吧",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时14分"
         }
       ]
     },
     {
       "keyword_group": "C. 电子产品",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
-          "title": "据AXIOS网站：美国国务卿鲁比奥和美国特使威特科夫周六在迈阿密会见了卡塔尔首相，旨在推动达成结束伊朗战争的协议。",
-          "url": "https://flash.jin10.com/detail/20260510044333531800",
-          "source": "金十数据",
+          "title": "OPPO母亲节活动文案引争议，武汉大学：极不认同文案价值倾向",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33151742",
+          "source": "澎湃新闻",
           "ranks": [
-            29
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时05分"
+          "time_info": "10时14分"
+        },
+        {
+          "title": "如何看待武汉大学就 OPPO 母亲节文案发声明，称学校极不认同文案内容？",
+          "url": "https://www.zhihu.com/question/2036878078077580026",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时14分"
+        },
+        {
+          "title": "华为云计划于2026年11月11日00:00（北京时间）正式停售内容审核产品。",
+          "url": "https://flash.jin10.com/detail/20260511100016052800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "G. 网络安全",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Jefferies：中国AI、苹果及特斯拉供应链二季度有望获正贝塔收益",
+          "url": "https://wallstreetcn.com/livenews/3101247",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时14分"
         }
       ]
     }
