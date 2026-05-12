@@ -1,261 +1,249 @@
 {
-  "generated_at": "2026-05-11T10:14:37.839173+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-05-12T10:09:58.641981+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "F. 政治",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "外交部官宣特朗普访华日期",
-          "url": "https://www.toutiao.com/trending/7638433306853281331/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时14分"
-        },
-        {
-          "title": "特朗普5月13日至15日访华",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE5%E6%9C%8813%E6%97%A5%E8%87%B315%E6%97%A5%E8%AE%BF%E5%8D%8E",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时14分"
-        },
-        {
-          "title": "中方宣布特朗普访华日期",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%AE%A3%E5%B8%83%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E6%97%A5%E6%9C%9F%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时14分"
-        },
-        {
-          "title": "伊朗战争丨伊方已拒绝美国提出的方案",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时14分"
-        }
-      ]
-    },
-    {
       "keyword_group": "E. 经济",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
-          "title": "远超预期！刚刚过去的财报季，美股“强得惊人”",
-          "url": "https://wallstreetcn.com/articles/3771916",
+          "title": "美伊局势僵持，美股原油齐涨，标普纳指再新高，光通信股集体大涨，白银暴涨7%",
+          "url": "https://wallstreetcn.com/articles/3771942",
           "source": "华尔街见闻",
           "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "美股收盘：标普500指数再创新高 存储、光通信延续逼空行情",
+          "url": "https://www.cls.cn/detail/2368457",
+          "source": "财联社热门",
+          "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时14分"
+          "time_info": "10时09分"
         },
         {
-          "title": "A股贵金属板块震荡走低，赤峰黄金跌超3%，山金国际、中金黄金、山东黄金、晓程科技、四川黄金跟跌。",
-          "url": "https://flash.jin10.com/detail/20260511100535529800",
-          "source": "金十数据",
+          "title": "中国央行Q1货币政策执行报告：继续实施好适度宽松的货币政策，密切关注外部输入型通胀影响",
+          "url": "https://wallstreetcn.com/articles/3771998",
+          "source": "华尔街见闻",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时14分"
+          "time_info": "10时09分"
         },
         {
-          "title": "中国4月CPI中，食品价格同比下降1.6%，非食品价格上涨1.8%。",
-          "url": "https://wallstreetcn.com/livenews/3101267",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时14分"
-        },
-        {
-          "title": "历史的回归：德意志银行谈黄金、美元与货币未来",
-          "url": "https://wallstreetcn.com/articles/3771915",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "D. 半导体",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "【早报】伊朗回应美国所提结束战争方案，美称“完全不可接受”；全球芯片LOF、中韩半导体ETF华泰柏瑞停牌1小时",
-          "url": "https://www.cls.cn/detail/2367370",
+          "title": "特朗普拒绝伊朗和平提案 美股期指集体走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2368275",
           "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时14分"
-        },
-        {
-          "title": "深成指、创业板指均涨超1%，沪指涨0.41%，存储芯片、光纤、量子科技等方向领涨，沪深京三市上涨个股超2600只。",
-          "url": "https://wallstreetcn.com/livenews/3101270",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时14分"
+          "time_info": "10时09分"
         },
         {
-          "title": "芯片股狂潮，还在加速",
-          "url": "https://wallstreetcn.com/articles/3771924",
-          "source": "华尔街见闻",
+          "title": "国债期货早盘开盘",
+          "url": "https://flash.jin10.com/detail/20260512093216287800",
+          "source": "金十数据",
           "ranks": [
-            6
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时14分"
+          "time_info": "10时09分"
         },
         {
-          "title": "中韩半导体ETF华泰柏瑞、全球芯片LOF明日停牌一小时",
-          "url": "https://www.cls.cn/detail/2367295",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A. AI",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "DeepSeek 大范围开放识图模式，你能用了吗？体验感如何？",
-          "url": "https://www.zhihu.com/question/2036432998422115875",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时14分"
-        },
-        {
-          "title": "周末要闻汇总：DeepSeek据悉拟募资最高500亿元人民币；证监会查处2起财务造假案件",
-          "url": "https://www.cls.cn/detail/2367192",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时14分"
-        },
-        {
-          "title": "OpenAI允许员工出售价值至多3000万美元的股票。去年10月，超过600名OpenAI员工出售了股票，总共获利66亿美元。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3101246",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时14分"
-        },
-        {
-          "title": "DeepSeek睁眼,开放识图模式",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354128&amp;topic_name=DeepSeek%E7%9D%81%E7%9C%BC%2C%E5%BC%80%E6%94%BE%E8%AF%86%E5%9B%BE%E6%A8%A1%E5%BC%8F",
-          "source": "贴吧",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "C. 电子产品",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "OPPO母亲节活动文案引争议，武汉大学：极不认同文案价值倾向",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33151742",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时14分"
-        },
-        {
-          "title": "如何看待武汉大学就 OPPO 母亲节文案发声明，称学校极不认同文案内容？",
-          "url": "https://www.zhihu.com/question/2036878078077580026",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时14分"
-        },
-        {
-          "title": "华为云计划于2026年11月11日00:00（北京时间）正式停售内容审核产品。",
-          "url": "https://flash.jin10.com/detail/20260511100016052800",
+          "title": "A股黄金概念盘初走强，福达合金、兴业银锡、宝鼎科技涨超5%，湖南白银、白银有色、江西铜业跟涨。",
+          "url": "https://flash.jin10.com/detail/20260512093153652800",
           "source": "金十数据",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时14分"
+          "time_info": "10时09分"
+        },
+        {
+          "title": "日本5年期国债收益率上升至1.915%，创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3101942",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         }
       ]
     },
     {
-      "keyword_group": "G. 网络安全",
-      "match_count": 1,
+      "keyword_group": "F. 政治",
+      "match_count": 6,
       "titles": [
         {
-          "title": "Jefferies：中国AI、苹果及特斯拉供应链二季度有望获正贝塔收益",
-          "url": "https://wallstreetcn.com/livenews/3101247",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普：中国是一个令人惊叹的国家",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%98%AF%E4%B8%80%E4%B8%AA%E4%BB%A4%E4%BA%BA%E6%83%8A%E5%8F%B9%E7%9A%84%E5%9B%BD%E5%AE%B6",
+          "source": "百度热搜",
           "ranks": [
-            19
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时14分"
+          "time_info": "10时09分"
+        },
+        {
+          "title": "【早报】特朗普将访华，中方回应；京沪高铁：部分线路涨价",
+          "url": "https://www.cls.cn/detail/2368498",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "美国以协助伊朗为由制裁3家中国公司，外交部回应",
+          "url": "https://news.ifeng.com/c/8t2b0FtT2VP",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "美国总统特朗普时隔九年再度对中国进行国事访问，双方可能会就哪些问题进行磋商？较上次访华会有什么变化？",
+          "url": "https://www.zhihu.com/question/2037161087863353508",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "伊朗官员：伊美就浓缩铀处置方式存在严重分歧",
+          "url": "https://news.ifeng.com/c/8t3NrhrUsGT",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "僵局难解：伊朗称美坚持“不合理要求”，特朗普称伊方回应愚蠢、停火协议“岌岌可危”",
+          "url": "https://wallstreetcn.com/articles/3772005",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "D. 半导体",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "全球芯片LOF溢价率47%惊呆市场！是机会还是暗藏风险？",
+          "url": "https://www.cls.cn/detail/2368315",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "沪指站上4200点创近11年新高，科创50创历史新高，芯片、半导体集体爆发、千亿巨头狂拉",
+          "url": "https://wallstreetcn.com/articles/3771947",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "A股存储芯片板块今日调整，华特气体跌超6%，恒烁股份、澜起科技、金宏气体、神工股份跌超5%，东芯股份、有研新材跟跌。",
+          "url": "https://flash.jin10.com/detail/20260512093727397800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "海力士的奖金，半导体的周期",
+          "url": "https://wallstreetcn.com/articles/3771949",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "美股芯片板块狂飙暗藏风险 散户此刻大举冲入引发担忧",
+          "url": "https://www.cls.cn/detail/2368431",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "韩国为何成半导体行情核心引擎",
+          "url": "https://www.toutiao.com/trending/7638769840957689353/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A. AI",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Deepseek分析145斤怎么瘦到100斤",
+          "url": "https://s.weibo.com/weibo?q=Deepseek%E5%88%86%E6%9E%90145%E6%96%A4%E6%80%8E%E4%B9%88%E7%98%A6%E5%88%B0100%E6%96%A4&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         }
       ]
     }
