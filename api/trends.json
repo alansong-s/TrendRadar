@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T10:16:19.309931+08:00",
+  "generated_at": "2026-05-16T10:07:51.997691+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
@@ -8,59 +8,59 @@
       "match_count": 5,
       "titles": [
         {
-          "title": "中美元首会晤首日都做了什么",
-          "url": "https://www.toutiao.com/trending/7639894451195907593/",
-          "source": "今日头条",
+          "title": "王毅介绍中美元首会晤情况和共识",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E6%AF%85%E4%BB%8B%E7%BB%8D%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E6%83%85%E5%86%B5%E5%92%8C%E5%85%B1%E8%AF%86",
+          "source": "bilibili 热搜",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时16分"
+          "time_info": "10时07分"
         },
         {
-          "title": "中美元首北京会晤达成重要共识",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E5%8C%97%E4%BA%AC%E4%BC%9A%E6%99%A4%E8%BE%BE%E6%88%90%E9%87%8D%E8%A6%81%E5%85%B1%E8%AF%86",
-          "source": "百度热搜",
+          "title": "中美元首会晤情况和共识",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E6%83%85%E5%86%B5%E5%92%8C%E5%85%B1%E8%AF%86%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时16分"
+          "time_info": "10时07分"
         },
         {
-          "title": "标普纳指又新高，思科飙涨13%创新高，英国政局致英镑暴跌，白银重挫",
-          "url": "https://wallstreetcn.com/articles/3772269",
+          "title": "王毅向媒体介绍中美元首会晤情况和共识，有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2038752352610538209",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
+          "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
+          "url": "https://www.cls.cn/detail/2373036",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
+          "title": "王毅向媒体介绍中美元首会晤情况和共识",
+          "url": "https://wallstreetcn.com/articles/3772389",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时16分"
-        },
-        {
-          "title": "中美元首会晤是否讨论对台军售问题？外交部回应",
-          "url": "https://news.ifeng.com/c/8t7a1b3HIGV",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时16分"
-        },
-        {
-          "title": "韩国10年期国债收益率上升10个基点，达到4.182%，为2023年11月以来最高水平。",
-          "url": "https://flash.jin10.com/detail/20260515101026242800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时16分"
+          "time_info": "10时07分"
         }
       ]
     },
@@ -69,59 +69,59 @@
       "match_count": 5,
       "titles": [
         {
-          "title": "详讯丨习近平同美国总统特朗普会谈",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33176579",
+          "title": "详讯丨习近平同美国总统特朗普在中南海小范围会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33181994",
           "source": "澎湃新闻",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时16分"
+          "time_info": "10时07分"
         },
         {
-          "title": "习近平为特朗普举行欢迎宴会",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BA%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BE%E8%A1%8C%E6%AC%A2%E8%BF%8E%E5%AE%B4%E4%BC%9A",
-          "source": "bilibili 热搜",
+          "title": "金十数据整理：俄乌冲突最新24小时局势跟踪（5月16日）",
+          "url": "https://flash.jin10.com/detail/20260516093035194800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时16分"
+          "time_info": "10时07分"
         },
         {
-          "title": "习近平同特朗普举行会谈：中美应当做伙伴而不是对手，让2026年成为中美关系继往开来的历史性、标志性年份",
-          "url": "https://wallstreetcn.com/articles/3772243",
+          "title": "习近平同美国总统特朗普在中南海小范围会晤",
+          "url": "https://wallstreetcn.com/articles/3772334",
           "source": "华尔街见闻",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时16分"
+          "time_info": "10时07分"
         },
         {
-          "title": "习近平：维护台海和平稳定是中美双方最大公约数",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33176258",
+          "title": "美国总统特朗普结束访华离京",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33182040",
           "source": "澎湃新闻",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时16分"
+          "time_info": "10时07分"
         },
         {
-          "title": "特朗普访华欢迎宴会，都有哪些看点值得关注？",
-          "url": "https://www.zhihu.com/question/2038333650341557719",
-          "source": "知乎",
+          "title": "特朗普结束访华离开北京",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%BB%93%E6%9D%9F%E8%AE%BF%E5%8D%8E%E7%A6%BB%E5%BC%80%E5%8C%97%E4%BA%AC",
+          "source": "bilibili 热搜",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时16分"
+          "time_info": "10时07分"
         }
       ]
     },
@@ -130,48 +130,48 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "美股收盘：纳指、标普500指数再创新高 英伟达市值逼近6万亿美元",
-          "url": "https://www.cls.cn/detail/2371819",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时16分"
-        },
-        {
-          "title": "港股光通信板块集体走弱，华虹半导体(01347.HK)、长飞光纤光缆(06869.HK)跌超7%，剑桥科技(06166.HK)、汇聚科技(01729.HK)、曦智科技-P(01879.HK)跌超3%。",
-          "url": "https://flash.jin10.com/detail/20260515100618779800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时16分"
-        },
-        {
-          "title": "特朗普Q1交易：大幅减持亚马逊、Meta和微软，买入英伟达、博通和苹果，抄底甲骨文、Adobe等软件股",
-          "url": "https://wallstreetcn.com/articles/3772311",
+          "title": "原油大涨掀债市抛售潮，美股回落，英伟达跌超4%，长债收益率创数年新高，金属重挫",
+          "url": "https://wallstreetcn.com/articles/3772341",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时16分"
+          "time_info": "10时07分"
         },
         {
-          "title": "英伟达市值狂飙,超德国GDP",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354290&amp;topic_name=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%B8%82%E5%80%BC%E7%8B%82%E9%A3%99%2C%E8%B6%85%E5%BE%B7%E5%9B%BDGDP",
-          "source": "贴吧",
+          "title": "全球最大对冲基金调仓大动作：大举加仓芯片 全面清仓软件股",
+          "url": "https://www.cls.cn/detail/2373077",
+          "source": "财联社热门",
           "ranks": [
-            10
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时16分"
+          "time_info": "10时07分"
+        },
+        {
+          "title": "Arm据称遭FTC反垄断调查",
+          "url": "https://flash.jin10.com/detail/20260516091607994800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
+          "title": "【焦点复盘】沪指日线2连阴失守10日均线，光通信概念遭深幅调整，半导体设备股逆势活跃",
+          "url": "https://www.cls.cn/detail/2372575",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时07分"
         }
       ]
     },
@@ -180,48 +180,48 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "iPhone17Pro降价2000",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone17Pro%E9%99%8D%E4%BB%B72000%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
+          "title": "部分降价千元！苹果华为开启促销，iPhone17Pro最低6999元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33181501",
+          "source": "澎湃新闻",
           "ranks": [
-            2
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时16分"
+          "time_info": "10时07分"
         },
         {
-          "title": "苹果深夜降价：iPhone17上市后首次降价",
-          "url": "https://www.cls.cn/detail/2371883",
-          "source": "财联社热门",
+          "title": "让企业群众办事体验最佳，上海有何举措？市政府办公厅答澎湃",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33181584",
+          "source": "澎湃新闻",
           "ranks": [
-            3
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时16分"
+          "time_info": "10时07分"
         },
         {
-          "title": "苹果回应iPhone17降价",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%9B%9E%E5%BA%94iPhone17%E9%99%8D%E4%BB%B7%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
+          "title": "养了只碎嘴鹦鹉是什么体验",
+          "url": "https://www.toutiao.com/trending/7639733032095531017/",
+          "source": "今日头条",
           "ranks": [
-            5
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时16分"
+          "time_info": "10时07分"
         },
         {
-          "title": "iPhone17上市后首次降价",
-          "url": "https://www.douyin.com/hot/2499529",
-          "source": "抖音",
+          "title": "深海迷航2游玩体验如何",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E6%B5%B7%E8%BF%B7%E8%88%AA2%E6%B8%B8%E7%8E%A9%E4%BD%93%E9%AA%8C%E5%A6%82%E4%BD%95",
+          "source": "bilibili 热搜",
           "ranks": [
-            5
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时16分"
+          "time_info": "10时07分"
         }
       ]
     },
@@ -230,15 +230,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "Codex登陆ChatGPT手机App",
-          "url": "https://search.bilibili.com/all?keyword=Codex%E7%99%BB%E9%99%86ChatGPT%E6%89%8B%E6%9C%BAApp",
-          "source": "bilibili 热搜",
+          "title": "今年早些时候，OpenAI收购了weights.gg。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3104694",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时16分"
+          "time_info": "10时07分"
         }
       ]
     },
@@ -247,15 +247,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "【中芯国际赵海军：公司与客户协商上调定价 涨价效应逐步体现】在今日的一季报业绩说明会上，中芯国际联合CEO赵海军表示，一季度毛利率为20.1%，环比增加0.9个百分点，主要因为销售单价上升和产品结构优化。结合当前市场形势，在供不应求的产品类别，公司与客户协商上调定价，涨价效应逐步体现；加之部分客户顾虑后续外部环境不确定性可能带来供应不足或继续推高供应链价格，提拉消费、IoT产品类产品备货，使得公司在手订单充足。综合以上因素，二季度，公司给出的收入指引为环比增长14%到16%，预计出货量和平均销售单价均有明显提升；毛利率指引为20%—22%，与上一季指引相比提升2个百分点，主要是因为平均销售单价的上升。",
-          "url": "https://wallstreetcn.com/livenews/3104011",
-          "source": "华尔街见闻-快讯",
+          "title": "90 后男子在医学院读硕博期间套取 1426 万元科研经费，如何看待此事？高校科研经费管理存在哪些漏洞？",
+          "url": "https://www.zhihu.com/question/2038261956851802377",
+          "source": "知乎",
           "ranks": [
-            7
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时16分"
+          "time_info": "10时07分"
         }
       ]
     }
