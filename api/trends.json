@@ -1,76 +1,48 @@
 {
-  "generated_at": "2026-05-19T10:32:04.211658+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-05-20T10:32:11.482466+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "E. 经济",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "金价跳水 黑金首饰受追捧",
-          "url": "https://www.toutiao.com/trending/7640315819964645412/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "谈判前景反复无常，油价先跌后涨，美股承压，科技股领跌",
-          "url": "https://wallstreetcn.com/articles/3772473",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "现货钯金日内跌幅达2.00%，现报1388.03美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260519101537095800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "卷走2.8亿元！央视曝光炒黄金骗局",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%B7%E8%B5%B02.8%E4%BA%BF%E5%85%83%EF%BC%81%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E7%82%92%E9%BB%84%E9%87%91%E9%AA%97%E5%B1%80",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "印尼盾兑美元进一步跌至纪录新低17,700。",
-          "url": "https://flash.jin10.com/detail/20260519101309632800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        }
-      ]
-    },
     {
       "keyword_group": "F. 政治",
       "match_count": 5,
       "titles": [
         {
-          "title": "普京即将启程访华，俄罗斯远东地区要真正融入「大远东」经济圈，最紧迫的突破口在哪里？",
-          "url": "https://www.zhihu.com/question/2039719852647113704",
+          "title": "俄罗斯总统普京抵达北京",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BF%84%E7%BD%97%E6%96%AF%E6%80%BB%E7%BB%9F%E6%99%AE%E4%BA%AC%E6%8A%B5%E8%BE%BE%E5%8C%97%E4%BA%AC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "乌克兰：美国看上了，准备军用",
+          "url": "https://news.ifeng.com/c/8tGSN0azFvi",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "习近平将同俄罗斯总统普京小范围会谈",
+          "url": "https://flash.jin10.com/detail/20260520101750142800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "俄罗斯总统普京抵达北京，于 5 月 19 日开始访华，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2039838595406455287",
           "source": "知乎",
           "ranks": [
             1
@@ -80,44 +52,11 @@
           "time_info": "10时32分"
         },
         {
-          "title": "报道：美方同意在谈判期间暂时豁免对伊朗的石油制裁",
-          "url": "https://wallstreetcn.com/articles/3772532",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "特朗普称将推迟对伊朗发动军事打击",
-          "url": "https://www.cls.cn/detail/2374774",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "原定周二对伊朗攻击！特朗普应海湾三国请求推迟，内塔尼亚胡连续两晚开会备战",
-          "url": "https://wallstreetcn.com/articles/3772569",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "伊朗披露穆杰塔巴受伤细节",
-          "url": "https://news.ifeng.com/c/8tEctFxkrzc",
+          "title": "伊媒：伊朗格什姆岛传出爆炸声",
+          "url": "https://news.ifeng.com/c/8tG6zVYeyxe",
           "source": "凤凰网",
           "ranks": [
-            4
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -126,13 +65,13 @@
       ]
     },
     {
-      "keyword_group": "D. 半导体",
+      "keyword_group": "E. 经济",
       "match_count": 5,
       "titles": [
         {
-          "title": "【早报】美股存储、半导体板块大跌；特朗普：暂缓对伊打击",
-          "url": "https://www.cls.cn/detail/2374806",
-          "source": "财联社热门",
+          "title": "通胀担忧高企，美长债收益率飙升至多年高位，标普纳指三连跌，黄金一度跌超2%",
+          "url": "https://wallstreetcn.com/articles/3772605",
+          "source": "华尔街见闻",
           "ranks": [
             1
           ],
@@ -141,30 +80,19 @@
           "time_info": "10时32分"
         },
         {
-          "title": "港股半导体板块持续走低，天数智芯(09903.HK)跌超9%，英诺赛科(02577.HK)跌超8%，澜起科技(06809.HK)、兆易创新(03986.HK)、中芯国际(00981.HK)等多股跌超4%。",
-          "url": "https://flash.jin10.com/detail/20260519101335578800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "美股收盘：标普纳指连跌两日 存储概念股、芯片板块整体走弱",
-          "url": "https://www.cls.cn/detail/2374787",
+          "title": "美股收盘：三大指数集体走低 光通信概念股逆市走强",
+          "url": "https://www.cls.cn/detail/2376079",
           "source": "财联社热门",
           "ranks": [
-            4
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
         },
         {
-          "title": "英伟达周三财报夜：决定AI牛市命运的一战来了！",
-          "url": "https://wallstreetcn.com/articles/3772508",
+          "title": "美银基金经理调查：美股超配程度接近“卖出信号”，30年期收益率恐升破6%",
+          "url": "https://wallstreetcn.com/articles/3772622",
           "source": "华尔街见闻",
           "ranks": [
             5
@@ -174,11 +102,72 @@
           "time_info": "10时32分"
         },
         {
-          "title": "科技大佬Gavin Baker：亚马逊芯片是黑马，太空数据中心快来了，台积电在帮所有人避泡沫",
-          "url": "https://wallstreetcn.com/articles/3772477",
+          "title": "美联储加息概率飙升！特朗普松口：沃什可“按自己意愿” 决定利率",
+          "url": "https://www.cls.cn/detail/2376144",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "日本内阁官房长官木原稔：预计日本央行将采取政策以实现2%的CPI目标，货币政策的具体细节应由日本央行决定。",
+          "url": "https://wallstreetcn.com/livenews/3106384",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "D. 半导体",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "高盛英伟达前瞻：业绩大概率超预期，但市场更关注“1万亿美元”指引之外的增量空间",
+          "url": "https://wallstreetcn.com/articles/3772638",
           "source": "华尔街见闻",
           "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "谷歌年度开发者大会揭幕 半导体板块不振美股持续调整 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2375879",
+          "source": "财联社热门",
+          "ranks": [
             7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "沪指涨近1%，科创50大涨超3%，电力掀起涨停潮，半导体产业链集体反弹",
+          "url": "https://wallstreetcn.com/articles/3772591",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "美股费城半导体指数七日跌幅一度逼近10%，抄底资金开始入场",
+          "url": "https://wallstreetcn.com/articles/3772667",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -188,53 +177,47 @@
     },
     {
       "keyword_group": "A. AI",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
-          "title": "Codex 和 Claude Code 各自的优势和劣势是什么？",
-          "url": "https://www.zhihu.com/question/2022852734622114542",
-          "source": "知乎",
+          "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
+          "url": "https://wallstreetcn.com/articles/3772658",
+          "source": "华尔街见闻",
           "ranks": [
-            19
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
         },
         {
-          "title": "腾讯云：智能体开发平台中提供的 Hy3 preview、DeepSeek-V4-Pro 模型，将于北京时间2026年5月27日10:00起结束限时免费公测，转为正式商用服务，根据模型调用按量计费。",
-          "url": "https://flash.jin10.com/detail/20260519094946718800",
-          "source": "金十数据",
+          "title": "谷歌开发者大会火力全开：AI搜索、代码生成、视频模型齐发",
+          "url": "https://www.cls.cn/detail/2376057",
+          "source": "财联社热门",
           "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "G. 网络安全",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "5 名中国人在泰国遭 4 名警察 1 平民绑架、持枪勒索，什么情况？前往泰国应如何防范此类事情？",
-          "url": "https://www.zhihu.com/question/2039685124501889551",
-          "source": "知乎",
-          "ranks": [
-            12
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
         },
         {
-          "title": "5名中国人在泰国遭警察绑架勒索",
-          "url": "https://www.douyin.com/hot/2502932",
-          "source": "抖音",
+          "title": "2026 年 Google I/O 大会有哪些值得关注的信息？",
+          "url": "https://www.zhihu.com/question/2040145697911956151",
+          "source": "知乎",
           "ranks": [
-            16
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "谷歌I/O大会今夜揭幕： Gemini 4.0悬念、全栈智能体与AI购物",
+          "url": "https://wallstreetcn.com/articles/3772609",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -247,11 +230,28 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "小米汽车为寻天引入新电池供应商",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E4%B8%BA%E5%AF%BB%E5%A4%A9%E5%BC%95%E5%85%A5%E6%96%B0%E7%94%B5%E6%B1%A0%E4%BE%9B%E5%BA%94%E5%95%86%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
+          "title": "华为轮值董事长徐直军访问东风汽车 启动全面深化战略合作2.0阶段",
+          "url": "https://flash.jin10.com/detail/20260520101606584800",
+          "source": "金十数据",
           "ranks": [
-            20
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "G. 网络安全",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中国公民遭非法拘禁并被勒索，驻泰使馆回应",
+          "url": "https://news.ifeng.com/c/8tFye5w7nji",
+          "source": "凤凰网",
+          "ranks": [
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
