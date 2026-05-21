@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-05-20T10:32:11.482466+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-05-21T10:32:47.514378+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "F. 政治",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
-          "title": "俄罗斯总统普京抵达北京",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BF%84%E7%BD%97%E6%96%AF%E6%80%BB%E7%BB%9F%E6%99%AE%E4%BA%AC%E6%8A%B5%E8%BE%BE%E5%8C%97%E4%BA%AC",
+          "title": "俄罗斯总统普京结束访华",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BF%84%E7%BD%97%E6%96%AF%E6%80%BB%E7%BB%9F%E6%99%AE%E4%BA%AC%E7%BB%93%E6%9D%9F%E8%AE%BF%E5%8D%8E",
           "source": "bilibili 热搜",
           "ranks": [
             1
@@ -19,8 +19,8 @@
           "time_info": "10时32分"
         },
         {
-          "title": "乌克兰：美国看上了，准备军用",
-          "url": "https://news.ifeng.com/c/8tGSN0azFvi",
+          "title": "特朗普回应中俄元首会晤",
+          "url": "https://news.ifeng.com/c/8tIjMNQDlpG",
           "source": "凤凰网",
           "ranks": [
             1
@@ -30,33 +30,44 @@
           "time_info": "10时32分"
         },
         {
-          "title": "习近平将同俄罗斯总统普京小范围会谈",
-          "url": "https://flash.jin10.com/detail/20260520101750142800",
-          "source": "金十数据",
+          "title": "特朗普回应中俄元首会晤：我觉得很好",
+          "url": "https://www.toutiao.com/trending/7641482501025808434/",
+          "source": "今日头条",
           "ranks": [
-            1
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
         },
         {
-          "title": "俄罗斯总统普京抵达北京，于 5 月 19 日开始访华，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2039838595406455287",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "伊媒：伊朗格什姆岛传出爆炸声",
-          "url": "https://news.ifeng.com/c/8tG6zVYeyxe",
+          "title": "特朗普，“退了一万亿”",
+          "url": "https://news.ifeng.com/c/8tIcotw8V5W",
           "source": "凤凰网",
           "ranks": [
-            2
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "19岁男孩骑摩托炸街被制裁",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354441&amp;topic_name=19%E5%B2%81%E7%94%B7%E5%AD%A9%E9%AA%91%E6%91%A9%E6%89%98%E7%82%B8%E8%A1%97%E8%A2%AB%E5%88%B6%E8%A3%81",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "特朗普一句话击穿油市！布油盘中跌超7%，美国库存创纪录暴跌也挡不住",
+          "url": "https://wallstreetcn.com/articles/3772754",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -66,33 +77,11 @@
     },
     {
       "keyword_group": "E. 经济",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
-          "title": "通胀担忧高企，美长债收益率飙升至多年高位，标普纳指三连跌，黄金一度跌超2%",
-          "url": "https://wallstreetcn.com/articles/3772605",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "美股收盘：三大指数集体走低 光通信概念股逆市走强",
-          "url": "https://www.cls.cn/detail/2376079",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "美银基金经理调查：美股超配程度接近“卖出信号”，30年期收益率恐升破6%",
-          "url": "https://wallstreetcn.com/articles/3772622",
+          "title": "美联储会议纪要放鹰：多数官员支持通胀持续高企时加息，多人倾向删除宽松倾向",
+          "url": "https://wallstreetcn.com/articles/3772756",
           "source": "华尔街见闻",
           "ranks": [
             5
@@ -102,22 +91,55 @@
           "time_info": "10时32分"
         },
         {
-          "title": "美联储加息概率飙升！特朗普松口：沃什可“按自己意愿” 决定利率",
-          "url": "https://www.cls.cn/detail/2376144",
-          "source": "财联社热门",
+          "title": "霍尔木兹+厄尔尼诺双杀，花旗警告：大宗商品恐爆发超级通胀风暴！",
+          "url": "https://wallstreetcn.com/articles/3772710",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
         },
         {
-          "title": "日本内阁官房长官木原稔：预计日本央行将采取政策以实现2%的CPI目标，货币政策的具体细节应由日本央行决定。",
-          "url": "https://wallstreetcn.com/livenews/3106384",
+          "title": "澳大利亚失业率意外攀升，削弱加息押注",
+          "url": "https://flash.jin10.com/detail/20260521095508174800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "澳元兑美元AUD/USD日内走低0.50%，现报0.7113。",
+          "url": "https://flash.jin10.com/detail/20260521095427349800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "日本央行审议委员小枝淳子：关键是要评估中东局势引发的通胀对消费的影响。 日本央行还应监测技术需求和供应链。",
+          "url": "https://wallstreetcn.com/livenews/3107070",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "中国4月全国城镇16—24岁劳动力失业率降至16.3%。",
+          "url": "https://wallstreetcn.com/livenews/3107069",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -127,47 +149,58 @@
     },
     {
       "keyword_group": "D. 半导体",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
-          "title": "高盛英伟达前瞻：业绩大概率超预期，但市场更关注“1万亿美元”指引之外的增量空间",
-          "url": "https://wallstreetcn.com/articles/3772638",
+          "title": "美伊冲突降温，WTI原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
+          "url": "https://wallstreetcn.com/articles/3772708",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
         },
         {
-          "title": "谷歌年度开发者大会揭幕 半导体板块不振美股持续调整 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2375879",
+          "title": "【早报】美股科技巨头全线走高；英伟达财报出炉、SpaceX启动IPO",
+          "url": "https://www.cls.cn/detail/2377339",
           "source": "财联社热门",
           "ranks": [
-            7
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
         },
         {
-          "title": "沪指涨近1%，科创50大涨超3%，电力掀起涨停潮，半导体产业链集体反弹",
-          "url": "https://wallstreetcn.com/articles/3772591",
+          "title": "英伟达Q1营收超预期增85%、指引再新高仍不够亮眼，新增回购800亿且大幅上调股息 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3772760",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
         },
         {
-          "title": "美股费城半导体指数七日跌幅一度逼近10%，抄底资金开始入场",
-          "url": "https://wallstreetcn.com/articles/3772667",
-          "source": "华尔街见闻",
+          "title": "全面超预期！英伟达公布强劲财报 预计下半年开始发货Vera Rubin",
+          "url": "https://www.cls.cn/detail/2377323",
+          "source": "财联社热门",
           "ranks": [
-            9
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "美股收盘：三大指数均涨超1% 光通信、CPU概念表现强势",
+          "url": "https://www.cls.cn/detail/2377305",
+          "source": "财联社热门",
+          "ranks": [
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -177,34 +210,12 @@
     },
     {
       "keyword_group": "A. AI",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
         {
-          "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
-          "url": "https://wallstreetcn.com/articles/3772658",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "谷歌开发者大会火力全开：AI搜索、代码生成、视频模型齐发",
-          "url": "https://www.cls.cn/detail/2376057",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "2026 年 Google I/O 大会有哪些值得关注的信息？",
-          "url": "https://www.zhihu.com/question/2040145697911956151",
-          "source": "知乎",
+          "title": "受OpenAI及SB Energy IPO计划双重提振，软银股价大涨近20%",
+          "url": "https://flash.jin10.com/detail/20260521095917152800",
+          "source": "金十数据",
           "ranks": [
             6
           ],
@@ -213,11 +224,11 @@
           "time_info": "10时32分"
         },
         {
-          "title": "谷歌I/O大会今夜揭幕： Gemini 4.0悬念、全栈智能体与AI购物",
-          "url": "https://wallstreetcn.com/articles/3772609",
-          "source": "华尔街见闻",
+          "title": "如何评价 Gemini 于 2026 年 5 月 17 日实行的新限额形式？",
+          "url": "https://www.zhihu.com/question/2040264998916712429",
+          "source": "知乎",
           "ranks": [
-            7
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -230,26 +241,9 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "华为轮值董事长徐直军访问东风汽车 启动全面深化战略合作2.0阶段",
-          "url": "https://flash.jin10.com/detail/20260520101606584800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "G. 网络安全",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中国公民遭非法拘禁并被勒索，驻泰使馆回应",
-          "url": "https://news.ifeng.com/c/8tFye5w7nji",
-          "source": "凤凰网",
+          "title": "铁路部门回应“3岁女童高铁座位与母亲相隔8节车厢”：持续优化相关功能，提升用户体验",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33204168",
+          "source": "澎湃新闻",
           "ranks": [
             3
           ],
