@@ -1,261 +1,255 @@
 {
-  "generated_at": "2026-05-25T10:38:04.073892+08:00",
+  "generated_at": "2026-05-26T10:28:25.539119+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "C. 电子产品",
-      "match_count": 4,
+      "keyword_group": "E. 经济",
+      "match_count": 7,
       "titles": [
         {
-          "title": "华为半导体领域新突破",
-          "url": "https://www.toutiao.com/trending/7643633110405464073/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时38分"
-        },
-        {
-          "title": "本周重磅日程：“美联储最爱通胀指标”、中国PMI、长鑫科技上会、拼多多小米财报",
-          "url": "https://wallstreetcn.com/articles/3772885",
+          "title": "美伊和谈预期升温，油价跳水，全球股市走强，泛欧股指六连涨，金银铜齐升",
+          "url": "https://wallstreetcn.com/articles/3773010",
           "source": "华尔街见闻",
           "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
+          "title": "获利了结叠加油价反弹施压 日经225指数高位回落",
+          "url": "https://flash.jin10.com/detail/20260526101700257800",
+          "source": "金十数据",
+          "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时38分"
+          "time_info": "10时28分"
         },
         {
-          "title": "小米通报空调安装「抽真空」造假，两名涉事师傅被永久拉黑，抽真空环节有多重要？这种造假行为能有效遏制吗？",
-          "url": "https://www.zhihu.com/question/2041463586346849089",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时38分"
-        },
-        {
-          "title": "华为正式发表半导体领域新定律",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E6%AD%A3%E5%BC%8F%E5%8F%91%E8%A1%A8%E5%8D%8A%E5%AF%BC%E4%BD%93%E9%A2%86%E5%9F%9F%E6%96%B0%E5%AE%9A%E5%BE%8B",
-          "source": "百度热搜",
+          "title": "多国加满60升油箱油价对比",
+          "url": "https://www.toutiao.com/trending/7642685162706878507/",
+          "source": "今日头条",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时38分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "E. 经济",
-      "match_count": 4,
-      "titles": [
+          "time_info": "10时28分"
+        },
         {
-          "title": "泰铢兑美元升至32.400，为5月15日以来的最高水平。",
-          "url": "https://flash.jin10.com/detail/20260525101355777800",
+          "title": "特朗普称让沃什“自己来”，市场听懂了：美债收益率曲线惊现“更高更久”信号",
+          "url": "https://flash.jin10.com/detail/20260526101520950800",
           "source": "金十数据",
           "ranks": [
-            2
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时38分"
+          "time_info": "10时28分"
         },
         {
-          "title": "即便美伊协议快速达成，汇丰仍认为“通胀影响持续存在，更多央行将加息”",
-          "url": "https://wallstreetcn.com/articles/3772987",
-          "source": "华尔街见闻",
+          "title": "中美元首会晤是否谈及日本？外交部回应",
+          "url": "https://news.ifeng.com/c/8tPnms8zvLU",
+          "source": "凤凰网",
           "ranks": [
-            5
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时38分"
+          "time_info": "10时28分"
         },
         {
-          "title": "日本30年期国债收益率下跌5.5个基点，报3.955%。",
-          "url": "https://flash.jin10.com/detail/20260525100104478800",
+          "title": "黄金反弹进程受阻，美国“防御性”打击会摧毁和平前景吗？",
+          "url": "https://flash.jin10.com/detail/20260526100457328800",
           "source": "金十数据",
           "ranks": [
-            9
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时38分"
+          "time_info": "10时28分"
         },
         {
-          "title": "日本30年期国债收益率下行5个基点至3.96%。 日本10年期国债收益率下行3个基点至2.73%。",
-          "url": "https://wallstreetcn.com/livenews/3108616",
-          "source": "华尔街见闻-快讯",
+          "title": "斯里兰卡央行：中东紧张局势带来的不确定性促使全球商品价格，尤其是石油价格，保持高位。",
+          "url": "https://flash.jin10.com/detail/20260526100404148800",
+          "source": "金十数据",
           "ranks": [
-            9
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时38分"
+          "time_info": "10时28分"
         }
       ]
     },
     {
       "keyword_group": "F. 政治",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
-          "title": "俄罗斯确认使用「榛树」导弹对乌克兰发动大规模打击，会对当前局势带来哪些影响？「榛树」是一种怎样的导弹？",
-          "url": "https://www.zhihu.com/question/2041973158329016783",
-          "source": "知乎",
+          "title": "伊朗最高领袖就医情况曝光",
+          "url": "https://news.ifeng.com/c/8tQQymaYbMG",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
+          "title": "特朗普要求先签“亚伯拉罕协议”，沙特回应",
+          "url": "https://news.ifeng.com/c/8tQf0euzx96",
+          "source": "凤凰网",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时38分"
+          "time_info": "10时28分"
         },
         {
-          "title": "华裔白宫通讯主任怒喷蓬佩奥，甚至爆了粗口",
-          "url": "https://news.ifeng.com/c/8tNwnLtqWBs",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时38分"
-        },
-        {
-          "title": "8国外长联合谴责以色列国安部长",
-          "url": "https://flash.jin10.com/detail/20260525101041429800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时38分"
-        },
-        {
-          "title": "智胜特朗普？美媒酸了：中国取消对非关税这招太“高明”了",
-          "url": "https://news.ifeng.com/c/8tOEfLcy7On",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时38分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "D. 半导体",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "半导体芯片股集体走强，新洁能涨停，东芯股份、晶丰明源、帝奥微、芯朋微涨超10%，寒武纪、中芯国际拉升涨超7%。",
-          "url": "https://wallstreetcn.com/livenews/3108620",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时38分"
-        },
-        {
-          "title": "英伟达重组,游戏部门other",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354529&amp;topic_name=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E9%87%8D%E7%BB%84%2C%E6%B8%B8%E6%88%8F%E9%83%A8%E9%97%A8other",
-          "source": "贴吧",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时38分"
-        },
-        {
-          "title": "7只半导体热门股拟套现127亿",
-          "url": "https://www.baidu.com/s?wd=7%E5%8F%AA%E5%8D%8A%E5%AF%BC%E4%BD%93%E7%83%AD%E9%97%A8%E8%82%A1%E6%8B%9F%E5%A5%97%E7%8E%B0127%E4%BA%BF",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时38分"
-        },
-        {
-          "title": "A股存储芯片板块持续走高，兆易创新、华虹公司盘中创新高，博敏电子2连板，华天科技涨停，东芯股份涨超15%，圣邦股份、中芯国际、云汉芯城、天马新材、艾森股份跟涨。",
-          "url": "https://flash.jin10.com/detail/20260525094750567800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时38分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A. AI",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "周末要闻汇总：特朗普称美伊协议基本谈成；DeepSeek宣布永久降价",
-          "url": "https://www.cls.cn/detail/2380075",
+          "title": "美军：在伊朗南部实施自卫打击",
+          "url": "https://www.cls.cn/detail/2381184",
           "source": "财联社热门",
           "ranks": [
-            2
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时38分"
+          "time_info": "10时28分"
         },
         {
-          "title": "梁文锋与DeepSeek的十万亿美元棋盘",
-          "url": "https://wallstreetcn.com/articles/3772995",
+          "title": "击落敌方无人机，伊朗：使用了新武器",
+          "url": "https://news.ifeng.com/c/8tQJBZmqYeW",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：伊朗谈判将持续几天。 特朗普说他要么达成一项好的协议，要么不达成协议。",
+          "url": "https://wallstreetcn.com/livenews/3109132",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
+          "title": "美军发动“自卫性”空袭伊朗，细节披露",
+          "url": "https://news.ifeng.com/c/8tQybAWR6Ya",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
+          "title": "报道：伊朗将在与美达成协议30天后重开霍尔木兹，美伊就伊冻结资产达成谅解",
+          "url": "https://wallstreetcn.com/articles/3773097",
           "source": "华尔街见闻",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时38分"
-        },
-        {
-          "title": "deepseek狂降价,友商被卷哭",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354527&amp;topic_name=deepseek%E7%8B%82%E9%99%8D%E4%BB%B7%2C%E5%8F%8B%E5%95%86%E8%A2%AB%E5%8D%B7%E5%93%AD",
-          "source": "贴吧",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时38分"
+          "time_info": "10时28分"
         }
       ]
     },
     {
-      "keyword_group": "G. 网络安全",
-      "match_count": 1,
+      "keyword_group": "D. 半导体",
+      "match_count": 3,
       "titles": [
         {
-          "title": "多家巨头密集押注 “百镜大战”催热供应链！AI眼镜有望加速进入千万台级别市场？",
-          "url": "https://www.cls.cn/detail/2380061",
-          "source": "财联社热门",
+          "title": "科创50指数跌超3%，半导体板块震荡调整，大普微、锴威特跌超10%，思瑞浦、恒坤新材、凯德石英、中科飞测、裕太微跌超6%。",
+          "url": "https://wallstreetcn.com/livenews/3109120",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时38分"
+          "time_info": "10时28分"
+        },
+        {
+          "title": "创业板涨超2%，科创50狂飙近6%，芯片半导体大爆发，中芯国际涨停、寒武纪创历史新高，“双焦”强势涨停",
+          "url": "https://wallstreetcn.com/articles/3773021",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
+          "title": "A股先进封装概念继续活跃，华天科技、三佳科技2连板，甬矽电子涨超10%，晶方科技、快克智能、通富微电等纷纷高开。",
+          "url": "https://wallstreetcn.com/livenews/3109106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "C. 电子产品",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "华为τ缩放：芯片竞争从“节点”转向“时间”",
+          "url": "https://wallstreetcn.com/articles/3773040",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
+          "title": "何庭波署名论文发布，详解刷屏的华为“芯”技术",
+          "url": "https://wallstreetcn.com/articles/3773031",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A. AI",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何看待 DeepSeek 连续多次降价？",
+          "url": "https://www.zhihu.com/question/2033335202307647295",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时28分"
         }
       ]
     }
