@@ -1,127 +1,127 @@
 {
-  "generated_at": "2026-06-02T10:45:44.568651+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-06-03T10:54:43.759596+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "E. 经济",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "美股收盘：三大股指小幅收涨 标普首次突破7600点 AI狂热压倒中东忧虑",
+          "url": "https://www.cls.cn/detail/2388968",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时54分"
+        },
+        {
+          "title": "夏威夷野鸡泛滥数量或超几十万只，政府诱捕一只要花超 100 美元，为啥会这样？有没有好的解决办法？",
+          "url": "https://www.zhihu.com/question/2045166684776789812",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时54分"
+        },
+        {
+          "title": "黄仁勋：Marvell可能会成为“下一家万亿美元公司”",
+          "url": "https://wallstreetcn.com/articles/3773635",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时54分"
+        },
+        {
+          "title": "印尼主权财富基金聘请银行 进行潜在全球美元债券发行",
+          "url": "https://flash.jin10.com/detail/20260603103333201800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时54分"
+        },
+        {
+          "title": "UP主画出了特朗普美元",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%BB%E5%87%BA%E4%BA%86%E7%89%B9%E6%9C%97%E6%99%AE%E7%BE%8E%E5%85%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时54分"
+        }
+      ]
+    },
     {
       "keyword_group": "F. 政治",
       "match_count": 5,
       "titles": [
         {
-          "title": "中方敦促以色列：立即全面撤军",
-          "url": "https://news.ifeng.com/c/8tcasAQNcQf",
+          "title": "伊朗突袭美军中东基地，科威特拦截导弹画面曝光",
+          "url": "https://news.ifeng.com/c/8teM8SFj90x",
           "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时45分"
+          "time_info": "10时54分"
         },
         {
-          "title": "伊朗向以色列发出最新警告",
-          "url": "https://news.ifeng.com/c/8tc3G5LPI4C",
+          "title": "美军发射“地狱火”导弹，击中一艘伊朗相关油轮",
+          "url": "https://news.ifeng.com/c/8te0bJrzbXu",
           "source": "凤凰网",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时45分"
+          "time_info": "10时54分"
         },
         {
-          "title": "抗议以军扩大在黎行动，伊朗据称将暂停与美沟通，计划彻底封锁霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/articles/3773592",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时45分"
-        },
-        {
-          "title": "伊朗暂停与美国对话！“霍尔木兹、曼德海峡双封锁”重新摆上台面",
-          "url": "https://www.cls.cn/detail/2387611",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时45分"
-        },
-        {
-          "title": "美伊谈判将崩盘？专家：伊朗手握多个反制筹码",
-          "url": "https://news.ifeng.com/c/8tcZUHIhU1k",
+          "title": "被特朗普斥“疯了”后，内塔尼亚胡最新强硬表态",
+          "url": "https://news.ifeng.com/c/8tdev8HIju4",
           "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "E. 经济",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "罕见增发！谷歌募资800亿美元砸AI基建，伯克希尔百亿入局",
-          "url": "https://wallstreetcn.com/articles/3773607",
-          "source": "华尔街见闻",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时45分"
+          "time_info": "10时54分"
         },
         {
-          "title": "金十图示：2026年06月02日（周二）上海金早盘价为975.94元/克，较国际金价(974.23元/克)，高1.71元/克",
-          "url": "https://flash.jin10.com/detail/20260602102833311800",
-          "source": "金十数据",
+          "title": "美伊谈判反复背后，特朗普痛骂内塔尼亚胡：你他妈疯了，要不是我你早进监狱了！",
+          "url": "https://wallstreetcn.com/articles/3773679",
+          "source": "华尔街见闻",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时45分"
+          "time_info": "10时54分"
         },
         {
-          "title": "打破\"只买不卖\"惯例！MSTR首度出售比特币，套现250万美元",
-          "url": "https://wallstreetcn.com/articles/3773584",
-          "source": "华尔街见闻",
+          "title": "俄罗斯为何突然禁止航空煤油出口",
+          "url": "https://www.toutiao.com/trending/7646936504756866602/",
+          "source": "今日头条",
           "ranks": [
-            10
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时45分"
-        },
-        {
-          "title": "油价跌了黄金没涨",
-          "url": "https://www.douyin.com/hot/2520269",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时45分"
-        },
-        {
-          "title": "事关美联储加息！华尔街老将震撼预言：应该就在7月份",
-          "url": "https://www.cls.cn/detail/2387779",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时45分"
+          "time_info": "10时54分"
         }
       ]
     },
@@ -130,87 +130,98 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "英伟达GTC ：Vera Rubin全面量产，杀入PC芯片市场，携宇树布局机器人",
-          "url": "https://wallstreetcn.com/articles/3773548",
+          "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
+          "url": "https://wallstreetcn.com/articles/3773650",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时45分"
+          "time_info": "10时54分"
         },
         {
-          "title": "【早报】全线大涨，美股芯片股批量创新高；特朗普：美伊或于“一周内”达成协议",
-          "url": "https://www.cls.cn/detail/2387748",
-          "source": "财联社热门",
+          "title": "创业板指大涨超3%，沪指涨0.23%，深成指涨1.67%，培育钻石、铜缆高速连接、光纤、半导体等方向领涨，沪深京三市上涨个股超1900只。",
+          "url": "https://wallstreetcn.com/livenews/3113451",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时45分"
+          "time_info": "10时54分"
         },
         {
-          "title": "中东局势与AI热潮交织，标普纳指八连涨再新高，英伟达和Arm大涨，美油一度涨超8%",
-          "url": "https://wallstreetcn.com/articles/3773537",
+          "title": "基于CPO技术！英伟达Spectrum-X硅光交换机全面量产",
+          "url": "https://wallstreetcn.com/articles/3773674",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时45分"
+          "time_info": "10时54分"
         },
         {
-          "title": "美股收盘：三大指数均创收盘新高 英伟达领涨科技股",
-          "url": "https://www.cls.cn/detail/2387720",
-          "source": "财联社热门",
+          "title": "国台办回应美对台非半导体232关税优惠措施：民进党当局跪美输诚，出卖台湾核心产业，牺牲台湾产业发展前景，损害台湾民众利益福祉",
+          "url": "https://flash.jin10.com/detail/20260603103152051800",
+          "source": "金十数据",
           "ranks": [
-            2
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时45分"
+          "time_info": "10时54分"
         }
       ]
     },
     {
-      "keyword_group": "G. 网络安全",
-      "match_count": 3,
+      "keyword_group": "A. AI",
+      "match_count": 4,
       "titles": [
         {
-          "title": "豆包预计 6 月下旬正式收费，并于 Force 大会上更新相关功能，收费会对用户造成哪些影响？",
-          "url": "https://www.zhihu.com/question/2044897263168616422",
-          "source": "知乎",
+          "title": "微软全面押注智能体时代：发布新模型、展示新终端、重塑应用生态",
+          "url": "https://www.cls.cn/detail/2388956",
+          "source": "财联社热门",
           "ranks": [
-            1
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时45分"
+          "time_info": "10时54分"
         },
         {
-          "title": "坦桑尼亚被绑架中国人被勒索1.4亿元",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%9D%A6%E6%A1%91%E5%B0%BC%E4%BA%9A%E8%A2%AB%E7%BB%91%E6%9E%B6%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%A2%AB%E5%8B%92%E7%B4%A21.4%E4%BA%BF%E5%85%83%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
+          "title": "微软Build火力全开：Web IQ要做智能体搜索的Bing，量子芯片升级瞄准2029年实用，“龙虾”搬上Windows PC",
+          "url": "https://wallstreetcn.com/articles/3773707",
+          "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时45分"
+          "time_info": "10时54分"
         },
         {
-          "title": "中国人在坦桑尼亚遭绑架被勒索1.4亿",
-          "url": "https://www.toutiao.com/trending/7645663095910662170/",
-          "source": "今日头条",
+          "title": "腾讯：目前无法确定微信AI智能体何时推出",
+          "url": "https://wallstreetcn.com/livenews/3113439",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时45分"
+          "time_info": "10时54分"
+        },
+        {
+          "title": "OpenAI举行“AI上岗”发布会：股票研究、投行路演都能干",
+          "url": "https://www.cls.cn/detail/2388950",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时54分"
         }
       ]
     },
@@ -219,43 +230,26 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "iPhone18Pro电池容量曝光",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E7%94%B5%E6%B1%A0%E5%AE%B9%E9%87%8F%E6%9B%9D%E5%85%89%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
+          "title": "当小米车主遇到问界车主",
+          "url": "https://www.douyin.com/hot/2520867",
+          "source": "抖音",
           "ranks": [
-            14
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时45分"
+          "time_info": "10时54分"
         },
         {
-          "title": "在全世界最拥挤岛屿生存什么体验",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9C%A8%E5%85%A8%E4%B8%96%E7%95%8C%E6%9C%80%E6%8B%A5%E6%8C%A4%E5%B2%9B%E5%B1%BF%E7%94%9F%E5%AD%98%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C",
-          "source": "bilibili 热搜",
+          "title": "曝iPhoneUltra确认液态金属铰链",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9DiPhoneUltra%E7%A1%AE%E8%AE%A4%E6%B6%B2%E6%80%81%E9%87%91%E5%B1%9E%E9%93%B0%E9%93%BE%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
           "ranks": [
-            17
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A. AI",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "阿里发布Qwen3.7-Plus多模态大模型",
-          "url": "https://flash.jin10.com/detail/20260602103657443800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时45分"
+          "time_info": "10时54分"
         }
       ]
     }
