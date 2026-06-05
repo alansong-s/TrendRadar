@@ -1,255 +1,255 @@
 {
-  "generated_at": "2026-06-04T10:49:41.051126+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-06-05T10:37:16.745546+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "E. 经济",
+      "keyword_group": "F. 政治",
       "match_count": 5,
       "titles": [
         {
-          "title": "中东局势再度升级，原油走高，美股债双杀，标普九连涨终结，金属和加密货币齐跌",
-          "url": "https://wallstreetcn.com/articles/3773742",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "美股收盘：三大指数从历史高位回落 美伊紧张局势再度升级",
-          "url": "https://www.cls.cn/detail/2390139",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "美股两个月狂飙16%：历史只出现过4次，最近一次是1987崩盘前！",
-          "url": "https://wallstreetcn.com/articles/3773769",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "定了！6月12日SpaceX上市交易，发行价135美元，马斯克距\"万亿富翁\"只差一步",
-          "url": "https://wallstreetcn.com/articles/3773813",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "全球首位万亿美元富豪本月诞生？SpaceX披露IPO细节 敲定135美元发行价",
-          "url": "https://www.cls.cn/detail/2390224",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "F. 政治",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "中方反对美方拟征收12.5%额外关税",
-          "url": "https://www.toutiao.com/trending/7647343770765118986/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "伊朗突然变了，美国突然客气了",
-          "url": "https://news.ifeng.com/c/8tfoNxuqYgl",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "美众议院通过决议，限制特朗普对伊动武权力",
-          "url": "https://news.ifeng.com/c/8tffKr5raZ8",
+          "title": "涉与乌克兰谈判，普京最新表态",
+          "url": "https://news.ifeng.com/c/8thZ8nmTGrD",
           "source": "凤凰网",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时49分"
+          "time_info": "10时37分"
         },
         {
-          "title": "特朗普：确实对内塔尼亚胡“爆粗口”，愿与伊朗最高领袖会面，正与伊朗达成协议，海上封锁或持续到9月",
-          "url": "https://wallstreetcn.com/articles/3773781",
-          "source": "华尔街见闻",
+          "title": "特朗普：乐见“普泽会”，俄乌会“妥协”",
+          "url": "https://news.ifeng.com/c/8thJ3FRE17N",
+          "source": "凤凰网",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时49分"
+          "time_info": "10时37分"
+        },
+        {
+          "title": "释新闻｜德国未能赢得联合国安理会席位，为何遭遇“重大失败”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33309280",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        },
+        {
+          "title": "特朗普最新支持率曝光，压力骤增",
+          "url": "https://news.ifeng.com/c/8thXPDq9zi0",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        },
+        {
+          "title": "据华尔街日报：实时卫星情报使乌克兰的无人机袭击比以往更具致命性。",
+          "url": "https://flash.jin10.com/detail/20260605100340066800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时37分"
         }
       ]
     },
     {
-      "keyword_group": "D. 半导体",
-      "match_count": 4,
+      "keyword_group": "E. 经济",
+      "match_count": 5,
       "titles": [
         {
-          "title": "AI基础设施需求强劲 台积电预计2026年营收增长超30%",
-          "url": "https://flash.jin10.com/detail/20260604102710713800",
+          "title": "AI交易降温，纳指走V仍收跌，道指创新高，博通大跌超12%，原油下挫，金银反弹",
+          "url": "https://wallstreetcn.com/articles/3773843",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        },
+        {
+          "title": "美股已无恐慌，只剩FOMO！华尔街机构：这一幕像极了1998年",
+          "url": "https://wallstreetcn.com/articles/3773846",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        },
+        {
+          "title": "据华尔街日报：消息人士称，乌克兰团队利用卫星情报摧毁了价值数十亿美元的俄罗斯资产。",
+          "url": "https://flash.jin10.com/detail/20260605100326206800",
           "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时49分"
+          "time_info": "10时37分"
         },
         {
-          "title": "黄仁勋概念股又+1：纳微半导体暴涨创新高 凭AI电源技术切入“达链”",
-          "url": "https://www.cls.cn/detail/2390246",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "台积电(TSM.N)首席执行官：CoPoS先进封装技术已有试点生产线，我们预计CoPoS的产量将在两到三年内显著提升。",
-          "url": "https://flash.jin10.com/detail/20260604102555351800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "台积电员工2026年利润分成奖金预计将增长30%以上。",
-          "url": "https://wallstreetcn.com/livenews/3114149",
+          "title": "国债期货开盘，30年期主力合约涨0.03%，10年期主力合约涨0.00%，5年期主力合约涨0.02%，2年期主力合约跌0.00%。",
+          "url": "https://wallstreetcn.com/livenews/3114725",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时49分"
+          "time_info": "10时37分"
+        },
+        {
+          "title": "人民币兑美元中间价报6.8157，上调46点；上一交易日中间价6.8203，上一交易日官方收盘价6.7768，上日夜盘报收6.7742。",
+          "url": "https://wallstreetcn.com/livenews/3114718",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时37分"
         }
       ]
     },
     {
-      "keyword_group": "C. 电子产品",
-      "match_count": 4,
+      "keyword_group": "D. 半导体",
+      "match_count": 5,
       "titles": [
         {
-          "title": "iPhone18ProMax实测厚度8.75mm",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone18ProMax%E5%AE%9E%E6%B5%8B%E5%8E%9A%E5%BA%A68.75mm%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
+          "title": "【早报】深夜，美股半导体板块剧烈分化；高盛：SpaceX的AI收入将激增100倍",
+          "url": "https://www.cls.cn/detail/2391272",
+          "source": "财联社热门",
           "ranks": [
-            11
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时49分"
+          "time_info": "10时37分"
         },
         {
-          "title": "索尼游戏发布会有哪些亮点",
-          "url": "https://search.bilibili.com/all?keyword=%E7%B4%A2%E5%B0%BC%E6%B8%B8%E6%88%8F%E5%8F%91%E5%B8%83%E4%BC%9A%E6%9C%89%E5%93%AA%E4%BA%9B%E4%BA%AE%E7%82%B9",
-          "source": "bilibili 热搜",
+          "title": "台积电魏哲家：数年内都无法满足芯片需求，资本开支高点“我也不知道”、“没看到停下的指标”",
+          "url": "https://wallstreetcn.com/articles/3773834",
+          "source": "华尔街见闻",
           "ranks": [
-            19
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时49分"
+          "time_info": "10时37分"
         },
         {
-          "title": "iPhone18Pro八大亮点",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E5%85%AB%E5%A4%A7%E4%BA%AE%E7%82%B9%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
+          "title": "美股收盘：道指飙升近900点创历史新高 博通引发芯片板块抛售拖累纳指",
+          "url": "https://www.cls.cn/detail/2391243",
+          "source": "财联社热门",
           "ranks": [
-            22
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时49分"
+          "time_info": "10时37分"
         },
         {
-          "title": "荔枝龙眼杂交新品种“怀石”来了",
-          "url": "https://www.baidu.com/s?wd=%E8%8D%94%E6%9E%9D%E9%BE%99%E7%9C%BC%E6%9D%82%E4%BA%A4%E6%96%B0%E5%93%81%E7%A7%8D%E2%80%9C%E6%80%80%E7%9F%B3%E2%80%9D%E6%9D%A5%E4%BA%86",
-          "source": "百度热搜",
+          "title": "博通重挫引芯片板块抛售 纳指期货盘前跌超1% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2391104",
+          "source": "财联社热门",
           "ranks": [
-            29
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时49分"
+          "time_info": "10时37分"
+        },
+        {
+          "title": "深成指、创业板指均跌超1%，科创50指数跌逾3%，半导体芯片、算力硬件等方向跌幅居前，沪深京三市下跌个股近2400只。",
+          "url": "https://wallstreetcn.com/livenews/3114729",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时37分"
         }
       ]
     },
     {
       "keyword_group": "A. AI",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
-          "title": "【台积电魏哲家：预计今年全年营收成长仍将超过30%】台积电召开股东会，针对AI需求，董事长魏哲家指出，从生成式AI、查询模式，进一步转向代理式AI与指令行动模式，正推升大型语言模型处理文本所需的token消耗量，也使运算能力需求持续成长，进一步支撑先进半导体需求。公司客户以及客户的客户，仍持续给予对AI产业的正面展望。魏哲家强调，台积电仍对未来数年AI大趋势保持信心，半导体需求也具备根本性支撑。在技​​术差异化与广泛客户群支持下，公司维持强劲信心，若以美元计算，预计今年全年营收成长仍将超过30%。",
-          "url": "https://wallstreetcn.com/livenews/3114157",
-          "source": "华尔街见闻-快讯",
+          "title": "罕见！“AI巨头”呼吁全球暂停AI开发，警告模型正逐步具备“自我升级”能力",
+          "url": "https://wallstreetcn.com/articles/3773915",
+          "source": "华尔街见闻",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时49分"
+          "time_info": "10时37分"
         },
         {
-          "title": "如何评价 Codex 与 ChatGPT 两个独立 App 合并，这一举动有什么影响？",
-          "url": "https://www.zhihu.com/question/2045440339406762131",
-          "source": "知乎",
+          "title": "Anthropic呼吁全球放缓前沿AI研发 警告“自我改进”风险",
+          "url": "https://www.cls.cn/detail/2391250",
+          "source": "财联社热门",
           "ranks": [
-            19
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时49分"
+          "time_info": "10时37分"
         },
         {
-          "title": "微软发布人工智能大模型",
-          "url": "https://www.toutiao.com/trending/7647148741232692742/",
-          "source": "今日头条",
+          "title": "深圳国产芯片成功训练万亿级AI大模型",
+          "url": "https://flash.jin10.com/detail/20260605095434070800",
+          "source": "金十数据",
           "ranks": [
-            22
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时49分"
+          "time_info": "10时37分"
+        },
+        {
+          "title": "微信智能体“打通”各大手机厂商？客服：将和华为、小米等厂商合作，相关功能陆续上线",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33308605",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "C. 电子产品",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "iPhone18ProMax配色",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone18ProMax%E9%85%8D%E8%89%B2%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时37分"
         }
       ]
     }
