@@ -1,255 +1,255 @@
 {
-  "generated_at": "2026-06-05T10:37:16.745546+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-06-06T10:15:57.528869+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "F. 政治",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
-          "title": "涉与乌克兰谈判，普京最新表态",
-          "url": "https://news.ifeng.com/c/8thZ8nmTGrD",
-          "source": "凤凰网",
+          "title": "伊朗革命卫队称中东地区美军基地遭袭",
+          "url": "https://wallstreetcn.com/livenews/3115402",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时37分"
+          "time_info": "10时15分"
         },
         {
-          "title": "特朗普：乐见“普泽会”，俄乌会“妥协”",
-          "url": "https://news.ifeng.com/c/8thJ3FRE17N",
-          "source": "凤凰网",
+          "title": "伊朗革命卫队称打击美军基地",
+          "url": "https://flash.jin10.com/detail/20260606095438875800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时37分"
+          "time_info": "10时15分"
         },
         {
-          "title": "释新闻｜德国未能赢得联合国安理会席位，为何遭遇“重大失败”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33309280",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时37分"
-        },
-        {
-          "title": "特朗普最新支持率曝光，压力骤增",
-          "url": "https://news.ifeng.com/c/8thXPDq9zi0",
+          "title": "特朗普：将迅速结束伊朗战事",
+          "url": "https://news.ifeng.com/c/8tjENyLisNK",
           "source": "凤凰网",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时37分"
+          "time_info": "10时15分"
         },
         {
-          "title": "据华尔街日报：实时卫星情报使乌克兰的无人机袭击比以往更具致命性。",
-          "url": "https://flash.jin10.com/detail/20260605100340066800",
+          "title": "美国白宫：美国总统特朗普赦免斯蒂芬·E·拜尔（ STEPHEN E. BUYER）。",
+          "url": "https://flash.jin10.com/detail/20260606094705564800",
           "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "E. 经济",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "AI交易降温，纳指走V仍收跌，道指创新高，博通大跌超12%，原油下挫，金银反弹",
-          "url": "https://wallstreetcn.com/articles/3773843",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时37分"
+          "time_info": "10时15分"
         },
         {
-          "title": "美股已无恐慌，只剩FOMO！华尔街机构：这一幕像极了1998年",
-          "url": "https://wallstreetcn.com/articles/3773846",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时37分"
-        },
-        {
-          "title": "据华尔街日报：消息人士称，乌克兰团队利用卫星情报摧毁了价值数十亿美元的俄罗斯资产。",
-          "url": "https://flash.jin10.com/detail/20260605100326206800",
-          "source": "金十数据",
+          "title": "联合国：支持俄乌解决冲突实现停火",
+          "url": "https://wallstreetcn.com/livenews/3115399",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时37分"
+          "time_info": "10时15分"
         },
         {
-          "title": "国债期货开盘，30年期主力合约涨0.03%，10年期主力合约涨0.00%，5年期主力合约涨0.02%，2年期主力合约跌0.00%。",
-          "url": "https://wallstreetcn.com/livenews/3114725",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时37分"
-        },
-        {
-          "title": "人民币兑美元中间价报6.8157，上调46点；上一交易日中间价6.8203，上一交易日官方收盘价6.7768，上日夜盘报收6.7742。",
-          "url": "https://wallstreetcn.com/livenews/3114718",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "D. 半导体",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "【早报】深夜，美股半导体板块剧烈分化；高盛：SpaceX的AI收入将激增100倍",
-          "url": "https://www.cls.cn/detail/2391272",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时37分"
-        },
-        {
-          "title": "台积电魏哲家：数年内都无法满足芯片需求，资本开支高点“我也不知道”、“没看到停下的指标”",
-          "url": "https://wallstreetcn.com/articles/3773834",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时37分"
-        },
-        {
-          "title": "美股收盘：道指飙升近900点创历史新高 博通引发芯片板块抛售拖累纳指",
-          "url": "https://www.cls.cn/detail/2391243",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时37分"
-        },
-        {
-          "title": "博通重挫引芯片板块抛售 纳指期货盘前跌超1% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2391104",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时37分"
-        },
-        {
-          "title": "深成指、创业板指均跌超1%，科创50指数跌逾3%，半导体芯片、算力硬件等方向跌幅居前，沪深京三市下跌个股近2400只。",
-          "url": "https://wallstreetcn.com/livenews/3114729",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A. AI",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "罕见！“AI巨头”呼吁全球暂停AI开发，警告模型正逐步具备“自我升级”能力",
-          "url": "https://wallstreetcn.com/articles/3773915",
-          "source": "华尔街见闻",
+          "title": "风水轮流转，轮到伊朗威胁美国了",
+          "url": "https://news.ifeng.com/c/8tjAgk0yryi",
+          "source": "凤凰网",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时37分"
-        },
-        {
-          "title": "Anthropic呼吁全球放缓前沿AI研发 警告“自我改进”风险",
-          "url": "https://www.cls.cn/detail/2391250",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时37分"
-        },
-        {
-          "title": "深圳国产芯片成功训练万亿级AI大模型",
-          "url": "https://flash.jin10.com/detail/20260605095434070800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时37分"
-        },
-        {
-          "title": "微信智能体“打通”各大手机厂商？客服：将和华为、小米等厂商合作，相关功能陆续上线",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33308605",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时37分"
+          "time_info": "10时15分"
         }
       ]
     },
     {
-      "keyword_group": "C. 电子产品",
-      "match_count": 1,
+      "keyword_group": "E. 经济",
+      "match_count": 6,
       "titles": [
         {
-          "title": "iPhone18ProMax配色",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone18ProMax%E9%85%8D%E8%89%B2%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
+          "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
+          "url": "https://www.cls.cn/detail/2392497",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时15分"
+        },
+        {
+          "title": "炸裂！美国5月非农新增就业17.2万人，超过预期近一倍，失业率维持在4.3%",
+          "url": "https://wallstreetcn.com/articles/3773981",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时15分"
+        },
+        {
+          "title": "华泰证券：5月非农再超预期推升美联储加息必要性",
+          "url": "https://flash.jin10.com/detail/20260606095844025800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时15分"
+        },
+        {
+          "title": "反“金发姑娘”！今晚非农：好消息和坏消息，对美股而言都是坏消息",
+          "url": "https://wallstreetcn.com/articles/3773949",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时15分"
+        },
+        {
+          "title": "非农重燃通胀担忧，“新美联储通讯社”：美联储鹰派或重启加息",
+          "url": "https://wallstreetcn.com/articles/3773984",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时15分"
+        },
+        {
+          "title": "美国5月非农延续“爆表”节奏 美联储降息选项被彻底扫下台面",
+          "url": "https://www.cls.cn/detail/2392300",
+          "source": "财联社热门",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时37分"
+          "time_info": "10时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "D. 半导体",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "非农大超预期，美股债“双杀”，纳指重挫超4%，芯片指数暴跌10%，贵金属、加密货币遭“血洗”",
+          "url": "https://wallstreetcn.com/articles/3773946",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时15分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜特斯拉收跌超6.5%，英伟达也跌6.2%",
+          "url": "https://wallstreetcn.com/livenews/3115381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时15分"
+        },
+        {
+          "title": "全球首款硅基氮化镓射频芯片交付",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%BE%E7%A1%85%E5%9F%BA%E6%B0%AE%E5%8C%96%E9%95%93%E5%B0%84%E9%A2%91%E8%8A%AF%E7%89%87%E4%BA%A4%E4%BB%98",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时15分"
+        },
+        {
+          "title": "周五（6月5日），美股存储芯片与硬件供应链指数收跌10.92%，报198.69点，本周累计下跌5.67%，整体冲高回落。 周五当天，成分股全线溃败，Rambus收跌14.20%，美光科技跌13.25%，泰瑞达、闪迪至少跌11.39%，西部数据跌11.08%，拉姆研究、应用材料、希捷科技至少跌8.48%。",
+          "url": "https://wallstreetcn.com/livenews/3115378",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时15分"
+        },
+        {
+          "title": "周五（6月5日），美股信息科技指数收跌9.01%，报410.70点，本周累计下跌6.06%，6月1-4日持稳于455点附近，5日发布非农就业报告之后低开低走。 成分股哀鸿遍野，迈威尔科技/美满电子收跌16.74%，Rigetti计算跌14.40%，D-Wave Quantum、IonQ、美光科技至少跌13.25%，Ondas、Nebius集团、Iren、泰瑞达至少跌12.03%，BigBear.ai、Astera Labs、闪迪、英特尔、超微电脑、西部数据、安森美半导体至少跌11.05%，高通、AMD、高意公司Coherent、芯源系统MPWR、应用数字公司、康宁公司也至少跌10.18%，苹果跌1.25%表现顺数第五，儒博技术公司ROP涨0.11%，是唯一收涨的成分股。",
+          "url": "https://wallstreetcn.com/livenews/3115385",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时15分"
+        },
+        {
+          "title": "美股芯片巨头暴跌",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E5%B7%A8%E5%A4%B4%E6%9A%B4%E8%B7%8C%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A. AI",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "创业板大跌超3%，机器人午后爆发，芯片半导体集体下挫，恒科指跌近2%，AI大模型股急跌",
+          "url": "https://wallstreetcn.com/articles/3773923",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "B. 开源项目",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周五（6月5日），美股AI软件先驱指数跌4.89%，报116.06点，本周累跌5.18%。 成分股中，甲骨文收跌9.59%，铿腾电子跌8.62%，MongoDB跌7.74%，新思科技跌5.99%，ServiceNOW跌5.79%，Elastic跌5.07%，Palantir跌4.35%，Datadog、HubSpot、Adobe、微软、ServiceNOW、Salesforce、C3.ai跌3.90%-1.42%，GitHub涨0.91%，是唯一收涨的成分股。",
+          "url": "https://wallstreetcn.com/livenews/3115391",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时15分"
         }
       ]
     }
