@@ -1,77 +1,66 @@
 {
-  "generated_at": "2026-06-07T10:42:55.644208+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-06-08T10:46:26.799204+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "F. 政治",
-      "match_count": 6,
+      "match_count": 5,
       "titles": [
         {
-          "title": "俄总统顾问：美国正试图退出乌克兰问题谈判",
-          "url": "https://news.ifeng.com/c/8tkTZkbwgef",
+          "title": "伊朗战争最新动态｜以色列对伊朗发动打击行动",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
           "ranks": [
-            3
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时42分"
+          "time_info": "10时46分"
         },
         {
-          "title": "北约酝酿700亿欧元对乌新支持计划",
-          "url": "https://wallstreetcn.com/livenews/3115511",
-          "source": "华尔街见闻-快讯",
+          "title": "【早报】A股将迎近千亿“红包”；伊朗向以色列发射导弹",
+          "url": "https://www.cls.cn/detail/2393027",
+          "source": "财联社热门",
           "ranks": [
-            3
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时42分"
+          "time_info": "10时46分"
         },
         {
-          "title": "美军中央司令部6日在社交媒体上发文说，当天早些时候，美军击落了两架伊朗单向攻击无人机。（新华国际）",
-          "url": "https://wallstreetcn.com/livenews/3115510",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普：我说了算，以色列总理别无选择",
+          "url": "https://news.ifeng.com/c/8tmNZSiGGLp",
+          "source": "凤凰网",
           "ranks": [
-            4
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时42分"
+          "time_info": "10时46分"
         },
         {
-          "title": "矛头指向万斯，以色列谍报界：都怪他坏我们好事",
-          "url": "https://news.ifeng.com/c/8tkHNWqxoOo",
+          "title": "伊朗4波导弹袭击以空军基地，发出强硬警告",
+          "url": "https://news.ifeng.com/c/8tmavL6b7jm",
           "source": "凤凰网",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时42分"
+          "time_info": "10时46分"
         },
         {
-          "title": "上头了？欧盟高官放话：要把制裁俄罗斯那套，对付中国",
-          "url": "https://news.ifeng.com/c/8tjmCEvEJ0G",
-          "source": "凤凰网",
+          "title": "时隔两月伊朗向以色列发动导弹袭击",
+          "url": "https://www.toutiao.com/trending/7648730929451745330/",
+          "source": "今日头条",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时42分"
-        },
-        {
-          "title": "指控特朗普在商场试衣间性侵，女作家“摊上事了”",
-          "url": "https://news.ifeng.com/c/8tl1E8EOKfx",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时42分"
+          "time_info": "10时46分"
         }
       ]
     },
@@ -80,59 +69,120 @@
       "match_count": 5,
       "titles": [
         {
-          "title": "中国央行连续第19个月增持黄金",
-          "url": "https://wallstreetcn.com/livenews/3115513",
-          "source": "华尔街见闻-快讯",
+          "title": "周末要闻汇总：全球首个“预制算力中心底座”正式投用；交易员预计美联储将到明年1月底前加息25个基点",
+          "url": "https://www.cls.cn/detail/2392816",
+          "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时42分"
+          "time_info": "10时46分"
         },
         {
-          "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
-          "url": "https://www.cls.cn/detail/2392497",
-          "source": "财联社热门",
+          "title": "沃什上任后第一次敲打！特朗普公开发声：没有任何理由加息，加息就是想扼杀我们的成功",
+          "url": "https://wallstreetcn.com/articles/3774049",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时42分"
+          "time_info": "10时46分"
         },
         {
-          "title": "中国5月外汇储备 34422.4亿美元，前值 34105.5亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3115512",
+          "title": "印尼10年期国债收益率升至2025年4月来最高。",
+          "url": "https://wallstreetcn.com/livenews/3115794",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时42分"
+          "time_info": "10时46分"
         },
         {
-          "title": "开户就送“美股七姐妹”，部分港资券商抢开户，最后的窗口期真能安全吗？",
-          "url": "https://www.cls.cn/detail/2392638",
+          "title": "伊朗要求解冻240亿美元资产后，美国拟将伊朗资产用于海湾国家重建",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33327663",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时46分"
+        },
+        {
+          "title": "短期美股科技股调整，风险如何应对？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2392910",
           "source": "财联社热门",
           "ranks": [
-            3
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时42分"
+          "time_info": "10时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A. AI",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
+          "url": "https://wallstreetcn.com/articles/3774032",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时46分"
         },
         {
-          "title": "中国5月外汇储备 34422.4亿美元，预期34110亿美元，前值34105.5亿美元。",
-          "url": "https://flash.jin10.com/detail/20260607100305376800",
-          "source": "金十数据",
+          "title": "SpaceX上市募资要建“太空数据中心”，却高价租算力给谷歌和Anthropic！网民热议：为何如此？",
+          "url": "https://wallstreetcn.com/articles/3774034",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时42分"
+          "time_info": "10时46分"
+        },
+        {
+          "title": "ChatGPT即将迎来大改造：告别单一聊天 变身“超级应用”",
+          "url": "https://www.cls.cn/detail/2392807",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时46分"
+        },
+        {
+          "title": "ChatGPT将迎最大改版",
+          "url": "https://s.weibo.com/weibo?q=ChatGPT%E5%B0%86%E8%BF%8E%E6%9C%80%E5%A4%A7%E6%94%B9%E7%89%88&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时46分"
+        },
+        {
+          "title": "中外六大AI出战上海高考作文！《科创板日报》实测DeepSeek与谷歌Gemini夺魁",
+          "url": "https://www.cls.cn/detail/2392919",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时46分"
         }
       ]
     },
@@ -141,109 +191,59 @@
       "match_count": 5,
       "titles": [
         {
-          "title": "三大存储厂打响“散热”攻关战 热管理成下一代HBM核心竞争力",
-          "url": "https://www.cls.cn/detail/2391811",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时42分"
-        },
-        {
-          "title": "硅片行业的“结构性牛市”：AI芯片“喂饱”硅片巨头，国产硅片迎来黄金窗口",
-          "url": "https://wallstreetcn.com/premium/articles/3773871?layout=wscn-layout",
+          "title": "英伟达与海力士官宣多年合作计划，锁定先进存储供应，黄仁勋称“协议期限将超两年且有能力持续续约”",
+          "url": "https://wallstreetcn.com/articles/3774048",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时42分"
+          "time_info": "10时46分"
         },
         {
-          "title": "麦捷科技股价创历史新高，同英伟达直接开展合作",
-          "url": "https://flash.jin10.com/detail/20260607094455383800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时42分"
-        },
-        {
-          "title": "报道：黄仁勋周日将会见韩国游戏公司CEO，SK海力士老板回应HBM会谈提问，预告“下周另有安排”",
-          "url": "https://wallstreetcn.com/livenews/3115491",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时42分"
-        },
-        {
-          "title": "芯片制造有新突破 光芯片压印，成本仅DUV的1/10",
-          "url": "https://flash.jin10.com/detail/20260607082216031800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A. AI",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "亮眼财报后股价大跌？博通CEO：永远不关心股价，死磕技术客户就不会跑，看好“博通-谷歌-Anthropic”铁三角",
-          "url": "https://wallstreetcn.com/articles/3774025",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时42分"
-        },
-        {
-          "title": "合计700亿美元！SpaceX先后与Anthropic和谷歌签下大单，“算力租赁”ARR高达260亿美元",
-          "url": "https://wallstreetcn.com/articles/3774016",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时42分"
-        },
-        {
-          "title": "OpenAI等公司向美国提交了一项让全民分享人工智能红利（AI股权）的计划提案。 该人工智能提案涉及建立一个全新的主权财富基金式实体。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3115505",
+          "title": "英伟达CEO黄仁勋：股票波动是买入机会。",
+          "url": "https://wallstreetcn.com/livenews/3115789",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时42分"
+          "time_info": "10时46分"
         },
         {
-          "title": "AI Agent从“能聊天”到“会干活” 整机厂商订单爆发 ｜深度",
-          "url": "https://www.cls.cn/detail/2392589",
-          "source": "财联社热门",
+          "title": "英伟达CEO黄仁勋：与LG合作开发引擎、人形机器人和数据中心。",
+          "url": "https://flash.jin10.com/detail/20260608101857887800",
+          "source": "金十数据",
           "ranks": [
-            12
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时42分"
+          "time_info": "10时46分"
+        },
+        {
+          "title": "宇树需要英伟达还是英伟达需要宇树",
+          "url": "https://s.weibo.com/weibo?q=%E5%AE%87%E6%A0%91%E9%9C%80%E8%A6%81%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%BF%98%E6%98%AF%E8%8B%B1%E4%BC%9F%E8%BE%BE%E9%9C%80%E8%A6%81%E5%AE%87%E6%A0%91&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时46分"
+        },
+        {
+          "title": "A股半导体芯片股大幅低开，新相微、裕太微、晶丰明源、优迅股份跌超10%，德明利、江波龙、恒烁股份、东微半导跌超9%。",
+          "url": "https://wallstreetcn.com/livenews/3115753",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时46分"
         }
       ]
     }
