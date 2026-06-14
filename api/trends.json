@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T10:35:33.335792+08:00",
+  "generated_at": "2026-06-14T10:47:11.460763+08:00",
   "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
@@ -8,59 +8,120 @@
       "match_count": 5,
       "titles": [
         {
-          "title": "伊朗外长：美国在谅解备忘录中承诺不发动战争",
-          "url": "https://news.ifeng.com/c/8tuft4KELYT",
+          "title": "伊朗民众集会反对达成协议，“改革派等于投降派”",
+          "url": "https://news.ifeng.com/c/8twXXk8mMBz",
           "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时47分"
+        },
+        {
+          "title": "航运数据显示，过去24小时内没有商业船只使用伊朗航道。海事安全担忧持续驱使船只远离霍尔木兹海峡的伊朗一侧。",
+          "url": "https://flash.jin10.com/detail/20260614103927303800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时47分"
+        },
+        {
+          "title": "巴基斯坦总理称预计美伊协议将在24小时内敲定，伊朗火速否认",
+          "url": "https://wallstreetcn.com/articles/3774594",
+          "source": "华尔街见闻",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时35分"
+          "time_info": "10时47分"
         },
         {
-          "title": "美军称伊朗发射多架单向攻击无人机",
-          "url": "https://wallstreetcn.com/livenews/3119115",
+          "title": "航运数据显示，船只正在避开霍尔木兹海峡的伊朗水域，改为通过阿曼航道。",
+          "url": "https://flash.jin10.com/detail/20260614103856338800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时47分"
+        },
+        {
+          "title": "录音显示伊朗革命卫队警告船只勿通行霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3119184",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时35分"
-        },
+          "time_info": "10时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A. AI",
+      "match_count": 5,
+      "titles": [
         {
-          "title": "霍尔木兹将重开？伊朗曝光14点协议草案",
-          "url": "https://news.ifeng.com/c/8tuse7CSv3h",
-          "source": "凤凰网",
+          "title": "SpaceX上市幕后大戏：抢跑OpenAI、疯狂并购装资产，华尔街全程被牵着鼻子走",
+          "url": "https://wallstreetcn.com/articles/3774577",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时35分"
+          "time_info": "10时47分"
         },
         {
-          "title": "美中央司令部：伊朗发射了多架单向攻击无人机，试图袭击通过霍尔木兹海峡的商船。美军在数小时内击落了所有这些无人机，海峡通航未受影响。这条国际贸易通道仍然保持开放。",
-          "url": "https://flash.jin10.com/detail/20260613093322843800",
-          "source": "金十数据",
+          "title": "【早报】美将部分中企列入“中国军事企业清单”，商务部回应；OpenAI被查",
+          "url": "https://www.cls.cn/detail/2399163",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时47分"
+        },
+        {
+          "title": "如何评价智谱 6 月 13 日发布的 GLM5.2 模型？",
+          "url": "https://www.zhihu.com/question/2049161661567723164",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时47分"
+        },
+        {
+          "title": "亚马逊之后，Meta也限制AI使用量了！当大厂都用不起Token，大模型巨头该“控制利润率”了？",
+          "url": "https://wallstreetcn.com/articles/3774595",
+          "source": "华尔街见闻",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时35分"
+          "time_info": "10时47分"
         },
         {
-          "title": "特朗普说打死委内瑞拉一黑帮团伙头目",
-          "url": "https://wallstreetcn.com/livenews/3119112",
-          "source": "华尔街见闻-快讯",
+          "title": "OpenAI突遭联合调查、Anthropic顶级模型被叫停，美国AI监管风暴升级",
+          "url": "https://wallstreetcn.com/articles/3774574",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时35分"
+          "time_info": "10时47分"
         }
       ]
     },
@@ -68,50 +129,6 @@
       "keyword_group": "E. 经济",
       "match_count": 5,
       "titles": [
-        {
-          "title": "2万亿巨头来了！SpaceX首秀收涨19%，超3500亿美元疯抢史上最大IPO",
-          "url": "https://wallstreetcn.com/articles/3774544",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时35分"
-        },
-        {
-          "title": "澎湃回声｜男子30年前被扣押2859克黄金续：盖州市公安局已返还财产，双方和解",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33364376",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时35分"
-        },
-        {
-          "title": "美国宣布向波兰提供40亿美元军事贷款",
-          "url": "https://flash.jin10.com/detail/20260613100814860800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时35分"
-        },
-        {
-          "title": "美伊协议曙光重燃，原油两连跌，美股指全线收涨、债汇承压，SpaceX首日大涨19%",
-          "url": "https://wallstreetcn.com/articles/3774481",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时35分"
-        },
         {
           "title": "美股收盘：SpaceX首秀升19%市值破2万亿 三大指数集体上涨",
           "url": "https://www.cls.cn/detail/2398916",
@@ -121,57 +138,51 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A. AI",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "6 月 12 日华为发布开源盘古 2.0 模型，如何评价 openPangu 2.0 ？",
-          "url": "https://www.zhihu.com/question/2048823351049707836",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时35分"
+          "time_info": "10时47分"
         },
         {
-          "title": "亚马逊云服务(AWS)：Anthropic已要求我们撤销所有用户在全部区域范围内对Claude Fable 5和Claude Mythos 5的访问权限。所有其他Anthropic模型不受影响。",
-          "url": "https://wallstreetcn.com/livenews/3119114",
-          "source": "华尔街见闻-快讯",
+          "title": "黄金投资者周报上新！",
+          "url": "https://flash.jin10.com/detail/20260614103126878800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时35分"
+          "time_info": "10时47分"
         },
         {
-          "title": "加拿大世界杯开幕式出大篓子，世界杯模型充气失败被迫「下腰」，如何评价本场开幕式？",
-          "url": "https://www.zhihu.com/question/2048828411280193308",
-          "source": "知乎",
+          "title": "又一家万亿美元级别IPO！SK海力士计划8月在纳斯达克上市，募资高达140亿美元",
+          "url": "https://wallstreetcn.com/articles/3774573",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时35分"
+          "time_info": "10时47分"
         },
         {
-          "title": "Anthropic称美国限制外国访问Fable 5和Mythos 5",
-          "url": "https://wallstreetcn.com/livenews/3119109",
-          "source": "华尔街见闻-快讯",
+          "title": "SpaceX万亿美元IPO背后：一场由星链造血、星舰远征、AI叙事支撑的资本盛宴",
+          "url": "https://www.cls.cn/detail/2398996",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时47分"
+        },
+        {
+          "title": "AI版次贷危机的味道？1.8万亿美元表外敞口，正成为这轮狂欢的定时炸弹",
+          "url": "https://wallstreetcn.com/articles/3774579",
+          "source": "华尔街见闻",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时35分"
+          "time_info": "10时47分"
         }
       ]
     },
@@ -180,76 +191,71 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "美国开幕式现场体验",
-          "url": "https://www.douyin.com/hot/2532686",
-          "source": "抖音",
+          "title": "李斌：建立新品牌难度被低估，乐道知名度相当于6年前的蔚来",
+          "url": "https://wallstreetcn.com/livenews/3119174",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时35分"
+          "time_info": "10时47分"
         },
         {
-          "title": "近段时间所有的科技股都在大涨，小米为什么屡创新低？",
-          "url": "https://www.zhihu.com/question/2047684655617422562",
-          "source": "知乎",
+          "title": "在MC里体验世界杯",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9C%A8MC%E9%87%8C%E4%BD%93%E9%AA%8C%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "source": "bilibili 热搜",
           "ranks": [
-            15
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时35分"
+          "time_info": "10时47分"
         },
         {
-          "title": "中年叛逆是什么体验",
-          "url": "https://www.douyin.com/hot/2531897",
+          "title": "体验史上最贵世界杯要花多少钱",
+          "url": "https://www.douyin.com/hot/2533152",
           "source": "抖音",
           "ranks": [
-            21
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时35分"
+          "time_info": "10时47分"
         }
       ]
     },
     {
       "keyword_group": "D. 半导体",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
-          "title": "SK海力士、三星、台积电同时被限！华尔街大行限制对冲基金对亚洲芯片股的杠杆押注",
-          "url": "https://wallstreetcn.com/articles/3774508",
-          "source": "华尔街见闻",
+          "title": "为什么 2026 年了却感觉电脑 CPU 性能与三年前对比没有明显进步？",
+          "url": "https://www.zhihu.com/question/2048414933671588245",
+          "source": "知乎",
           "ranks": [
-            3
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时35分"
-        },
+          "time_info": "10时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "G. 网络安全",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "AI材料短缺蔓延：英伟达亲自下场抢购HVLP4铜箔，2026年缺口达1500吨",
-          "url": "https://wallstreetcn.com/articles/3774502",
-          "source": "华尔街见闻",
+          "title": "在超市后门吸烟的二人好看吗",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9C%A8%E8%B6%85%E5%B8%82%E5%90%8E%E9%97%A8%E5%90%B8%E7%83%9F%E7%9A%84%E4%BA%8C%E4%BA%BA%E5%A5%BD%E7%9C%8B%E5%90%97",
+          "source": "bilibili 热搜",
           "ranks": [
-            9
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时35分"
-        },
-        {
-          "title": "周五（6月12日），美股人工智能（AI）赢家指数涨1.93%，报424.15点，本周累计上涨5.43%。 成分股中，Arm控股收涨11.27%，希捷科技涨7.25%，西部数据涨6.35%，高意公司Coherent涨5.90%表现第四，阿斯麦ADR收跌1.89%跌幅第四大。",
-          "url": "https://wallstreetcn.com/livenews/3119107",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时35分"
+          "time_info": "10时47分"
         }
       ]
     }
