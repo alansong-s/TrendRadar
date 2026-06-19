@@ -1,255 +1,255 @@
 {
-  "generated_at": "2026-06-18T10:45:38.534561+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-19T11:29:43.057473+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "E. 经济",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "美联储按兵不动但释放鹰派信号 年内利率变化预期由降息变加息",
-          "url": "https://www.cls.cn/detail/2402931",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时45分"
-        },
-        {
-          "title": "美联储宣布维持利率不变",
-          "url": "https://www.douyin.com/hot/2538695",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时45分"
-        },
-        {
-          "title": "美联储年内第四次维持利率不变",
-          "url": "https://www.toutiao.com/trending/7651613028376412223/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时45分"
-        },
-        {
-          "title": "美联储继续按兵不动但暗示鹰派倾向，强调通胀承诺，半数决策者料年内加息",
-          "url": "https://wallstreetcn.com/articles/3774938",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时45分"
-        },
-        {
-          "title": "【早报】美联储转鹰；美股三大指数集体收跌；黄金、白银下跌；葡萄牙队爆冷战平",
-          "url": "https://www.cls.cn/detail/2403010",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时45分"
-        },
-        {
-          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加0.856吨，当前持仓量为1013.069吨。",
-          "url": "https://flash.jin10.com/detail/20260618102316204800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时45分"
-        }
-      ]
-    },
     {
       "keyword_group": "F. 政治",
       "match_count": 5,
       "titles": [
         {
-          "title": "美国公布与伊朗达成的谅解备忘录正式文本",
-          "url": "https://news.ifeng.com/c/8u2tzPSA7C4",
+          "title": "特朗普吐露的真相，比战争结局更让人警醒",
+          "url": "https://news.ifeng.com/c/8u4qoy7X1Wi",
           "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时45分"
+          "time_info": "11时29分"
         },
         {
-          "title": "伊朗方面披露美伊谅解备忘录文本内容",
-          "url": "https://news.ifeng.com/c/8u2tb6kUsML",
+          "title": "伊朗据称因以军持续袭击黎推迟赴瑞士谈判，万斯指责以色列：醒醒认清现实，不可能通过杀戮解决所有国家安全问题",
+          "url": "https://wallstreetcn.com/articles/3775058",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时29分"
+        },
+        {
+          "title": "伊朗称要成为中国真正的伙伴，外交部表态",
+          "url": "https://news.ifeng.com/c/8u3juhtDVpR",
           "source": "凤凰网",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时45分"
+          "time_info": "11时29分"
         },
         {
-          "title": "特朗普对记者大喊：我们签了，在凡尔赛宫里签的",
-          "url": "https://v.ifeng.com/c/8u3B5EM0Jqc",
-          "source": "凤凰网",
+          "title": "韩国国会启动选票短缺事件国政调查",
+          "url": "https://wallstreetcn.com/livenews/3121966",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时45分"
+          "time_info": "11时29分"
         },
         {
-          "title": "伊朗学者：霍尔木兹海峡不会再回到从前",
-          "url": "https://news.ifeng.com/c/8u3AJ4a0eEd",
-          "source": "凤凰网",
+          "title": "伊朗最高领袖对伊美备忘录持不同意见",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%AF%B9%E4%BC%8A%E7%BE%8E%E5%A4%87%E5%BF%98%E5%BD%95%E6%8C%81%E4%B8%8D%E5%90%8C%E6%84%8F%E8%A7%81",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "E. 经济",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "现货黄金日内跌幅达1.00%，现报4166.09美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260619111506373800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时29分"
+        },
+        {
+          "title": "现货白银日内跌超2.00%，现报64.36美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260619110618163800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时29分"
+        },
+        {
+          "title": "黄金跌跌不休 真正的推手是谁",
+          "url": "https://www.toutiao.com/trending/7652911963122437678/",
+          "source": "今日头条",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时45分"
+          "time_info": "11时29分"
         },
         {
-          "title": "特朗普：欧洲承诺参与霍尔木兹海峡扫雷",
-          "url": "https://news.ifeng.com/c/8u3AtJ60oqA",
-          "source": "凤凰网",
+          "title": "沃什的美联储首秀：比想象中更鹰",
+          "url": "https://wallstreetcn.com/premium/articles/3774945?layout=wscn-layout",
+          "source": "华尔街见闻",
           "ranks": [
-            7
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时45分"
+          "time_info": "11时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A. AI",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "当微软都烧不起Token了，“模型路由”成为企业AI的“核心需求”",
+          "url": "https://wallstreetcn.com/articles/3774993",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时29分"
+        },
+        {
+          "title": "智谱与MiniMax两级分化！市场出现AI大模型“多空配对交易”",
+          "url": "https://wallstreetcn.com/articles/3775011",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时29分"
+        },
+        {
+          "title": "融资消息曝光后DeepSeek上线识图模式，但认不出梁文锋",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33408923",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时29分"
+        },
+        {
+          "title": "如何评价 DeepSeek 的识图模式？",
+          "url": "https://www.zhihu.com/question/2032903059739767247",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时29分"
         }
       ]
     },
     {
       "keyword_group": "D. 半导体",
-      "match_count": 5,
+      "match_count": 4,
       "titles": [
         {
-          "title": "美联储鹰派转向，美股债遭“双杀”，SpaceX首度收跌，芯片指数逆市收涨，黄金下挫",
-          "url": "https://wallstreetcn.com/articles/3774887",
+          "title": "霍尔木兹海峡重开提振股债，半导体指数收创新高，原油走V，美元两连涨，黄金承压",
+          "url": "https://wallstreetcn.com/articles/3774963",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时45分"
+          "time_info": "11时29分"
         },
         {
-          "title": "创业板指涨超2%，再次刷新历史新高，沪指涨0.17%，深成指涨1.13%，培育钻石、有色·锆、稀土、半导体等方向领涨，沪深京三市上涨个股近2300只。",
-          "url": "https://wallstreetcn.com/livenews/3121364",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时45分"
-        },
-        {
-          "title": "沃什“美联储首秀”来袭 SpaceX延续涨势 英特尔带动芯片股反弹 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2402766",
+          "title": "【早报】芯片股暴涨；伊朗推迟赴瑞士行程；瑞士4-1波黑",
+          "url": "https://www.cls.cn/detail/2404187",
           "source": "财联社热门",
           "ranks": [
-            12
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时45分"
+          "time_info": "11时29分"
         },
         {
-          "title": "A股半导体设备股早盘拉升，晶升股份触及20cm涨停，屹唐股份、恒运昌、金海通、盛美上海、华亚智能跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3121348",
-          "source": "华尔街见闻-快讯",
+          "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
+          "url": "https://www.cls.cn/detail/2404196",
+          "source": "财联社热门",
           "ranks": [
-            16
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时45分"
+          "time_info": "11时29分"
         },
         {
-          "title": "A股创业板指盘中涨超2%，再创历史新高，深证成指涨超1%，上证指数涨0.13%，科创50指数涨超2%，稀土永磁、半导体等板块涨幅居前。",
-          "url": "https://flash.jin10.com/detail/20260618100323206800",
-          "source": "金十数据",
+          "title": "市场消化美联储鹰派信号 美股期指反弹 英特尔盘前大涨近9% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2403938",
+          "source": "财联社热门",
           "ranks": [
-            24
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A. AI",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "如何看待 6 月 16 日 DeepSeek 网页端 /App 中的「快速模式」思维链发生明显变化？",
-          "url": "https://www.zhihu.com/question/2050272536898835791",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时45分"
-        },
-        {
-          "title": "DeepSeek获510亿融资 投资方公布",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E8%8E%B7510%E4%BA%BF%E8%9E%8D%E8%B5%84+%E6%8A%95%E8%B5%84%E6%96%B9%E5%85%AC%E5%B8%83",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时45分"
+          "time_info": "11时29分"
         }
       ]
     },
     {
       "keyword_group": "C. 电子产品",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
-          "title": "小米高管称数字抽真空会成为趋势，格力称空调不行抽多久真空也白扯，如何看待双方观点？双方到底在争什么？",
-          "url": "https://www.zhihu.com/question/2050275486652000215",
-          "source": "知乎",
+          "title": "岳阳发布“射击俱乐部枪支走火致人死亡”调查报告：体验者枪支脱手，击中安全员",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33408344",
+          "source": "澎湃新闻",
           "ranks": [
-            11
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时45分"
+          "time_info": "11时29分"
+        },
+        {
+          "title": "电影湃队丨在影院看世界杯是什么体验？“看完上班贼精神”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33406364",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时29分"
         },
         {
           "title": "王者体验服新英雄六耳实战",
           "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%80%85%E4%BD%93%E9%AA%8C%E6%9C%8D%E6%96%B0%E8%8B%B1%E9%9B%84%E5%85%AD%E8%80%B3%E5%AE%9E%E6%88%98",
           "source": "bilibili 热搜",
           "ranks": [
-            19
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时45分"
+          "time_info": "11时29分"
         }
       ]
     }
