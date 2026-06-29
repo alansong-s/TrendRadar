@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T10:39:19.731408+08:00",
+  "generated_at": "2026-06-29T10:39:35.272910+08:00",
   "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
@@ -8,70 +8,9 @@
       "match_count": 5,
       "titles": [
         {
-          "title": "伊朗战事将如何影响美军中东布局？",
-          "url": "https://news.ifeng.com/c/8uIHeNUEBHC",
+          "title": "中方呼吁：有关国家应立即取消制裁",
+          "url": "https://news.ifeng.com/c/8uKlWY8iNu0",
           "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时39分"
-        },
-        {
-          "title": "据路透社：美国官员表示，伊朗局势仍在演变中。目前在该地区没有报告美国人员伤亡或对美国地点造成重大影响或损害。伊朗向包括巴林和科威特在内的邻国发射了多枚导弹和无人机。",
-          "url": "https://flash.jin10.com/detail/20260628095136295800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时39分"
-        },
-        {
-          "title": "伊朗革命卫队威胁对美军基地发起“地狱”式打击",
-          "url": "https://wallstreetcn.com/livenews/3125622",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时39分"
-        },
-        {
-          "title": "消息称4枚飞行物击中伊朗伦格港附近地区",
-          "url": "https://flash.jin10.com/detail/20260628093146729800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时39分"
-        },
-        {
-          "title": "伊朗革命卫队称打击8处美军设施",
-          "url": "https://wallstreetcn.com/livenews/3125620",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "D. 半导体",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "又一半导体气体或陷入短缺 存储巨头全力加紧采购",
-          "url": "https://www.cls.cn/detail/2410926",
-          "source": "财联社热门",
           "ranks": [
             1
           ],
@@ -80,9 +19,9 @@
           "time_info": "10时39分"
         },
         {
-          "title": "【早报】美军再次对伊朗发动打击；美股半导体指数重挫5.29%；油价走低、黄金收涨；法国4-1击败挪威小组第一出线",
-          "url": "https://www.cls.cn/detail/2410784",
-          "source": "财联社热门",
+          "title": "美伊又开打，特朗普威胁：伊朗未来或将不复存在",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33470517",
+          "source": "澎湃新闻",
           "ranks": [
             2
           ],
@@ -91,20 +30,9 @@
           "time_info": "10时39分"
         },
         {
-          "title": "报道称苹果游说美国政府希望获批采购长鑫存储内存芯片，成功概率有多大？国产芯片打入苹果高端机型难点在哪？",
-          "url": "https://www.zhihu.com/question/2054233145457874875",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时39分"
-        },
-        {
-          "title": "外媒：苹果寻求获准从长鑫存储购买内存芯片",
-          "url": "https://wallstreetcn.com/articles/3775675",
-          "source": "华尔街见闻",
+          "title": "阿根廷奥地利阿尔及利亚三队出线，伊朗被淘汰了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33470581",
+          "source": "澎湃新闻",
           "ranks": [
             3
           ],
@@ -113,11 +41,22 @@
           "time_info": "10时39分"
         },
         {
-          "title": "“我们AI相关的电源功率订单爆满，根本做不过来”！功率半导体再启阶梯式调价",
-          "url": "https://www.cls.cn/detail/2410894",
+          "title": "中方在联合国发言：敦促日本深刻反省",
+          "url": "https://news.ifeng.com/c/8uLJwCpOkNO",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时39分"
+        },
+        {
+          "title": "周末要闻汇总：前5月电子行业利润翻倍；美国再对伊朗实施军事打击",
+          "url": "https://www.cls.cn/detail/2411069",
           "source": "财联社热门",
           "ranks": [
-            3
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -130,20 +69,70 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "美股收盘：三大指数小幅收跌 存储概念股全线重挫",
-          "url": "https://www.cls.cn/detail/2410765",
-          "source": "财联社热门",
+          "title": "上市不到一个月就进纳指100！SpaceX将迎43亿美元被动资金抢筹",
+          "url": "https://flash.jin10.com/detail/20260629101639159800",
+          "source": "金十数据",
           "ranks": [
-            5
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
         },
         {
-          "title": "下半年美元指数何去何从",
-          "url": "https://wallstreetcn.com/articles/3775680",
+          "title": "【早报】普京：考虑全面禁止柴油出口；国际油价开盘大涨；加拿大队史首次晋级16强",
+          "url": "https://www.cls.cn/detail/2411240",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时39分"
+        },
+        {
+          "title": "美股近一个月触发7次，“兴登堡预兆”有多准？A股准确率高达92%！",
+          "url": "https://wallstreetcn.com/articles/3775701",
           "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时39分"
+        },
+        {
+          "title": "7月美联储决议前，沃什有两次\"重要亮相\"，本周是第一次！",
+          "url": "https://wallstreetcn.com/articles/3775687",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "D. 半导体",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "本周重磅日程：美国非农、中国PMI、沃什出席欧洲央行论坛，半导体“7月涨价潮”",
+          "url": "https://wallstreetcn.com/articles/3775686",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时39分"
+        },
+        {
+          "title": "半导体零部件头部企业、‌半导体材料‌概念股明日申购",
+          "url": "https://www.cls.cn/detail/2411114",
+          "source": "财联社热门",
           "ranks": [
             8
           ],
@@ -152,22 +141,72 @@
           "time_info": "10时39分"
         },
         {
-          "title": "一周展望：超级周来了！非农提前杀到，数据海啸撞上美伊互轰、半年末调仓",
-          "url": "https://flash.jin10.com/detail/20260628084129729800",
-          "source": "金十数据",
+          "title": "【数读IPO】半导体零部件龙头来了",
+          "url": "https://www.cls.cn/detail/2411232",
+          "source": "财联社热门",
           "ranks": [
-            12
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
         },
         {
-          "title": "欧洲央行执委Schnabel：能源冲击可能传导至更广泛的通胀动态。 能源价格上涨具有连锁效应。 食品、商品和服务通胀面临上行风险。 生产商将部分输入品成本上涨转嫁出去。 消费者通胀预期上升。 目前尚无工资压力的迹象。 预计欧洲央行将进一步加息。 资产估值面临的金融稳定风险上升。",
-          "url": "https://wallstreetcn.com/livenews/3125608",
+          "title": "科创50指数涨超4%，继续刷新历史新高，半导体芯片股领涨市场。",
+          "url": "https://wallstreetcn.com/livenews/3125797",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "C. 电子产品",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "三角洲核电站地图体验",
+          "url": "https://www.douyin.com/hot/2550305",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时39分"
+        },
+        {
+          "title": "洪明甫发布会没有提问环节",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B4%AA%E6%98%8E%E7%94%AB%E5%8F%91%E5%B8%83%E4%BC%9A%E6%B2%A1%E6%9C%89%E6%8F%90%E9%97%AE%E7%8E%AF%E8%8A%82%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时39分"
+        },
+        {
+          "title": "央视曝光手机测评黑幕，厂商与博主联手造假，特调机三层作弊，真实体验与宣传天差地别，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2054487183839474287",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时39分"
+        },
+        {
+          "title": "广州一高校被曝禁止小米汽车进入，校方回应「车辆管理一视同仁，涉事保安言论不实正调查」，如何看待此事？",
+          "url": "https://www.zhihu.com/question/2054648629869146324",
+          "source": "知乎",
+          "ranks": [
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -180,19 +219,8 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "刚刚，DeepSeek V4更新DSpark，推理速度提升80%",
-          "url": "https://wallstreetcn.com/articles/3775676",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时39分"
-        },
-        {
-          "title": "OpenAI发布GPT-5.6系列模型，Sol基准测试超越Claude Mythos，应美政府要求限量开放",
-          "url": "https://wallstreetcn.com/articles/3775650",
+          "title": "算力告急：谷歌悄然对Meta实施Gemini使用上限",
+          "url": "https://wallstreetcn.com/articles/3775694",
           "source": "华尔街见闻",
           "ranks": [
             4
@@ -202,56 +230,22 @@
           "time_info": "10时39分"
         },
         {
-          "title": "海外研究员眼中的中国AI：智谱是“中国Palantir”，MiniMax对标Character AI，豆包是“中国ChatGPT”",
-          "url": "https://wallstreetcn.com/articles/3775673",
+          "title": "美国科技企业悄然转向中国AI模型，Coinbase带头用上GLM与Kimi",
+          "url": "https://wallstreetcn.com/articles/3775696",
           "source": "华尔街见闻",
           "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "C. 电子产品",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "郭明錤：iOS 27将进一步深化与Apple Intelligence的系统级整合",
-          "url": "https://flash.jin10.com/detail/20260628094220141800",
-          "source": "金十数据",
-          "ranks": [
-            3
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
         },
         {
-          "title": "据伊朗伊斯兰共和国广播电视台称，伊朗西南部锡里克地区传出爆炸声，爆炸与多枚炮弹击中一座通信塔有关。美媒AXIOS网站称，美国对伊朗实施空袭。",
-          "url": "https://flash.jin10.com/detail/20260628053655895800",
-          "source": "金十数据",
+          "title": "大模型推理最高提速85%！DeepSeek发表重磅论文 提出两项互补机制",
+          "url": "https://www.cls.cn/detail/2411046",
+          "source": "财联社热门",
           "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "G. 网络安全",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "TCL李东生：全球供应链加速重构，中国有望在维护产业链供应链稳定中发挥更加积极的作用",
-          "url": "https://wallstreetcn.com/livenews/3125606",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
