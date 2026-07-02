@@ -1,255 +1,261 @@
 {
-  "generated_at": "2026-07-01T10:40:54.965294+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-07-02T10:30:33.365759+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "E. 经济",
-      "match_count": 6,
+      "match_count": 5,
       "titles": [
         {
-          "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
-          "url": "https://wallstreetcn.com/articles/3775797",
+          "title": "Meta云转向引爆动量崩塌，美光重挫超10%，软件逆势走强纳指100跌1.5%",
+          "url": "https://wallstreetcn.com/articles/3775932",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时40分"
+          "time_info": "10时30分"
         },
         {
-          "title": "【早报】多只A股公司业绩大增；美股存储概念半年涨超3倍；黄金、原油收跌；法国、挪威晋级世界杯16强",
-          "url": "https://www.cls.cn/detail/2413612",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "花旗：预计2027年TTF天然气均价为每兆瓦时27欧元（每百万英热单位9.2美元），JKM液化天然气为每百万英热单位9.5美元，美国亨利中心天然气为每百万英热单位2.8美元。",
-          "url": "https://flash.jin10.com/detail/20260701102802878800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "花旗：预计2026年下半年TTF天然气均价将为每兆瓦时36.5欧元（每百万英热单位12.4美元），JKM液化天然气为每百万英热单位13.5美元，美国亨利中心天然气为每百万英热单位3.2美元。",
-          "url": "https://flash.jin10.com/detail/20260701102733721800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "“炒币”高手特朗普！官方披露2025年加密货币业务斩获超10亿美元，重仓美股科技巨头",
-          "url": "https://wallstreetcn.com/articles/3775893",
+          "title": "沃什：通胀近四周降温，AI正重塑经济，前瞻指引失去必要性",
+          "url": "https://wallstreetcn.com/articles/3775982",
           "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "美股冲击近6年最强季度表现 美伊代表齐赴多哈 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2413394",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "F. 政治",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "中方点名，“特别是以色列”",
-          "url": "https://news.ifeng.com/c/8uO5nsiagbM",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "以色列逮捕一名美国公民：涉嫌从事间谍活动",
-          "url": "https://news.ifeng.com/c/8uOc5SgmL8Y",
-          "source": "凤凰网",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时40分"
+          "time_info": "10时30分"
         },
         {
-          "title": "美国驻印大使爆料：特朗普想早上6点给莫迪打电话",
-          "url": "https://v.ifeng.com/c/8uNtTRMWXNr",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "Decision Desk HQ预测：梅拉特·基罗斯（Melat Kiros）击败现任众议员戴安娜·德盖特（Diana DeGette），赢得美国科罗拉多州第一国会选区民主党初选。",
-          "url": "https://flash.jin10.com/detail/20260701103437420800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "埃尔多安呼吁摧毁以色列 以总理回应",
-          "url": "https://www.toutiao.com/trending/7656522365026877466/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "特朗普政府，遭全美半数州集体起诉",
-          "url": "https://news.ifeng.com/c/8uO4jG3X5zq",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "D. 半导体",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "大摩Wilson：类比白银，半导体或正在经历最后狂欢",
-          "url": "https://wallstreetcn.com/articles/3775847",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "美股收盘：三大指数齐升道指刷新高 费城半导体指数半年翻倍",
-          "url": "https://www.cls.cn/detail/2413598",
+          "title": "美联储主席沃什拒绝释放7月会议信号 但称通胀风险已降低 黄金爆拉站上4100美元",
+          "url": "https://www.cls.cn/detail/2414658",
           "source": "财联社热门",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时40分"
+          "time_info": "10时30分"
         },
         {
-          "title": "A股上半年收官！创业板涨超35%，科创50暴涨64%，算力硬件、芯片半导体全线飙涨",
-          "url": "https://wallstreetcn.com/articles/3775807",
+          "title": "越南央行副行长：随着美元走强，越南盾承压。央行将稳定外汇市场。",
+          "url": "https://flash.jin10.com/detail/20260702101702508800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时30分"
+        },
+        {
+          "title": "美股收盘：软硬件轮动费城指数暴跌6% 三大指数集体收低",
+          "url": "https://www.cls.cn/detail/2414790",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时30分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "D. 半导体",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "【早报】美联储放鹰；存储、半导体板块大跌，中概股逆势大涨；油价下跌，黄金收涨；英格兰、比利时晋级世界杯16强",
+          "url": "https://www.cls.cn/detail/2414804",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时30分"
+        },
+        {
+          "title": "半导体涨价潮蔓延至先进封装 日月光CEO：正全力以赴扩大产能",
+          "url": "https://www.cls.cn/detail/2414349",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时30分"
+        },
+        {
+          "title": "韩国半导体基板厂商：三星、SK海力士拟要求下半年降价，年初3%~4%涨幅或将撤回",
+          "url": "https://wallstreetcn.com/articles/3775950",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时30分"
+        },
+        {
+          "title": "芯片股“最大利空”终于来了？Meta会是“第一个缩减资本开支的大厂”吗？",
+          "url": "https://wallstreetcn.com/articles/3776018",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时30分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "F. 政治",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "乌克兰，更能打了？",
+          "url": "https://news.ifeng.com/c/8uPjPbPr0I2",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时30分"
+        },
+        {
+          "title": "乌克兰首都基辅传出多轮爆炸声",
+          "url": "https://news.ifeng.com/c/8uQL3DgrcK1",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时30分"
+        },
+        {
+          "title": "联合国专家组警告：AI发展速度已超越科学认知和监管能力 或带来灾难性风险",
+          "url": "https://www.cls.cn/detail/2414744",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时30分"
+        },
+        {
+          "title": "特朗普又来：绝不让中国接管巴拿马运河",
+          "url": "https://news.ifeng.com/c/8uQHApVzfAw",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时30分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "C. 电子产品",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "iPhone 18 Pro大量细节被曝光，印度合作伙伴泄密给苹果敲响哪些警钟",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33494648",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时30分"
+        },
+        {
+          "title": "怎么看待「小米辟谣」正式上线？这一举动可能会为小米带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2055340835823212244",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时30分"
+        },
+        {
+          "title": "“新汽车”上半年收官：鸿蒙智行锁定200万辆目标 小米前6月交付超18万",
+          "url": "https://www.cls.cn/detail/2414363",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时30分"
+        },
+        {
+          "title": "宝马销售抹黑小米被罚40万",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355803&amp;topic_name=%E5%AE%9D%E9%A9%AC%E9%94%80%E5%94%AE%E6%8A%B9%E9%BB%91%E5%B0%8F%E7%B1%B3%E8%A2%AB%E7%BD%9A40%E4%B8%87",
+          "source": "贴吧",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时30分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A. AI",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "SemiAnalysis创始人：推理或超越石油成全球最大市场，2040年太空数据中心将主导全球算力",
+          "url": "https://wallstreetcn.com/articles/3775923",
           "source": "华尔街见闻",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时40分"
+          "time_info": "10时30分"
         },
         {
-          "title": "A股存储芯片板块再度拉升，太极实业、时空科技双双涨停，股价均续创历史新高，亚威股份此前封板，普冉股份涨超10%，香农芯创、长电科技跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3127093",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "A股半导体芯片股继续走强，敏芯股份、格科微、中颖电子涨超10%，锴威特、富满微、东微半导等涨超6%。",
-          "url": "https://wallstreetcn.com/livenews/3127078",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "C. 电子产品",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "小米汽车6月交付超30000台",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A66%E6%9C%88%E4%BA%A4%E4%BB%98%E8%B6%8530000%E5%8F%B0%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
+          "title": "甲骨文的AI焦虑：建了数千亿数据中心，但就怕OpenAI付不起账单",
+          "url": "https://wallstreetcn.com/articles/3775976",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "小米公司：6月小米汽车交付量持续超过30000台。",
-          "url": "https://wallstreetcn.com/livenews/3127058",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
+          "time_info": "10时30分"
         }
       ]
     },
     {
-      "keyword_group": "A. AI",
+      "keyword_group": "G. 网络安全",
       "match_count": 1,
       "titles": [
         {
-          "title": "万物 Agent 的时代，拥有「手搓精神」的人都「长什么样」？",
-          "url": "https://www.zhihu.com/topic/2048772796415571841/hot",
+          "title": "小红书遭前高管举报，被指存在 VIE 信披矛盾和用工漏洞等问题，会对其 IPO 产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2055605976686751890",
           "source": "知乎",
           "ranks": [
-            11
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时40分"
+          "time_info": "10时30分"
         }
       ]
     }
