@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T10:30:33.365759+08:00",
+  "generated_at": "2026-07-03T10:05:09.027078+08:00",
   "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
@@ -8,59 +8,59 @@
       "match_count": 5,
       "titles": [
         {
-          "title": "Meta云转向引爆动量崩塌，美光重挫超10%，软件逆势走强纳指100跌1.5%",
-          "url": "https://wallstreetcn.com/articles/3775932",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时30分"
-        },
-        {
-          "title": "沃什：通胀近四周降温，AI正重塑经济，前瞻指引失去必要性",
-          "url": "https://wallstreetcn.com/articles/3775982",
+          "title": "美国6月非农新增就业5.7万人，仅为市场预期的一半，前值大幅下修，失业率意外降至一年来最低水平",
+          "url": "https://wallstreetcn.com/articles/3776083",
           "source": "华尔街见闻",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时30分"
+          "time_info": "10时05分"
         },
         {
-          "title": "美联储主席沃什拒绝释放7月会议信号 但称通胀风险已降低 黄金爆拉站上4100美元",
-          "url": "https://www.cls.cn/detail/2414658",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时30分"
-        },
-        {
-          "title": "越南央行副行长：随着美元走强，越南盾承压。央行将稳定外汇市场。",
-          "url": "https://flash.jin10.com/detail/20260702101702508800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时30分"
-        },
-        {
-          "title": "美股收盘：软硬件轮动费城指数暴跌6% 三大指数集体收低",
-          "url": "https://www.cls.cn/detail/2414790",
+          "title": "美国6月非农仅增5.7万人远逊预期 市场削减美联储加息押注",
+          "url": "https://www.cls.cn/detail/2415792",
           "source": "财联社热门",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时30分"
+          "time_info": "10时05分"
+        },
+        {
+          "title": "今晚，沃什时代首份非农出炉，世界杯或营造就业\"虚火\"",
+          "url": "https://wallstreetcn.com/articles/3776051",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "超弱美国非农助力黄金拉升 AI牛股止跌转涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2415745",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "A股贵金属板块再度拉升，赤峰黄金、招金黄金2连板，山金国际涨停，晓程科技涨超10%，四川黄金、西部黄金跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3128341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时05分"
         }
       ]
     },
@@ -69,176 +69,176 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "【早报】美联储放鹰；存储、半导体板块大跌，中概股逆势大涨；油价下跌，黄金收涨；英格兰、比利时晋级世界杯16强",
-          "url": "https://www.cls.cn/detail/2414804",
+          "title": "非农降温击碎鹰派叙事，道指新高，芯片股再重挫，纳指100盘中跌2%，黄金大涨",
+          "url": "https://wallstreetcn.com/articles/3776024",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "【早报】美股存储、半导体板块连日大跌；一批A股公司中报业绩预计大增；油价微升、黄金走强；西班牙晋级世界杯16强",
+          "url": "https://www.cls.cn/detail/2415963",
           "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时30分"
+          "time_info": "10时05分"
         },
         {
-          "title": "半导体涨价潮蔓延至先进封装 日月光CEO：正全力以赴扩大产能",
-          "url": "https://www.cls.cn/detail/2414349",
+          "title": "美股收盘：芯片股续跌闪迪重挫14% 苹果涨5%领道指刷新高",
+          "url": "https://www.cls.cn/detail/2415948",
           "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时30分"
-        },
-        {
-          "title": "韩国半导体基板厂商：三星、SK海力士拟要求下半年降价，年初3%~4%涨幅或将撤回",
-          "url": "https://wallstreetcn.com/articles/3775950",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时30分"
-        },
-        {
-          "title": "芯片股“最大利空”终于来了？Meta会是“第一个缩减资本开支的大厂”吗？",
-          "url": "https://wallstreetcn.com/articles/3776018",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时30分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "F. 政治",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "乌克兰，更能打了？",
-          "url": "https://news.ifeng.com/c/8uPjPbPr0I2",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时30分"
-        },
-        {
-          "title": "乌克兰首都基辅传出多轮爆炸声",
-          "url": "https://news.ifeng.com/c/8uQL3DgrcK1",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时30分"
-        },
-        {
-          "title": "联合国专家组警告：AI发展速度已超越科学认知和监管能力 或带来灾难性风险",
-          "url": "https://www.cls.cn/detail/2414744",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时30分"
-        },
-        {
-          "title": "特朗普又来：绝不让中国接管巴拿马运河",
-          "url": "https://news.ifeng.com/c/8uQHApVzfAw",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时30分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "C. 电子产品",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "iPhone 18 Pro大量细节被曝光，印度合作伙伴泄密给苹果敲响哪些警钟",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33494648",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时30分"
-        },
-        {
-          "title": "怎么看待「小米辟谣」正式上线？这一举动可能会为小米带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2055340835823212244",
-          "source": "知乎",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时30分"
+          "time_info": "10时05分"
         },
         {
-          "title": "“新汽车”上半年收官：鸿蒙智行锁定200万辆目标 小米前6月交付超18万",
-          "url": "https://www.cls.cn/detail/2414363",
+          "title": "创业板大跌近6%，科创50创年内最大单日跌幅，CPO领跌、存储芯片“一哥”跌停，贵金属逆势拉升",
+          "url": "https://wallstreetcn.com/articles/3776030",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A. AI",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
+          "url": "https://wallstreetcn.com/articles/3776101",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "Meta“卖算力”原因曝光？扎克伯格：AI智能体开发速度不及预期",
+          "url": "https://www.cls.cn/detail/2415999",
           "source": "财联社热门",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时30分"
+          "time_info": "10时05分"
         },
         {
-          "title": "宝马销售抹黑小米被罚40万",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355803&amp;topic_name=%E5%AE%9D%E9%A9%AC%E9%94%80%E5%94%AE%E6%8A%B9%E9%BB%91%E5%B0%8F%E7%B1%B3%E8%A2%AB%E7%BD%9A40%E4%B8%87",
-          "source": "贴吧",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时30分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A. AI",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "SemiAnalysis创始人：推理或超越石油成全球最大市场，2040年太空数据中心将主导全球算力",
-          "url": "https://wallstreetcn.com/articles/3775923",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时30分"
-        },
-        {
-          "title": "甲骨文的AI焦虑：建了数千亿数据中心，但就怕OpenAI付不起账单",
-          "url": "https://wallstreetcn.com/articles/3775976",
+          "title": "Meta收跌5%！报道：扎克伯格称Meta AI智能体开发不及预期",
+          "url": "https://wallstreetcn.com/articles/3776098",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时30分"
+          "time_info": "10时05分"
+        },
+        {
+          "title": "7 月 2 日大量网友反馈 DeepSeek 崩了，是怎么回事？",
+          "url": "https://www.zhihu.com/question/2056064893745193207",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "C. 电子产品",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "国家发改委价格监测中心副主任刘刚带队赴小米集团开展工作调研，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2056094088609390914",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "月供五百开SU7?小米拿捏年轻人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355844&amp;topic_name=%E6%9C%88%E4%BE%9B%E4%BA%94%E7%99%BE%E5%BC%80SU7%3F%E5%B0%8F%E7%B1%B3%E6%8B%BF%E6%8D%8F%E5%B9%B4%E8%BD%BB%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "港股科网股持续走强，小米集团(01810.HK)涨超5%，京东健康(06618.HK)涨超4%，阿里健康(00241.HK)、百度(09888.HK)、腾讯控股(00700.HK)等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260703093915780800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "F. 政治",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "俄军发动大规模报复：导弹击穿乌克兰居民楼",
+          "url": "https://news.ifeng.com/c/8uRHheKR3iy",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "释新闻｜创下美国总统新纪录，特朗普重返白宫首年赚了多少钱？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33501745",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "俄罗斯空袭基辅致27死91伤",
+          "url": "https://news.ifeng.com/c/8uRgDFcFX7y",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时05分"
         }
       ]
     },
@@ -247,15 +247,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "小红书遭前高管举报，被指存在 VIE 信披矛盾和用工漏洞等问题，会对其 IPO 产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2055605976686751890",
-          "source": "知乎",
+          "title": "漏洞百出,XPL被群嘲野鸡赛事",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355831&amp;topic_name=%E6%BC%8F%E6%B4%9E%E7%99%BE%E5%87%BA%2CXPL%E8%A2%AB%E7%BE%A4%E5%98%B2%E9%87%8E%E9%B8%A1%E8%B5%9B%E4%BA%8B",
+          "source": "贴吧",
           "ranks": [
-            3
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时30分"
+          "time_info": "10时05分"
         }
       ]
     }
