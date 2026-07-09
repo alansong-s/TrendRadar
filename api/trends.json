@@ -1,216 +1,199 @@
 {
-  "generated_at": "2026-07-08T09:52:45.445807+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-07-09T10:05:22.657202+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "E. 经济",
-      "match_count": 5,
+      "keyword_group": "F. 政治",
+      "match_count": 6,
       "titles": [
         {
-          "title": "【早报】美方：强力打击伊朗、终止对伊油制裁豁免；美股科技股集体跳水；原油大涨、黄金收跌；阿根廷3-2逆转埃及",
-          "url": "https://www.cls.cn/detail/2419797",
-          "source": "财联社热门",
+          "title": "特朗普：伊朗这件事上，中国赢得了美国的尊重",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时52分"
+          "time_info": "10时05分"
         },
         {
-          "title": "华尔街分析师警告：美股正形成\"双重泡沫\"，一旦破裂或引发30%-50%暴跌",
-          "url": "https://wallstreetcn.com/articles/3776359",
+          "title": "据伊朗媒体报道称，巴林当地再次发生爆炸。",
+          "url": "https://flash.jin10.com/detail/20260709095137773800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "美伊战火重燃！特朗普称谅解备忘录“已终结”，斥伊朗人是“人渣”",
+          "url": "https://wallstreetcn.com/articles/3776459",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "伊朗：将对美军袭击作出“令其后悔”的回应",
+          "url": "https://news.ifeng.com/c/8ubgRgsi7fb",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "美军又袭伊朗！特朗普威胁“今夜”再打、恢复海上封锁，后一度“降温”：美伊局势升级会很快平息",
+          "url": "https://wallstreetcn.com/articles/3776487",
           "source": "华尔街见闻",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时52分"
+          "time_info": "10时05分"
         },
         {
-          "title": "Rivian(RIVN.O)宣布普通股承销公开发行的定价，以每股15.5美元的价格发行7500万股，募集资金总额达12亿美元。",
-          "url": "https://flash.jin10.com/detail/20260708093729663800",
-          "source": "金十数据",
+          "title": "特朗普：我在伊朗的刺杀名单排第一位",
+          "url": "https://news.ifeng.com/c/8ubvs5fh8TF",
+          "source": "凤凰网",
           "ranks": [
-            4
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时52分"
-        },
-        {
-          "title": "国债期货开盘，30年期主力合约涨0.01%，10年期主力合约涨0.01%，5年期主力合约涨0.02%，2年期主力合约涨0.01%。",
-          "url": "https://wallstreetcn.com/livenews/3130281",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时52分"
-        },
-        {
-          "title": "美股收盘：AI牛股持续低迷 蓝筹股齐创新高 美伊战火推高油气板块",
-          "url": "https://www.cls.cn/detail/2419782",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时52分"
+          "time_info": "10时05分"
         }
       ]
     },
     {
-      "keyword_group": "F. 政治",
+      "keyword_group": "E. 经济",
       "match_count": 5,
       "titles": [
         {
-          "title": "霍尔木兹冲击波！美国撤销伊朗石油销售豁免，美军称开始对伊发动强力打击",
-          "url": "https://wallstreetcn.com/articles/3776409",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时52分"
-        },
-        {
-          "title": "世界杯最大爽剧！特朗普来护航也没用，比利时打烂潜规则",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33532495",
-          "source": "澎湃新闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时52分"
-        },
-        {
-          "title": "美军发动打击，伊朗多地传出爆炸声",
-          "url": "https://news.ifeng.com/c/8ua61PBRR6g",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时52分"
-        },
-        {
-          "title": "美军：开始对伊朗发动系列打击",
-          "url": "https://www.cls.cn/detail/2419769",
+          "title": "【早报】美伊再起冲突；美股科技股大反弹，中概股大涨；原油大涨，黄金、白银大跌；长鑫科技，申购日定了",
+          "url": "https://www.cls.cn/detail/2421042",
           "source": "财联社热门",
           "ranks": [
-            4
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时52分"
+          "time_info": "10时05分"
         },
         {
-          "title": "伊朗总统因美军袭击提前回国",
-          "url": "https://news.ifeng.com/c/8uaIcKZ6By5",
-          "source": "凤凰网",
+          "title": "美股收盘：特朗普一句话挽回跌势 阿里巴巴闪耀全球市场",
+          "url": "https://www.cls.cn/detail/2421032",
+          "source": "财联社热门",
           "ranks": [
-            4
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时52分"
+          "time_info": "10时05分"
+        },
+        {
+          "title": "日本40年期国债收益率上行5个基点至4.055%。",
+          "url": "https://wallstreetcn.com/livenews/3131014",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "美联储会议纪要：部分官员支持6月加息 分歧表征实为“等数据”",
+          "url": "https://www.cls.cn/detail/2420995",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "国家统计局：6月份，受国际市场价格波动影响，国内黄金饰品和汽油价格环比分别下降8.7%和4.9%，降幅比上月分别扩大5.9个和4.6个百分点，合计影响CPI环比下降约0.22个百分点，对CPI的下拉影响比上月增加约0.19个百分点。",
+          "url": "https://wallstreetcn.com/livenews/3131009",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时05分"
         }
       ]
     },
     {
       "keyword_group": "D. 半导体",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
-          "title": "美伊局势叠加三星财报，纳指100盘中跌超2%，半导体指数大跌5%，原油大涨，白银重挫",
-          "url": "https://wallstreetcn.com/articles/3776355",
+          "title": "特朗普\"开火威胁\"搅动全球市场，降温表态后美股跌幅收窄，芯片股力撑纳指收涨，中概股大涨",
+          "url": "https://wallstreetcn.com/articles/3776425",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时52分"
+          "time_info": "10时05分"
         },
         {
-          "title": "“我们没有看空英伟达”！SemiAnalysis又发小作文：“AI央行”英伟达撬动7万亿债务雪球",
-          "url": "https://wallstreetcn.com/articles/3776368",
+          "title": "韩国股市跌入技术性熊市，监管紧急开会：半导体板块过度集中加剧市场波动",
+          "url": "https://wallstreetcn.com/articles/3776441",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时52分"
+          "time_info": "10时05分"
         },
         {
-          "title": "A股半导体板块盘初拉升，灿芯股份、复旦微电涨超10%，芯原股份、瑞芯微、盛科通信跟涨。",
-          "url": "https://flash.jin10.com/detail/20260708093416551800",
+          "title": "A股存储芯片板块持续拉升，天山电子20CM涨停，中京电子此前涨停，普冉股份、有研硅、恒坤新材、商络电子、神工股份、上海新阳均涨超10%。",
+          "url": "https://flash.jin10.com/detail/20260709094600978800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "A股存储芯片板块走强，国联安科创LOF涨超5%。",
+          "url": "https://flash.jin10.com/detail/20260709094447915800",
           "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时52分"
+          "time_info": "10时05分"
         },
         {
-          "title": "港股高开高走，恒指涨1%，恒生科技指数涨超2%，半导体板块走强，华虹宏力(01347.HK)涨超5%，中芯国际(00981.HK)涨近4%。",
-          "url": "https://flash.jin10.com/detail/20260708093218206800",
-          "source": "金十数据",
+          "title": "英伟达估值跌回AI热潮前 华尔街看多热情未减",
+          "url": "https://www.cls.cn/detail/2420934",
+          "source": "财联社热门",
           "ranks": [
-            9
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "C. 电子产品",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "恒指高开0.19%，报23541.22点；恒生科技指数涨0.42%。联想集团涨超4%，小米、阿里巴巴涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3130275",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时52分"
-        },
-        {
-          "title": "小米汽车新系列",
-          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E6%96%B0%E7%B3%BB%E5%88%97&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时52分"
-        },
-        {
-          "title": "如何看待郭德纲直播称「儿子三个月不回家，让郭麒麟剧组导演跪着等自己」，父子俩到底谁在较劲？",
-          "url": "https://www.zhihu.com/question/2057250524936852697",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时52分"
+          "time_info": "10时05分"
         }
       ]
     },
@@ -219,43 +202,60 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "前华为“天才少年”公开发文称DeepSeek面试流程不规范",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33531570",
-          "source": "澎湃新闻",
+          "title": "SemiAnalysis：Anthropic三季度利润将突破10亿美元",
+          "url": "https://wallstreetcn.com/articles/3776446",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时52分"
+          "time_info": "10时05分"
         },
         {
-          "title": "DeepSeek被曝自研芯片",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E8%A2%AB%E6%9B%9D%E8%87%AA%E7%A0%94%E8%8A%AF%E7%89%87",
-          "source": "bilibili 热搜",
+          "title": "阶跃星辰将发布AI智能体手机",
+          "url": "https://wallstreetcn.com/livenews/3130994",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            30
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时52分"
+          "time_info": "10时05分"
         }
       ]
     },
     {
-      "keyword_group": "G. 网络安全",
+      "keyword_group": "B. 开源项目",
       "match_count": 1,
       "titles": [
         {
-          "title": "泳装美队被削,补丁成砍丁",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355949&amp;topic_name=%E6%B3%B3%E8%A3%85%E7%BE%8E%E9%98%9F%E8%A2%AB%E5%89%8A%2C%E8%A1%A5%E4%B8%81%E6%88%90%E7%A0%8D%E4%B8%81",
+          "title": "印度开源,华强北抢发苹果18",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355989&amp;topic_name=%E5%8D%B0%E5%BA%A6%E5%BC%80%E6%BA%90%2C%E5%8D%8E%E5%BC%BA%E5%8C%97%E6%8A%A2%E5%8F%91%E8%8B%B9%E6%9E%9C18",
           "source": "贴吧",
           "ranks": [
-            29
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时52分"
+          "time_info": "10时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "C. 电子产品",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "苹果追查 iPhone18Pro 泄密人员并下架爆料内容，此次事件暴露出苹果对产品信息管控的哪些问题？",
+          "url": "https://www.zhihu.com/question/2055448788882437948",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时05分"
         }
       ]
     }
