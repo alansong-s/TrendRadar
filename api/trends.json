@@ -1,138 +1,66 @@
 {
-  "generated_at": "2026-07-20T10:09:10.603437+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-07-21T09:51:22.527082+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "F. 政治",
-      "match_count": 6,
+      "match_count": 5,
       "titles": [
         {
-          "title": "美军对伊朗发动新一轮空袭，约旦美军基地5天遭4袭，美军两人死亡，伊朗最高领袖强调将给美国留下“刻骨铭心的教训”",
-          "url": "https://wallstreetcn.com/articles/3777329",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
-          "title": "伊朗导弹击中美军基地，火光四溅，有人大喊快撤",
-          "url": "https://news.ifeng.com/c/8utkEK9m79P",
+          "title": "伊朗公布打击多国美军基地战果",
+          "url": "https://news.ifeng.com/c/8uvTwaa2exp",
           "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时09分"
+          "time_info": "09时51分"
         },
         {
-          "title": "以军总参谋长：已做好立即恢复对伊朗作战准备",
-          "url": "https://news.ifeng.com/c/8utlf4xmVvT",
+          "title": "约旦称拦截并击落3枚自伊朗发射的导弹",
+          "url": "https://news.ifeng.com/c/8uvTwaa2evE",
           "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
-          "title": "据伊朗PressTV：伊朗伊斯兰革命卫队感谢约旦方面提供的“精确情报”，从而得以摧毁20个驻有美军的机库。",
-          "url": "https://flash.jin10.com/detail/20260720095335444800",
-          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时09分"
+          "time_info": "09时51分"
         },
         {
-          "title": "伊朗前外长建议出动地面部队，夺取美军驻中东基地",
-          "url": "https://news.ifeng.com/c/8utWHdX6JW4",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
-          "title": "美国援外大转向：特朗普要向欧洲输出“MAGA”",
-          "url": "https://news.ifeng.com/c/8utCDuus6XE",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "D. 半导体",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "本周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
-          "url": "https://wallstreetcn.com/articles/3777171",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
-          "title": "SemiAnalysis：Kimi K3的KDA机制提高注意力效率，但将需要更多的GPU、HBM、DRAM和网络，而非更少！",
-          "url": "https://wallstreetcn.com/articles/3777348",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
-          "title": "周末要闻汇总：费城半导体指数进入技术性熊市；茅台宣布涨价",
-          "url": "https://www.cls.cn/detail/2430503",
+          "title": "美伊对峙愈演愈烈？美军伤亡与日俱增，特朗普扬言要伊朗付数倍代价！",
+          "url": "https://www.cls.cn/detail/2431976",
           "source": "财联社热门",
           "ranks": [
-            7
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时09分"
+          "time_info": "09时51分"
         },
         {
-          "title": "创业板指涨超3%，沪指涨1.32%，深成指涨1.73%，油气、算力租赁、半导体芯片、CPO等方向涨幅居前，沪深京三市上涨个股超4200只。",
-          "url": "https://wallstreetcn.com/livenews/3136456",
-          "source": "华尔街见闻-快讯",
+          "title": "纽约市长威胁逮捕内塔尼亚胡，特朗普表态",
+          "url": "https://news.ifeng.com/c/8uvU7ssA8qW",
+          "source": "凤凰网",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时09分"
+          "time_info": "09时51分"
         },
         {
-          "title": "A股半导体芯片股盘初反弹，星宸科技20cm涨停，盛科通信、富瀚微涨超10%，普冉股份、银河微电、杰华特、芯导科技涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3136450",
-          "source": "华尔街见闻-快讯",
+          "title": "西班牙夺冠庆祝合影，特朗普迟迟不肯离场",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33618793",
+          "source": "澎湃新闻",
           "ranks": [
-            9
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时09分"
+          "time_info": "09时51分"
         }
       ]
     },
@@ -141,115 +69,187 @@
       "match_count": 5,
       "titles": [
         {
-          "title": "中东冲突再起，交易员直言\"所有缓冲垫都已燃尽\"，原油市场处于崩溃边缘",
-          "url": "https://wallstreetcn.com/articles/3777346",
+          "title": "【早报】美股光通信、存储板块全线走强，中概股多数上涨；油价上行、黄金微跌；三环集团、三花智控、东山精密等计划回购股份",
+          "url": "https://www.cls.cn/detail/2431956",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "对冲基金创纪录抛售美科技股！戴蒙警告市场低估风险：当前不会买股票或美债",
+          "url": "https://flash.jin10.com/detail/20260721094243314800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "美股收盘：高开低走三大指数齐收跌 光通信、存储概念整体反弹",
+          "url": "https://www.cls.cn/detail/2431934",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "凯投宏观：黄金作为对冲股市大跌的工具仍具价值",
+          "url": "https://flash.jin10.com/detail/20260721094038080800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "存储大跌是“假摔”？大摩：所谓利空都是旧的“明牌”，黄金坑逢低买！",
+          "url": "https://wallstreetcn.com/articles/3777451",
           "source": "华尔街见闻",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
-          "title": "新台币兑美元下滑至32.42，创2025年4月底以来新低。",
-          "url": "https://flash.jin10.com/detail/20260720094927952800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
-          "title": "国债期货开盘，30年期主力合约跌0.09%，10年期主力合约跌0.05%，5年期主力合约跌0.04%，2年期主力合约跌0.01%。",
-          "url": "https://wallstreetcn.com/livenews/3136446",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
-          "title": "空头狂赚！短短一个月，SpaceX市值已较峰值蒸发1万亿美元",
-          "url": "https://www.cls.cn/detail/2430432",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
-          "title": "西班牙冠军奖金5000万美元",
-          "url": "https://www.baidu.com/s?wd=%E8%A5%BF%E7%8F%AD%E7%89%99%E5%86%A0%E5%86%9B%E5%A5%96%E9%87%915000%E4%B8%87%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
+          "time_info": "09时51分"
         }
       ]
     },
     {
-      "keyword_group": "A. AI",
-      "match_count": 3,
+      "keyword_group": "D. 半导体",
+      "match_count": 4,
       "titles": [
         {
-          "title": "DeepSeek V4「满血版」曝光了！最快明天发布",
-          "url": "https://wallstreetcn.com/articles/3777339",
+          "title": "中东局势与财报季双重压力下，美股三连跌，芯片股抛售暂歇，中概收涨，油价过山车",
+          "url": "https://wallstreetcn.com/articles/3777383",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "半导体指数跌入熊市，高盛悄然转向三大替代投资主题",
+          "url": "https://wallstreetcn.com/articles/3777464",
           "source": "华尔街见闻",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时09分"
+          "time_info": "09时51分"
         },
         {
-          "title": "中国大模型首次登顶全球代码榜",
-          "url": "https://www.douyin.com/hot/2577641",
-          "source": "抖音",
+          "title": "A股半导体芯片股震荡反弹，东芯股份涨超12%，强一股份、普冉股份、华虹宏力、北京君正、臻宝科技涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3137195",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时09分"
+          "time_info": "09时51分"
         },
         {
-          "title": "《智能体服务健康发展的法治十原则》白皮书发布",
-          "url": "https://flash.jin10.com/detail/20260720094122908800",
-          "source": "金十数据",
+          "title": "更多Token、更多芯片！Kimi K3体现“杰文斯悖论”，效率提升反而增加资源消耗",
+          "url": "https://wallstreetcn.com/articles/3777389",
+          "source": "华尔街见闻",
           "ranks": [
-            18
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时09分"
+          "time_info": "09时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A. AI",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "尾盘变盘！上证50大涨超3%，“煤电酒油”爆发，科技股再度下跌，恒指、恒科指均涨超2%，AI大模型股逆势下挫",
+          "url": "https://wallstreetcn.com/articles/3777388",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "谷歌被曝正打造新型AI服务器芯片 目标大幅提升Gemini运行效率",
+          "url": "https://www.cls.cn/detail/2431896",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "报道：谷歌正在开发新款芯片，Gemini架构直接写入硅片，效率最高提升10倍",
+          "url": "https://wallstreetcn.com/articles/3777467",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "为什么豆包没有被 DeepSeek「斩杀」？",
+          "url": "https://www.zhihu.com/question/2061575313973416591",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
         }
       ]
     },
     {
       "keyword_group": "C. 电子产品",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
-          "title": "港股明星科网股走强，哔哩哔哩(09626.HK)涨超6%，阿里巴巴(09988.HK)涨超5%，快手(01024.HK)、腾讯控股(00700.HK)、小米集团(01810.HK)等个股跟涨。",
-          "url": "https://flash.jin10.com/detail/20260720093937612800",
-          "source": "金十数据",
+          "title": "夏天就要去体验激情漂流",
+          "url": "https://www.douyin.com/hot/2579061",
+          "source": "抖音",
           "ranks": [
-            23
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时09分"
+          "time_info": "09时51分"
+        },
+        {
+          "title": "小米上调手机出货目标",
+          "url": "https://flash.jin10.com/detail/20260721093928542800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
         }
       ]
     }
