@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-23T09:57:31.302704+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-24T09:53:32.145201+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
@@ -8,120 +8,59 @@
       "match_count": 5,
       "titles": [
         {
-          "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
-          "url": "https://wallstreetcn.com/articles/3777614",
+          "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
+          "url": "https://wallstreetcn.com/articles/3777754",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时57分"
+          "time_info": "09时53分"
         },
         {
-          "title": "【早报】美股AI服务器整机龙头，大涨近20%；特斯拉、谷歌披露财报；油价、黄金齐升；A股又一波公司启动增持回购",
-          "url": "https://www.cls.cn/detail/2434518",
+          "title": "【早报】美股科技赛道大跌，存储股逆市走高；油价暴涨、黄金跳水；长鑫科技下周一上市",
+          "url": "https://www.cls.cn/detail/2435717",
           "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时57分"
+          "time_info": "09时53分"
         },
         {
-          "title": "谷歌Q2自由现金流首次转负，上调全年资本开支至最高2050亿美元，云业务爆发82%增长｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3777718",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时57分"
-        },
-        {
-          "title": "美股收盘：三大指数集体收低 美伊互放狠话重燃加息预期",
-          "url": "https://www.cls.cn/detail/2434473",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时57分"
-        },
-        {
-          "title": "云积压订单超5000亿美元也难救股价？Alphabet财报会实录：巨额AI投入引分歧",
-          "url": "https://www.cls.cn/detail/2434534",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A. AI",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "OpenAI现安全事故中国大模型救场",
-          "url": "https://www.toutiao.com/trending/7664873281528512575/",
+          "title": "美股科技七巨头市值蒸发近8千亿美元",
+          "url": "https://www.toutiao.com/trending/7665870757104193078/",
           "source": "今日头条",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时57分"
+          "time_info": "09时53分"
         },
         {
-          "title": "OpenAI模型失控闯祸 中国大模型救场",
-          "url": "https://www.baidu.com/s?wd=OpenAI%E6%A8%A1%E5%9E%8B%E5%A4%B1%E6%8E%A7%E9%97%AF%E7%A5%B8+%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%95%91%E5%9C%BA",
-          "source": "百度热搜",
+          "title": "国债期货早盘开盘",
+          "url": "https://flash.jin10.com/detail/20260724093244166800",
+          "source": "金十数据",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时57分"
+          "time_info": "09时53分"
         },
         {
-          "title": "云支出目标狂飙至7500亿美元！OpenAI豪掷超300亿美元建数据中心，推出Presence平台进军企业软件市场",
-          "url": "https://wallstreetcn.com/articles/3777699",
-          "source": "华尔街见闻",
+          "title": "人民币兑美元中间价报6.7939，下调33点；上一交易日中间价6.7906，上一交易日官方收盘价6.7706，上日夜盘报收6.7777。",
+          "url": "https://wallstreetcn.com/livenews/3139155",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时57分"
-        },
-        {
-          "title": "6000亿美元→7500亿美元 OpenAI被曝大幅提高算力支出预测",
-          "url": "https://www.cls.cn/detail/2434359",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时57分"
-        },
-        {
-          "title": "谷歌电话会：警告现金流压力将持续，但\"需求仍超过投资增速\"，Gemini 4已启动训练",
-          "url": "https://wallstreetcn.com/articles/3777723",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时57分"
+          "time_info": "09时53分"
         }
       ]
     },
@@ -130,126 +69,187 @@
       "match_count": 5,
       "titles": [
         {
-          "title": "污蔑中国遭驳斥后，特朗普自曝：美国对中国“做过一些事”",
-          "url": "https://news.ifeng.com/c/8uyHXh9awI8",
-          "source": "凤凰网",
+          "title": "特朗普称“接近”决定发动“大规模攻击”，伊朗被曝为军事升级做准备、尤其地面入侵",
+          "url": "https://wallstreetcn.com/articles/3777811",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时57分"
+          "time_info": "09时53分"
         },
         {
-          "title": "特朗普：预计美联邦政府在9月将出现“停摆”",
-          "url": "https://news.ifeng.com/c/8uyvegEdrQo",
-          "source": "凤凰网",
+          "title": "美国公布新关税措施 24日生效",
+          "url": "https://www.cls.cn/detail/2435701",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
+          "title": "伊拉克与科威特边境口岸遭伊朗打击，特朗普：若再袭沙特船只，美国将施以“重大军事惩罚”",
+          "url": "https://wallstreetcn.com/articles/3777791",
+          "source": "华尔街见闻",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时57分"
+          "time_info": "09时53分"
         },
         {
-          "title": "特朗普威胁：若伊朗袭击霍尔木兹海峡船只 美方将轰炸其桥梁和发电厂",
-          "url": "https://www.cls.cn/detail/2434427",
-          "source": "财联社热门",
+          "title": "伊朗公布美军近期袭击伤亡数据",
+          "url": "https://news.ifeng.com/c/8v0yEqjepG6",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
+          "title": "伊朗称袭击美国亚马逊公司在巴林的数据基础设施，这个地方有多重要？将造成哪些影响？",
+          "url": "https://www.zhihu.com/question/2063259853338972886",
+          "source": "知乎",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时57分"
-        },
-        {
-          "title": "特朗普宣布两年后对仿制药征收 100% 关税，该举措出于什么目的？会对相关产业带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2063183942509754265",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时57分"
-        },
-        {
-          "title": "A股油服工程板块盘初拉升，中曼石油涨超9%，科力股份涨超7%，潜能恒信、通源石油、博迈科、石化油服、海油工程等个股跟涨。特朗普此前在社交媒体发文称，只要伊朗在霍尔木兹海峡向船只开火，美国都将轰炸并摧毁伊朗的一座桥梁或发电厂。",
-          "url": "https://flash.jin10.com/detail/20260723093244752800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时57分"
+          "time_info": "09时53分"
         }
       ]
     },
     {
       "keyword_group": "D. 半导体",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
-          "title": "特斯拉电话会：马斯克称正进行“二战以来美国最快的工业规模扩张”，获美光存储芯片“超级配额”",
-          "url": "https://wallstreetcn.com/articles/3777724",
+          "title": "AI需求引爆十五年最强增长，英特尔Q2营收增25%大超预期，指引保持高增，盘后拉涨丨财报见闻",
+          "url": "https://wallstreetcn.com/articles/3777819",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
+          "title": "A股三大股指震荡收涨，锂矿、电网爆发，科创50跌近4%，半导体产业链齐跌，恒指涨超1%，科网股普涨",
+          "url": "https://wallstreetcn.com/articles/3777740",
           "source": "华尔街见闻",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时57分"
+          "time_info": "09时53分"
         },
         {
-          "title": "媒体实探英伟达Rubin：数十家客户已拿到测试机架，生产过程比Blackwell顺利，预计明年放量",
-          "url": "https://wallstreetcn.com/articles/3777631",
-          "source": "华尔街见闻",
+          "title": "A股开盘，沪指开跌0.60%，深证成指开跌1.47%，创业板指开跌1.68%；油服工程、燃气板块走强，贵金属、MLCC、CPO、存储芯片、PCB等板块低开。",
+          "url": "https://flash.jin10.com/detail/20260724092540841800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
+          "title": "英特尔分析师电话会要点总结",
+          "url": "https://wallstreetcn.com/livenews/3139152",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
+          "title": "英伟达与Amkor签署价值15亿美元的芯片封装协议",
+          "url": "https://wallstreetcn.com/livenews/3139136",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A. AI",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "曝梁文锋称 DeepSeek「没有组织」，每个人有一半时间完全自由、没有 KPI，怎样看待这种企业文化？",
+          "url": "https://www.zhihu.com/question/2063657419020792636",
+          "source": "知乎",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时57分"
+          "time_info": "09时53分"
         },
         {
-          "title": "沃特股份：公司PTFE产品已成功进入全球主流半导体设备厂商等供应链",
-          "url": "https://flash.jin10.com/detail/20260723094014308800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时57分"
-        },
-        {
-          "title": "中国“芯片刻刀”终于出鞘",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E2%80%9C%E8%8A%AF%E7%89%87%E5%88%BB%E5%88%80%E2%80%9D%E7%BB%88%E4%BA%8E%E5%87%BA%E9%9E%98",
-          "source": "百度热搜",
+          "title": "训练Gemini 4太烧钱！巴克莱测算：谷歌将连续两年自由现金流为负",
+          "url": "https://wallstreetcn.com/articles/3777753",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时57分"
+          "time_info": "09时53分"
+        },
+        {
+          "title": "梁文锋称商业化是 DeepSeek 副产品，先做 AGI 突破，商业化水到渠成，如何理解？眼下该模式跑得通吗？",
+          "url": "https://www.zhihu.com/question/2063622655547110211",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时53分"
         }
       ]
     },
     {
       "keyword_group": "C. 电子产品",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
-          "title": "iPhone18系列已量产",
-          "url": "https://www.douyin.com/hot/2580964",
-          "source": "抖音",
+          "title": "任正非：韬定律是华为唯一突围道路",
+          "url": "https://wallstreetcn.com/livenews/3139154",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时57分"
+          "time_info": "09时53分"
+        },
+        {
+          "title": "梁文锋称华为芯片一年内平替英伟达",
+          "url": "https://s.weibo.com/weibo?q=%E6%A2%81%E6%96%87%E9%94%8B%E7%A7%B0%E5%8D%8E%E4%B8%BA%E8%8A%AF%E7%89%87%E4%B8%80%E5%B9%B4%E5%86%85%E5%B9%B3%E6%9B%BF%E8%8B%B1%E4%BC%9F%E8%BE%BE&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时53分"
         }
       ]
     }
