@@ -1,105 +1,138 @@
 {
-  "generated_at": "2026-08-07T10:11:12.066028+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-08-08T08:59:14.417174+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "E. 经济",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
-          "title": "【早报】特朗普：对多晶硅及其衍生产品加征关税；美存储股再遭重挫；原油走强、黄金微跌；宇树科技发行价定了",
-          "url": "https://www.cls.cn/detail/2447939",
-          "source": "财联社热门",
+          "title": "爆冷！美国7月非农就业人数意外减少2.3万，前两月就业下修10.3万人",
+          "url": "https://wallstreetcn.com/articles/3778959",
+          "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时11分"
+          "time_info": "08时59分"
         },
         {
-          "title": "报道：若未来几周通胀数据强劲，沃什将准备在9月加息",
-          "url": "https://wallstreetcn.com/articles/3778865",
+          "title": "非农爆冷打击加息预期，标普道指收创新高，本周美油跌近8%、期金反弹超7%",
+          "url": "https://wallstreetcn.com/articles/3778924",
           "source": "华尔街见闻",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时11分"
+          "time_info": "08时59分"
         },
         {
-          "title": "美股收盘：三大股指小幅收跌 投资者关注中东谈判与企业财报",
-          "url": "https://www.cls.cn/detail/2447905",
+          "title": "美国就业市场意外“熄火”：7月非农负增长 劳动参与率跌至5年来新低",
+          "url": "https://www.cls.cn/detail/2448836",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "美国国务院：美国与国会合作，计划宣布向哥伦比亚提供10亿美元的安全援助。",
+          "url": "https://flash.jin10.com/detail/20260808083739753800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "今晚美国非农大考，“弱7月”魔咒会重演吗？此前三年均不及预期",
+          "url": "https://wallstreetcn.com/articles/3778928",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
+          "url": "https://www.cls.cn/detail/2448974",
           "source": "财联社热门",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
-          "title": "美联储鹰风四起！沃什被曝为9月加息敞开大门 承认存在沟通失误",
-          "url": "https://www.cls.cn/detail/2447969",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
+          "time_info": "08时59分"
         }
       ]
     },
     {
       "keyword_group": "F. 政治",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
-          "title": "特朗普签署行政令，宣布加征关税",
-          "url": "https://news.ifeng.com/c/8vNvJb617ek",
+          "title": "伊朗最高领袖给总统下了“最后警告”？",
+          "url": "https://news.ifeng.com/c/8vOzr19CfFi",
           "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时11分"
+          "time_info": "08时59分"
         },
         {
-          "title": "美宣布对多晶硅加征关税",
-          "url": "https://www.toutiao.com/trending/7671077189005250057/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
-          "title": "特朗普再称对伊朗战争将很快结束",
-          "url": "https://wallstreetcn.com/livenews/3146368",
-          "source": "华尔街见闻-快讯",
+          "title": "涉及白宫宴会厅项目，特朗普称将提起上诉",
+          "url": "https://news.ifeng.com/c/8vPP6fsrHNx",
+          "source": "凤凰网",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时11分"
+          "time_info": "08时59分"
         },
         {
-          "title": "“向特朗普同志致敬！”美国超级抹红大赛开始了",
-          "url": "https://news.ifeng.com/c/8vO9rqQQ3tN",
+          "title": "中期选举临近，特朗普连续21场败诉",
+          "url": "https://news.ifeng.com/c/8vP8prEgTBk",
           "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "目击者称，乌克兰首都基辅传出多声强烈爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260808082252663800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时11分"
+          "time_info": "08时59分"
+        },
+        {
+          "title": "伊朗官员称防务协议无法保障沙特安全",
+          "url": "https://wallstreetcn.com/livenews/3146940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时59分"
         }
       ]
     },
@@ -108,48 +141,48 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "宇树科技IPO定价150.8元，DeepSeek、腾讯等获战略配售",
-          "url": "https://wallstreetcn.com/articles/3778857",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
-          "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33728016",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
-          "title": "为什么 Jeff Dean 从 Google 离职引起这么大的轰动？",
-          "url": "https://www.zhihu.com/question/2068631767326660517",
-          "source": "知乎",
+          "title": "OpenAI首席执行官Altman称：正推进Astra全面开放使用。",
+          "url": "https://wallstreetcn.com/livenews/3146942",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时11分"
+          "time_info": "08时59分"
         },
         {
-          "title": "沪指冲高回落涨0.6%，煤炭掀涨停潮，贵金属集体大涨，半导体材料再拉升，恒科指跌超2%，AI大模型双雄逆势拉升",
-          "url": "https://wallstreetcn.com/articles/3778805",
-          "source": "华尔街见闻",
+          "title": "网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午，是真的吗？为什么会出现这样的现象？",
+          "url": "https://www.zhihu.com/question/2068108635620774765",
+          "source": "知乎",
           "ranks": [
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时11分"
+          "time_info": "08时59分"
+        },
+        {
+          "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33739348",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "核心团队跑路,Gemini陷大危机",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356949&amp;topic_name=%E6%A0%B8%E5%BF%83%E5%9B%A2%E9%98%9F%E8%B7%91%E8%B7%AF%2CGemini%E9%99%B7%E5%A4%A7%E5%8D%B1%E6%9C%BA",
+          "source": "贴吧",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时59分"
         }
       ]
     },
@@ -158,104 +191,65 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
-          "url": "https://wallstreetcn.com/articles/3778821",
+          "title": "曝英伟达研发固态硬盘当额外显存技术",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%9D%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%A0%94%E5%8F%91%E5%9B%BA%E6%80%81%E7%A1%AC%E7%9B%98%E5%BD%93%E9%A2%9D%E5%A4%96%E6%98%BE%E5%AD%98%E6%8A%80%E6%9C%AF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "中国7月出口同比增23.9%，半导体出口按价值计算同比近乎翻番，进口同比增27.5%",
+          "url": "https://wallstreetcn.com/articles/3778914",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时11分"
+          "time_info": "08时59分"
         },
         {
-          "title": "存储芯片成本压力开始释放！余承东称所有手机都要大规模涨价，否则就是亏损销售",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33728067",
-          "source": "澎湃新闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
-          "title": "英伟达急寻中国AI基站供应商，明后年启动端侧算力组网",
-          "url": "https://wallstreetcn.com/articles/3778824",
+          "title": "美光管理层传递强势信号：存储的系统价值超过50%，CPU端AI代理需求处于“季前热身”",
+          "url": "https://wallstreetcn.com/articles/3778904",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时11分"
+          "time_info": "08时59分"
         },
         {
-          "title": "A股存储芯片板块盘初拉升，沃格光电涨超9%，有研新材、红板科技、国科微涨超8%，光力科技、正帆科技、生益科技跟涨。",
-          "url": "https://flash.jin10.com/detail/20260807093827796800",
-          "source": "金十数据",
+          "title": "我们真的能在太空造芯片吗",
+          "url": "https://www.toutiao.com/trending/7671098416675602470/",
+          "source": "今日头条",
           "ranks": [
-            10
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时11分"
+          "time_info": "08时59分"
         }
       ]
     },
     {
       "keyword_group": "C. 电子产品",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "报道：苹果紧急抢购DRAM内存，距iPhone 18发布仅剩几周",
-          "url": "https://wallstreetcn.com/articles/3778845",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
-          "title": "小米徐洁云就「孩 Go」言论回应，称有用户宠物名叫「孩 Go」，如何评价其这一解释？",
-          "url": "https://www.zhihu.com/question/2068733400928753119",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
-          "title": "多家手机品牌回应将大规模涨价，OPPO 、荣耀、小米等部分机型已上调价格，如何看待此次手机涨价潮？",
-          "url": "https://www.zhihu.com/question/2068727171682718365",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "G. 网络安全",
       "match_count": 1,
       "titles": [
         {
-          "title": "女子利用漏洞0元薅走3000多件家电",
-          "url": "https://www.toutiao.com/trending/7670546861320732713/",
-          "source": "今日头条",
+          "title": "柴西洛杉矶自驾体验落日飞车",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9F%B4%E8%A5%BF%E6%B4%9B%E6%9D%89%E7%9F%B6%E8%87%AA%E9%A9%BE%E4%BD%93%E9%AA%8C%E8%90%BD%E6%97%A5%E9%A3%9E%E8%BD%A6",
+          "source": "bilibili 热搜",
           "ranks": [
-            21
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时11分"
+          "time_info": "08时59分"
         }
       ]
     }
